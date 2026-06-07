@@ -1,0 +1,16 @@
+{
+  "publishedAt": "2026-06-07T14:27:13.792Z",
+  "source": "emissionfactor",
+  "csv": "EF_output_2026-06-07.csv",
+  "report": "report_2026-06-07.json",
+  "hasUpdates": true,
+  "attachments": [
+    {
+      "resourceId": "4",
+      "country": "日本",
+      "filename": "ichiran_2025.pdf",
+      "path": "attachments/4_日本/ichiran_2025.pdf",
+      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf"
+    }
+  ]
+}

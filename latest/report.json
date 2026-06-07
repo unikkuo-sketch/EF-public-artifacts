@@ -1,0 +1,83 @@
+{
+  "runAt": "2026-06-07T14:27:08.688Z",
+  "biweeklySlot": false,
+  "skippedBiweekly": false,
+  "hasUpdates": true,
+  "needsReviewCount": 0,
+  "discoveryAlertCount": 0,
+  "results": [
+    {
+      "resource": {
+        "id": "4",
+        "continent": "亞洲",
+        "region": "東亞",
+        "country": "日本",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/calc.html",
+        "currentDataYear": "2024"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "bf5473cbd55338a3",
+        "html": "[28888 bytes omitted]",
+        "detectedDataYear": null,
+        "detectedFactor": 0.024,
+        "announcementYear": 2026,
+        "sourceOrg": "Ministry of the Environment, Government of Japan",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "日本國家電力係數-2024年",
+          "displayNameEn": "Japan Electricity-2024",
+          "emissionFactor": "0.024",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Ministry of the Environment, Government of Japan",
+          "regionCode": "JP",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自Ministry of the Environment, Government of Japan公告之日本國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Ministry of the Environment, Government of Japan in Japan.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "discovery": {
+        "url": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
+        "title": "算定方法及び排出係数一覧（PDF:1.0MB）",
+        "method": "gov_portal_scan",
+        "contentHash": "bf5473cbd55338a3"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "4",
+          "country": "日本",
+          "filename": "ichiran_2025.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-07/4_日本/ichiran_2025.pdf",
+          "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
+          "format": "pdf"
+        }
+      ]
+    }
+  ],
+  "resourceYearChanges": [],
+  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-07.csv",
+  "reportFile": null,
+  "attachmentFiles": [
+    {
+      "resourceId": "4",
+      "country": "日本",
+      "filename": "ichiran_2025.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-07/4_日本/ichiran_2025.pdf",
+      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
+      "format": "pdf"
+    }
+  ]
+}
