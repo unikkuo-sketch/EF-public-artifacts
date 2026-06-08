@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-06-08T02:10:28.120Z",
+  "runAt": "2026-06-08T02:46:04.844Z",
   "biweeklySlot": false,
   "skippedBiweekly": false,
   "hasUpdates": true,
@@ -8,60 +8,60 @@
   "results": [
     {
       "resource": {
-        "id": "4",
+        "id": "1",
         "continent": "亞洲",
         "region": "東亞",
-        "country": "日本",
-        "hasRegionalSplit": false,
-        "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/calc.html",
-        "currentDataYear": "2026"
+        "country": "台灣",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
+        "currentDataYear": "2025"
       },
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "970ae6b257696b1a",
-        "html": "[55722 bytes omitted]",
-        "detectedDataYear": "2026",
-        "detectedFactor": 0.423,
-        "announcementYear": 2026,
-        "sourceOrg": "Ministry of the Environment, Government of Japan",
+        "contentHash": "eff8094bce449837",
+        "html": "[70973 bytes omitted]",
+        "detectedDataYear": "2025",
+        "detectedFactor": 0.471,
+        "announcementYear": 2025,
+        "sourceOrg": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
         "confidence": "high"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "日本國家電力係數-2026年",
-          "displayNameEn": "Japan Electricity-2026",
-          "emissionFactor": "0.423",
+          "displayNameZh": "台灣國家電力係數-2025年",
+          "displayNameEn": "Taiwan Electricity-2025",
+          "emissionFactor": "0.471",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2026",
-          "source": "Ministry of the Environment, Government of Japan",
-          "regionCode": "JP",
+          "announcementYear": "2025",
+          "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
+          "regionCode": "TW",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2026/1/1",
-          "inventoryEnd": "2026/12/31",
-          "techDescZh": "取自Ministry of the Environment, Government of Japan公告之日本國家電力係數",
-          "techDescEn": "Derived from the national electricity emission factor published by Ministry of the Environment, Government of Japan in Japan.",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Bureau of Energy, Ministry of Economic Affairs (Taiwan)公告之台灣國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Bureau of Energy, Ministry of Economic Affairs (Taiwan) in Taiwan.",
           "exclusions": "",
           "notes": ""
         }
       ],
       "resourceYearUpdate": null,
       "discovery": {
-        "url": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
-        "title": "令和８年提出用（PDF:368KB）",
-        "method": "gov_portal_pdf",
-        "contentHash": "970ae6b257696b1a"
+        "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
+        "title": "Resource CSV seed URL",
+        "method": "resource_seed",
+        "contentHash": "eff8094bce449837"
       },
       "savedAttachments": [
         {
-          "resourceId": "4",
-          "country": "日本",
-          "filename": "r08_denki_coefficient_rev2.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/r08_denki_coefficient_rev2.pdf",
-          "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+          "resourceId": "1",
+          "country": "台灣",
+          "filename": "114年度電力排碳係數.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/1_台灣/114年度電力排碳係數.pdf",
+          "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
           "format": "pdf"
         }
       ]
@@ -72,11 +72,11 @@
   "reportFile": null,
   "attachmentFiles": [
     {
-      "resourceId": "4",
-      "country": "日本",
-      "filename": "r08_denki_coefficient_rev2.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/r08_denki_coefficient_rev2.pdf",
-      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+      "resourceId": "1",
+      "country": "台灣",
+      "filename": "114年度電力排碳係數.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/1_台灣/114年度電力排碳係數.pdf",
+      "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
       "format": "pdf"
     }
   ]

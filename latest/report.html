@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>排放係數檢查 — 待審</title>
+  <style>
+:root {
+  --bg: #eef1f6;
+  --text: #1a1a1a;
+  --muted: #64748b;
+  --header-from: #1e3a6e;
+  --header-to: #2d5aa8;
+  --surface: #ffffff;
+  --border: #e4e4e7;
+  --link: #2d5aa8;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+header {
+  background: linear-gradient(to right, var(--header-from), var(--header-to));
+  color: #fff;
+}
+.header-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+header h1 {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+header .meta {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: rgba(255,255,255,0.85);
+}
+header .meta span + span::before {
+  content: "•";
+  margin: 0 0.5rem;
+  color: rgba(255,255,255,0.5);
+}
+nav {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+.nav-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+}
+.tab {
+  flex-shrink: 0;
+  margin-bottom: -1px;
+  padding: 0.875rem 0;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+.tab:hover { color: #3f3f46; }
+.tab.active {
+  border-bottom-color: var(--link);
+  color: #1e3a6e;
+  font-weight: 500;
+}
+.tab .count { color: #a1a1aa; margin-left: 0.25rem; }
+main {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.panel { display: none; }
+.panel.active { display: block; }
+.stack > * + * { margin-top: 1rem; }
+.card {
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--surface);
+  padding: 1.25rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.card-discovery { border-color: #fed7aa; }
+.card-year { border-color: #fde68a; }
+.card-label {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+.card-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+.card-head h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.summary-grid, .discovery-grid {
+  display: grid;
+  gap: 0.75rem 1.5rem;
+  margin: 1rem 0 0;
+  font-size: 0.875rem;
+}
+@media (min-width: 640px) {
+  .summary-grid, .discovery-grid { grid-template-columns: repeat(2, 1fr); }
+  .discovery-grid { grid-template-columns: repeat(3, 1fr); }
+}
+.summary-grid .span-2 { grid-column: 1 / -1; }
+.summary-grid dt, .discovery-grid dt { color: var(--muted); margin: 0; }
+.summary-grid dd, .discovery-grid dd { margin: 0.125rem 0 0; font-weight: 500; }
+.badge {
+  display: inline-flex;
+  border-radius: 9999px;
+  padding: 0.125rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border: 1px solid transparent;
+}
+.badge-auto { background: #ecfdf5; color: #047857; border-color: #a7f3d0; }
+.badge-review { background: #fffbeb; color: #92400e; border-color: #fde68a; }
+.badge-discovery { background: #fff7ed; color: #9a3412; border-color: #fed7aa; }
+.badge-failed { background: #fef2f2; color: #b91c1c; border-color: #fecaca; }
+.badge-muted { background: #f4f4f5; color: #52525b; border-color: #e4e4e7; }
+.badge-year { background: #fffbeb; color: #92400e; border-color: #fde68a; }
+.hint { font-size: 0.75rem; color: var(--muted); }
+.muted { margin: 0.5rem 0 0; font-size: 0.875rem; color: #52525b; }
+.mt { margin: 0.75rem 0 0; font-size: 0.875rem; }
+.link { color: var(--link); text-decoration: none; }
+.link:hover { text-decoration: underline; }
+.mono { font-family: ui-monospace, monospace; font-size: 0.75rem; }
+.empty {
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.empty p { margin: 0; font-size: 0.875rem; color: #a1a1aa; }
+.table-wrap {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  background: var(--surface);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+table { width: 100%; border-collapse: collapse; font-size: 0.875rem; text-align: left; }
+thead { background: rgba(250,250,250,0.8); border-bottom: 1px solid #f4f4f5; }
+th, td { padding: 0.75rem 1rem; }
+tbody tr + tr { border-top: 1px solid #f4f4f5; }
+tbody tr:hover { background: rgba(250,250,250,0.5); }
+th { font-weight: 500; color: var(--muted); }
+.country { font-weight: 500; }
+.note { color: var(--muted); }
+.attach-list { margin: 0.75rem 0 0; padding-left: 1.25rem; font-size: 0.875rem; }
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #d4d4d8;
+}
+@media (max-width: 639px) {
+  .note-col, .note { display: none; }
+}
+</style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>排放係數檢查 — 待審</h1>
+      <p class="meta"><span>執行日 2026/06/08</span><span>監測 1 國</span><span>需關注 1 則</span></p>
+    </div>
+  </header>
+  <nav>
+    <div class="nav-inner"><button type="button" class="tab active" data-tab="all">全部<span class="count">(1)</span></button>
+<button type="button" class="tab" data-tab="discovery">待確認更新</button>
+<button type="button" class="tab" data-tab="year">年分同步</button>
+<button type="button" class="tab" data-tab="status">各國狀態<span class="count">(1)</span></button></div>
+  </nav>
+  <main>
+    <div id="panel-all" class="panel active"><div class="stack"><article class="card">
+  <h2 class="card-label">執行摘要</h2>
+  <dl class="summary-grid">
+    <div><dt>執行時間</dt><dd>2026/06/08</dd></div>
+    <div><dt>有更新</dt><dd>是</dd></div>
+    <div><dt>待審項目</dt><dd>0 則</dd></div>
+    <div><dt>待確認更新</dt><dd>0 則</dd></div>
+    <div class="span-2"><dt>產出 CSV</dt><dd><a class="link mono" href="EF_output.csv">EF_output.csv</a></dd></div>
+  </dl>
+</article><article class="card">
+  <div class="card-head">
+    <h3>台灣</h3>
+    <span class="badge badge-auto">自動通過</span>
+    <span class="hint">有更新</span>
+  </div>
+  
+  <p class="mt"><a class="link" href="https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
+</article></div></div>
+    <div id="panel-discovery" class="panel"><div class="empty"><p>尚無待確認更新</p></div></div>
+    <div id="panel-year" class="panel"><div class="empty"><p>本次未同步 Resource 年分</p></div></div>
+    <div id="panel-status" class="panel"><div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>國家</th>
+        <th>狀態</th>
+        <th>更新</th>
+        <th class="note-col">備註</th>
+      </tr>
+    </thead>
+    <tbody><tr>
+  <td class="country">台灣</td>
+  <td><span class="badge badge-auto">自動通過</span></td>
+  <td>是</td>
+  <td class="note">—</td>
+</tr></tbody>
+  </table>
+</div></div>
+    <div class="stack" style="margin-top:1rem"><article class="card">
+  <h2 class="card-label">來源附件（有更新）</h2>
+  <ul class="attach-list"><li><a class="link" href="attachments/1_台灣/114年度電力排碳係數.pdf" target="_blank" rel="noopener noreferrer">台灣 — 114年度電力排碳係數.pdf</a></li></ul>
+</article></div>
+    <footer>Emission Factor Monitor</footer>
+  </main>
+  <script>
+document.querySelectorAll(".tab").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const id = btn.getAttribute("data-tab");
+    document.querySelectorAll(".tab").forEach((b) => b.classList.remove("active"));
+    document.querySelectorAll(".panel").forEach((p) => p.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById("panel-" + id)?.classList.add("active");
+  });
+});
+</script>
+</body>
+</html>

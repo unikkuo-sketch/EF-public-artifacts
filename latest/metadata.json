@@ -1,16 +1,17 @@
 {
-  "publishedAt": "2026-06-08T02:10:32.631Z",
+  "publishedAt": "2026-06-08T02:46:09.862Z",
   "source": "emissionfactor",
   "csv": "EF_output_2026-06-08.csv",
   "report": "report_2026-06-08.json",
+  "reportHtml": "report.html",
   "hasUpdates": true,
   "attachments": [
     {
-      "resourceId": "4",
-      "country": "日本",
-      "filename": "r08_denki_coefficient_rev2.pdf",
-      "path": "attachments/4_日本/r08_denki_coefficient_rev2.pdf",
-      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf"
+      "resourceId": "1",
+      "country": "台灣",
+      "filename": "114年度電力排碳係數.pdf",
+      "path": "attachments/1_台灣/114年度電力排碳係數.pdf",
+      "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083"
     }
   ]
 }
