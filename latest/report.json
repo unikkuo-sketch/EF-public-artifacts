@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-06-07T14:27:08.688Z",
+  "runAt": "2026-06-08T01:54:57.474Z",
   "biweeklySlot": false,
   "skippedBiweekly": false,
   "hasUpdates": true,
@@ -60,7 +60,7 @@
           "resourceId": "4",
           "country": "日本",
           "filename": "ichiran_2025.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-07/4_日本/ichiran_2025.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/ichiran_2025.pdf",
           "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
           "format": "pdf"
         }
@@ -68,14 +68,14 @@
     }
   ],
   "resourceYearChanges": [],
-  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-07.csv",
+  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-08.csv",
   "reportFile": null,
   "attachmentFiles": [
     {
       "resourceId": "4",
       "country": "日本",
       "filename": "ichiran_2025.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-07/4_日本/ichiran_2025.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/ichiran_2025.pdf",
       "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
       "format": "pdf"
     }
