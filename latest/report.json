@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-06-08T01:54:57.474Z",
+  "runAt": "2026-06-08T02:10:28.120Z",
   "biweeklySlot": false,
   "skippedBiweekly": false,
   "hasUpdates": true,
@@ -14,15 +14,15 @@
         "country": "日本",
         "hasRegionalSplit": false,
         "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/calc.html",
-        "currentDataYear": "2024"
+        "currentDataYear": "2026"
       },
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "bf5473cbd55338a3",
-        "html": "[28888 bytes omitted]",
-        "detectedDataYear": null,
-        "detectedFactor": 0.024,
+        "contentHash": "970ae6b257696b1a",
+        "html": "[55722 bytes omitted]",
+        "detectedDataYear": "2026",
+        "detectedFactor": 0.423,
         "announcementYear": 2026,
         "sourceOrg": "Ministry of the Environment, Government of Japan",
         "confidence": "high"
@@ -31,17 +31,17 @@
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "日本國家電力係數-2024年",
-          "displayNameEn": "Japan Electricity-2024",
-          "emissionFactor": "0.024",
+          "displayNameZh": "日本國家電力係數-2026年",
+          "displayNameEn": "Japan Electricity-2026",
+          "emissionFactor": "0.423",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2026",
           "source": "Ministry of the Environment, Government of Japan",
           "regionCode": "JP",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2024/1/1",
-          "inventoryEnd": "2024/12/31",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
           "techDescZh": "取自Ministry of the Environment, Government of Japan公告之日本國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Ministry of the Environment, Government of Japan in Japan.",
           "exclusions": "",
@@ -50,18 +50,18 @@
       ],
       "resourceYearUpdate": null,
       "discovery": {
-        "url": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
-        "title": "算定方法及び排出係数一覧（PDF:1.0MB）",
-        "method": "gov_portal_scan",
-        "contentHash": "bf5473cbd55338a3"
+        "url": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+        "title": "令和８年提出用（PDF:368KB）",
+        "method": "gov_portal_pdf",
+        "contentHash": "970ae6b257696b1a"
       },
       "savedAttachments": [
         {
           "resourceId": "4",
           "country": "日本",
-          "filename": "ichiran_2025.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/ichiran_2025.pdf",
-          "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
+          "filename": "r08_denki_coefficient_rev2.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/r08_denki_coefficient_rev2.pdf",
+          "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
           "format": "pdf"
         }
       ]
@@ -74,9 +74,9 @@
     {
       "resourceId": "4",
       "country": "日本",
-      "filename": "ichiran_2025.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/ichiran_2025.pdf",
-      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/ichiran_2025.pdf",
+      "filename": "r08_denki_coefficient_rev2.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/4_日本/r08_denki_coefficient_rev2.pdf",
+      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
       "format": "pdf"
     }
   ]
