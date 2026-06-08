@@ -1,5 +1,5 @@
 {
-  "runAt": "2026-06-08T02:59:35.449Z",
+  "runAt": "2026-06-08T05:23:16.167Z",
   "biweeklySlot": false,
   "skippedBiweekly": false,
   "hasUpdates": true,
@@ -19,20 +19,59 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "4dca33b76d8bbcb7",
+        "contentHash": "5cec4a432e7a75ac",
         "html": "[70973 bytes omitted]",
         "detectedDataYear": "2025",
-        "detectedFactor": 0.471,
+        "detectedFactor": 0.467,
         "announcementYear": 2025,
         "sourceOrg": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
-        "confidence": "high"
+        "confidence": "high",
+        "message": "解析 3 種電力排碳係數"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "台灣國家電力係數-2025年",
-          "displayNameEn": "Taiwan Electricity-2025",
+          "displayNameZh": "台灣公用售電業總銷售電力係數-2025年",
+          "displayNameEn": "Taiwan utility sales electricity-2025",
+          "emissionFactor": "0.467",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
+          "regionCode": "TW",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Bureau of Energy, Ministry of Economic Affairs (Taiwan)公告之台灣公用售電業總銷售電力係數",
+          "techDescEn": "Derived from the utility sales electricity emission factor published by Bureau of Energy, Ministry of Economic Affairs (Taiwan) in Taiwan.",
+          "exclusions": "",
+          "notes": "適用於檢視公用售電業整體銷售電量之平均電力排碳情形。"
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "台灣產業盤查電力係數-2025年",
+          "displayNameEn": "Taiwan industry inventory electricity-2025",
+          "emissionFactor": "0.466",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
+          "regionCode": "TW",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Bureau of Energy, Ministry of Economic Affairs (Taiwan)公告之台灣產業盤查電力係數",
+          "techDescEn": "Derived from the industry inventory electricity emission factor published by Bureau of Energy, Ministry of Economic Affairs (Taiwan) in Taiwan.",
+          "exclusions": "",
+          "notes": "適用表燈營業、低壓電力、高壓電力、特高壓電力用戶。"
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "台灣民生非營業電力係數-2025年",
+          "displayNameEn": "Taiwan residential non-business electricity-2025",
           "emissionFactor": "0.471",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
@@ -42,18 +81,19 @@
           "lifecycleScope": "大門到大門",
           "inventoryStart": "2025/1/1",
           "inventoryEnd": "2025/12/31",
-          "techDescZh": "取自Bureau of Energy, Ministry of Economic Affairs (Taiwan)公告之台灣國家電力係數",
-          "techDescEn": "Derived from the national electricity emission factor published by Bureau of Energy, Ministry of Economic Affairs (Taiwan) in Taiwan.",
+          "techDescZh": "取自Bureau of Energy, Ministry of Economic Affairs (Taiwan)公告之台灣民生非營業電力係數",
+          "techDescEn": "Derived from the residential non-business electricity emission factor published by Bureau of Energy, Ministry of Economic Affairs (Taiwan) in Taiwan.",
           "exclusions": "",
-          "notes": ""
+          "notes": "適用表燈非營業、包燈用戶。"
         }
       ],
       "resourceYearUpdate": null,
+      "message": "解析 3 種電力排碳係數",
       "discovery": {
         "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
         "title": "Resource CSV seed URL",
         "method": "resource_seed",
-        "contentHash": "4dca33b76d8bbcb7"
+        "contentHash": "5cec4a432e7a75ac"
       },
       "savedAttachments": [
         {
