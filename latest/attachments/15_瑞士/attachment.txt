@@ -1,0 +1,189 @@
+<!-- direct-download https://www.strom.ch/de/media/15760/download -->
+
+<!-- attachments from https://www.strom.ch/de/media/15760/download -->
+<!-- attachment url="https://www.strom.ch/de/media/15760/download" format="pdf" structured="true" filename="attachment.pdf" -->
+CO2-Gehalt des Strommix
+Schweiz bis 2050
+Ergebnisse 2026, Methodik und Datengrundlage
+
+-- 1 of 10 --
+
+Ergebnisse 2026
+Treibhausgas-Emissionsfaktor Strommix Schweiz 2016-2025
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	2
+Der Treibhausgas-Emissionsfaktor (THG-EF) des
+Verbraucherstrommix Schweiz (location-based) ist von
+über 180 gCO2,eq/kWh Mitte der 2010er Jahre bis auf
+57 g CO2,eq/kWh im Jahr 2024 gesunken. Im Jahr 2025
+stieg der THG-EF auf 90 gCO2,eq/kWh.
+Der THG-EF setzt sich massgeblich durch die
+Emissionen des Importstroms aus den europäischen
+Nachbarländern zusammen (blau), wobei ein
+abnehmender Trend erkennbar ist. Haupttreiber dieser
+Entwicklung sind der sinkende Einsatz fossiler
+Energieträger in den Nachbarländern sowie der
+fortschreitende Ausbau erneuerbarer Energien.
+’ vgl. Folie 3
+Die relativ grossen Abweichungen vom generellen
+Abnahmetrend der THG-EF seit 2016 können mit dem
+Anteil und der Zusammensetzung des Importstroms
+erklärt werden. Diese Faktoren unterliegen jährlichen
+Schwankungen v.a. durch Witterung und Ausfälle (z.B.
+Kernenergie). ’ vgl. Folie 4-5
+Prognose: Der THG-EF wird sich im modellierten
+Zeitraum bis 2050 nochmals halbieren. ’ vgl. Folie 6
+* 2025 teils noch provisorisch
+
+-- 2 of 10 --
+
+Ergebnisse 2026
+Produktionsmix Nachbarländer 2016-2025
+Im Produktionsmix der Nachbarländer ist ein
+Zubau der erneuerbaren Energien sowie eine
+Abnahme der fossilen Energien ersichtlich.
+Da der THG-EF in der Schweiz massgeblich von
+der Zusammensetzung des Importstroms abhängt,
+wird der THG-EF tendenziell weiter sinken.
+Jährliche Schwankungen / Abweichungen von
+dieser Tendenz können dazu führen, dass die
+THG-EF von Jahr zu Jahr recht stark variieren.
+Der steigende Strombedarf (primär durch die
+Elektrifizierung der Mobilität und Wärme sowie
+durch die Digitalisierung) wird die Reduktion des
+THG-EF abschwächen, falls der zusätzliche
+Bedarf mit mehr (fossilem) Importstrom gedeckt
+wird.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	3
+
+-- 3 of 10 --
+
+Ergebnisse 2026
+Zusammensetzung Importstrom 2016-2025
+Im Jahr 2022 waren mehrere Kernkraftwerke in
+Frankreich nicht in Betrieb, weshalb deutlich
+weniger CO2-armer Kernenergie-Strom und
+stattdessen vermehrt Kohle- und Gasstrom aus
+Deutschland importiert wurde. Ebenfalls wurde in
+den Jahren 2021 und 2022 generell mehr Strom
+(~33.5 TWh/Jahr) importiert als in den Jahren
+zuvor und danach.
+Im Frühjahr 2025 musste insb. wegen historisch
+tiefer Füllständen in den CH-Speicherseen (vgl.
+Folie 5) sowie ab Mai 2025 aufgrund des Ausfalls
+des KKW Gösgen zusätzlicher Strom importiert
+werden. Dieser zusätzliche Importstrom stammt
+vor allem von Gaskraftwerken, da im Jahr 2025 in
+Deutschland die Stromproduktion aus Wind- und
+Wasserkraft im Vergleich zum Vorjahr tiefer war
+(vgl. Folie 4). Dies begründet einen Anstieg des
+THG-EF im Jahr 2025.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	4
+
+-- 4 of 10 --
+
+Ergebnisse 2026
+Füllstand CH-Speicherseen und Importstrom
+Ein Vergleich der Füllstände der CH-Speicherseen und
+der relativ zum Verbrauch importierten Strommenge in
+den Jahren 2024 (blau) und 2025 (rot) zeigt:
+ Im Frühling 2025 war der Füllstand der CH-
+Speicherseen historisch tief.
+ Deshalb musste 2025 gegenüber 2024 deutlich
+mehr Strom importiert werden, um den CH-
+Verbrauch zu decken.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	5
+
+-- 5 of 10 --
+
+Ergebnisse 2026
+Prognose CO2-Gehalt des Verbraucherstrommix Schweiz bis 2050
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	6
+Der THG-EF wird sich gegenüber heute (REF) bis 2050
+nochmals halbieren (von ca. 78 auf 46 g CO2,eq/kWh).
+Der Grossteil der THG-EF im Jahr 2050 wird im Scope 3
+anfallen (mit entsprechend grossen Unsicherheiten bzgl.
+vorgelagerten CO2-Emissionen, z.B. bei Herstellung und
+Transport von PV-Modulen nach Europa/Schweiz).
+Die verbleibenden direkten (Scope 1) CO2-Emissionen
+der Schweizer Stromproduktion stammen primär von mit
+fossilem Erdgas betriebenen Gaskraftwerken (mit CCS ’
+Abscheidegrad 90%).
+Die Zunahme des THG-EF im Jahr 2040 resultiert aus
+dem durch den Wegfall des KKW Gösgen benötigten
+zusätzlichen Importstrom (u.a. von (fossilen)
+Gaskraftwerken).
+
+-- 6 of 10 --
+
+Methodik und Datengrundlage (1/2)
+ Der Treibhausgas-Emissionsfaktor (THG-EF) des Schweizer Verbraucherstrommixes (location-based Emissionsfaktor) wird
+basierend auf öffentlich zugänglichen historischen Verbrauchs- und Produktionsdaten für die Schweiz sowie deren
+Nachbarländer bestimmt.
+ Die entsprechenden Strommixe werden ermittelt, indem auf stündlicher Basis von der inländischen Produktion, die
+stündlichen kommerziellen Exporte abgezogen und die stündlichen kommerziellen Importe hinzuaddiert werden.
+ In einem ersten Schritt wird für sämtliche Länder deren Produktionsmix bestimmt. Die dazu verwendeten stündlichen Daten
+werden primär «Swiss Energy-Charts» entnommen. Für die Schweiz sind dies die Produktionstechnologien Laufwasser,
+Speicherwasser, Kernkraft, PV und Wind, welche auf die Jahresproduktion gemäss BFE («Elektrizitätsstatistik»)
+hochgerechnet werden.
+ Zusätzlich werden die konventionell-thermischen Kraftwerke (inkl. WKK und KVA) gemäss BFE «Thermische
+Stromproduktion inklusive Wärmekraftkopplung (WKK) in der Schweiz» als konstante Erzeugung hinzugefügt.
+ Für die Schweiz wird das daraus resultierende Produktionsmix-Profil anschliessend mit den stündlichen Schweizer
+Endverbrauchs-Profilen gemäss Swissgrid (1/4-stündliche Daten der «Energieübersicht») und BFE (Jahressumme der
+«Elektrizitätsstatistik») gewichtet und skaliert. Bei dieser Skalierung werden implizit auch die für die Stromverteilung
+anfallenden Verluste berücksichtigt.
+ Anschliessend werden die stündlichen THG-EF im Produktionsmix jedes Landes mit Hilfe der Technologie-spezifischen
+Scope 1 + 2 sowie Scope 3 THG-EF aus BAFU (2025) sowie teils BAFU/Treeze (2021). Diese Werte entsprechen dem
+Länderdurchschnitt und werden über das gesamte Jahr als konstant angenommen.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	7
+
+-- 7 of 10 --
+
+Methodik und Datengrundlage (2/2)
+ Die stündlichen kommerzielle Export- und Importflüsse pro Landesgrenze werden von der «ENTSO-E Transparency
+Plattform» (scheduled commercial exchanges) entnommen.
+ Die kommerziellen Stromexporte aus der Schweiz werden mit dem Schweizer Produktionsmix zum Zeitpunkt des Exports
+modelliert, auch wenn der kommerzielle Handel ebenfalls Stromimporte mit Endbestimmung in anderen Ländern enthalten
+kann (z.B. ein Schweizer Händler kauft Strom aus Deutschland und verkauft ihn nach Italien weiter).
+ Die Stromimporte in die Schweiz werden mit dem länderspezifischen Produktionsmix und THG-EF zum Zeitpunkt des
+Imports modelliert. Dies basiert auf der Annahme, dass die Nachbarländer der Schweiz über grosse Märkte verfügen, so
+dass Importe und Exporte aus anderen Ländern im Vergleich zur inländischen Stromerzeugung gering sind und somit der
+importierte Strom primär im Inland selbst verbraucht wird.
+ Der Technologiemix des von Schweizer Pumpspeicherkraftwerken verwendeten Stroms wird durch eine 12-stündige
+Verschiebung des Schweizer Produktionsmixes (inkl. Importstrom) bestimmt. Dies ist eine grobe Annäherung des aus
+öffentlichen Daten grundsätzlich unbekannten Pumpen-Strommixes und basiert auf der Methode von BFE/Treeze (2021). Die
+zusätzlichen indirekten THG-Emissionen von Pumpspeicherkraftwerken (für Bau, Betrieb & Unterhalt der Pumpen, etc.)
+werden als 9.8 g CO2,eq / kWh angenommen. Der elektrische Wirkungsgrad («round-trip») der Schweizer
+Pumpspeicherkraftwerken wird auf 80% angenommen.
+ Für die Verteilung (Transport) des Stroms durch die verschiedenen Netzebenen der Schweiz werden gemäss BAFU/Treeze
+(2021) Verluste von 9.7% und konstante THG-EF von 7.4 g CO2,eq / kWh (inkl. Verluste) für das Netz zum
+Verbraucherstrommix (Scope 3) hinzuaddiert.
+Falls Sie an den zugrundeliegenden Inputdaten interessiert sind, können Sie diese via energiezukunft@strom.ch anfragen.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	8
+
+-- 8 of 10 --
+
+Quellenverzeichnis
+ BFE (2016  2025) «Elektrizitätsstatistik»
+ BFE (2016  2025) «Thermische Stromproduktion inklusive Wärmekraftkopplung (WKK) in der Schweiz»
+ Swissgrid (2016  2025) «Energieübersicht» (Tabellen)
+ Swiss Energy-Charts (2016  2025) www.energy-charts.info (Stand: 05.01.2026)
+ BAFU (2025) «Scope Emissions Tool v5.2» (Stand: 16.07.2025)
+ BAFU/Treeze (2021) «Umweltbilanz Strommixe Schweiz», Autoren: Luana Krebs und Rolf Frischknecht im Auftrag des
+Bundesamtes für Umwelt (BAFU)
+ BFE/Treeze (2021) «Electricity Mixes in Life Cycle Assessments of Buildings», Autoren: Rolf Frischknecht und Martina Alig
+im Auftrag des Bundesamtes für Energie (BFE)
+ ENTSO-E (2025), «Transparency Plattform», LINK: https://newtransparency.entsoe.eu/ (Stand: 05.01.2026)
+ NZZ (2026), «Deutschlands Gasreserven nehmen durch den strengen Winter schneller ab als erwartet: Geht dem Land bald
+das Erdgas aus? », Neue Zürcher Zeitung (NZZ), von Malte Fischer, online erschienen am 11.01.2026.
+25.02.2026 CO2-Gehalt des Strommix Schweiz bis 2050	9
+
+-- 9 of 10 --
+
+Danke für Ihr Interesse
+Verband Schweizerischer Elektrizitätsunternehmen VSE
+www.strom.ch
+
+-- 10 of 10 --
+
+
+<!-- attachments end -->

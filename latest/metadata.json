@@ -1,17 +1,339 @@
 {
-  "publishedAt": "2026-06-08T05:23:19.815Z",
+  "publishedAt": "2026-06-12T14:52:44.884Z",
   "source": "emissionfactor",
-  "csv": "EF_output_2026-06-08.csv",
-  "report": "report_2026-06-08.json",
+  "csv": "EF_output_2026-06-12.csv",
+  "report": "report_2026-06-12.json",
   "reportHtml": "report.html",
   "hasUpdates": true,
   "attachments": [
+    {
+      "resourceId": "12",
+      "country": "芬蘭",
+      "filename": "eea_2025.csv",
+      "path": "attachments/12_芬蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "13",
+      "country": "瑞典",
+      "filename": "eea_2025.csv",
+      "path": "attachments/13_瑞典/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "14",
+      "country": "德國",
+      "filename": "eea_2025.csv",
+      "path": "attachments/14_德國/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "16",
+      "country": "荷蘭",
+      "filename": "eea_2025.csv",
+      "path": "attachments/16_荷蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "17",
+      "country": "法國",
+      "filename": "eea_2025.csv",
+      "path": "attachments/17_法國/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "19",
+      "country": "義大利",
+      "filename": "eea_2025.csv",
+      "path": "attachments/19_義大利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "23",
+      "country": "波蘭",
+      "filename": "eea_2025.csv",
+      "path": "attachments/23_波蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "24",
+      "country": "立陶宛",
+      "filename": "eea_2025.csv",
+      "path": "attachments/24_立陶宛/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "25",
+      "country": "盧森堡",
+      "filename": "eea_2025.csv",
+      "path": "attachments/25_盧森堡/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "26",
+      "country": "奧地利",
+      "filename": "eea_2025.csv",
+      "path": "attachments/26_奧地利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "27",
+      "country": "葡萄牙",
+      "filename": "eea_2025.csv",
+      "path": "attachments/27_葡萄牙/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "28",
+      "country": "斯洛伐克",
+      "filename": "eea_2025.csv",
+      "path": "attachments/28_斯洛伐克/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "29",
+      "country": "丹麥",
+      "filename": "eea_2025.csv",
+      "path": "attachments/29_丹麥/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "30",
+      "country": "拉脫維亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/30_拉脫維亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "31",
+      "country": "西班牙",
+      "filename": "eea_2025.csv",
+      "path": "attachments/31_西班牙/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "32",
+      "country": "匈牙利",
+      "filename": "eea_2025.csv",
+      "path": "attachments/32_匈牙利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "33",
+      "country": "克羅埃西亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/33_克羅埃西亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "34",
+      "country": "比利時",
+      "filename": "eea_2025.csv",
+      "path": "attachments/34_比利時/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "35",
+      "country": "斯洛維尼亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/35_斯洛維尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "36",
+      "country": "愛爾蘭",
+      "filename": "eea_2025.csv",
+      "path": "attachments/36_愛爾蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "37",
+      "country": "希臘",
+      "filename": "eea_2025.csv",
+      "path": "attachments/37_希臘/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "38",
+      "country": "羅馬尼亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/38_羅馬尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "39",
+      "country": "保加利亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/39_保加利亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "40",
+      "country": "捷克",
+      "filename": "eea_2025.csv",
+      "path": "attachments/40_捷克/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "41",
+      "country": "馬爾他",
+      "filename": "eea_2025.csv",
+      "path": "attachments/41_馬爾他/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "42",
+      "country": "賽普勒斯",
+      "filename": "eea_2025.csv",
+      "path": "attachments/42_賽普勒斯/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
+    {
+      "resourceId": "43",
+      "country": "愛沙尼亞",
+      "filename": "eea_2025.csv",
+      "path": "attachments/43_愛沙尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file"
+    },
     {
       "resourceId": "1",
       "country": "台灣",
       "filename": "114年度電力排碳係數.pdf",
       "path": "attachments/1_台灣/114年度電力排碳係數.pdf",
       "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083"
+    },
+    {
+      "resourceId": "2",
+      "country": "中國",
+      "filename": "W020251231726284332528.pdf",
+      "path": "attachments/2_中國/W020251231726284332528.pdf",
+      "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf"
+    },
+    {
+      "resourceId": "3",
+      "country": "韓國",
+      "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "path": "attachments/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=4ab987a072397ed18f9320a6ac15373b156e6f16005731b1&fileSeq=1"
+    },
+    {
+      "resourceId": "4",
+      "country": "日本",
+      "filename": "r08_denki_coefficient_rev2.pdf",
+      "path": "attachments/4_日本/r08_denki_coefficient_rev2.pdf",
+      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf"
+    },
+    {
+      "resourceId": "5",
+      "country": "新加坡",
+      "filename": "SES_tabular.xlsx.coredownload.xlsx",
+      "path": "attachments/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
+      "sourceUrl": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Feed-In Tariff ( FiT ) Guidelines.txt",
+      "path": "attachments/6_馬來西亞/Feed-In Tariff ( FiT ) Guidelines.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/fit-guidelines/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Guidelines for Eligibility of the S02 Bonus.txt",
+      "path": "attachments/6_馬來西亞/Guidelines for Eligibility of the S02 Bonus.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/guidelines-for-eligibility-of-the-s02-bonus/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Power Systems Study Guideline.txt",
+      "path": "attachments/6_馬來西亞/Power Systems Study Guideline.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/power-systems-study/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Guideline For Suruhanjaya Tenaga Licenses.txt",
+      "path": "attachments/6_馬來西亞/Guideline For Suruhanjaya Tenaga Licenses.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/suruhanjaya-tenaga-licenses/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "TNB PV Interconnection.txt",
+      "path": "attachments/6_馬來西亞/TNB PV Interconnection.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/tnb-pv-interconnection/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Procedure For The T&C Of GCPV.txt",
+      "path": "attachments/6_馬來西亞/Procedure For The T&C Of GCPV.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/procedure-for-the-tc-of-gcpv/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Biomass & Biogas Acceptance Test.txt",
+      "path": "attachments/6_馬來西亞/Biomass & Biogas Acceptance Test.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/biomass-biogas-acceptance-test/"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Home owner’s guideline for Solar PV.txt",
+      "path": "attachments/6_馬來西亞/Home owner’s guideline for Solar PV.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/home-owners-guideline-for-solar-pv/"
+    },
+    {
+      "resourceId": "7",
+      "country": "泰國",
+      "filename": "ts_0508d3ad6a.pdf",
+      "path": "attachments/7_泰國/ts_0508d3ad6a.pdf",
+      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf"
+    },
+    {
+      "resourceId": "8",
+      "country": "越南",
+      "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+      "path": "attachments/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+      "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/"
+    },
+    {
+      "resourceId": "10",
+      "country": "印度",
+      "filename": "CO2_Database_V_21.0.xlsx",
+      "path": "attachments/10_印度/CO2_Database_V_21.0.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx"
+    },
+    {
+      "resourceId": "15",
+      "country": "瑞士",
+      "filename": "attachment.txt",
+      "path": "attachments/15_瑞士/attachment.txt",
+      "sourceUrl": "https://www.strom.ch/de/media/15760/download"
+    },
+    {
+      "resourceId": "18",
+      "country": "英國",
+      "filename": "ghg-conversion-factors-2026-full-set.xlsx",
+      "path": "attachments/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
+      "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx"
+    },
+    {
+      "resourceId": "21",
+      "country": "美國",
+      "filename": "ghg-emission-factors-hub-2025.xlsx",
+      "path": "attachments/21_美國/ghg-emission-factors-hub-2025.xlsx",
+      "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx"
     }
   ]
 }

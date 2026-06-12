@@ -1,0 +1,2003 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	coding.powerful.systems. CPS GmbH - www.cps-it.de
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<link rel="icon" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/favicon.ico" type="image/vnd.microsoft.icon">
+<title>How to file a complaint | Internationale Klimaschutzinitiative (IKI)</title>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="IKI ICM: How to file a complaint">
+<meta property="og:image" content="https://www.international-climate-initiative.com/fileadmin/_processed_/b/4/csm_20220217_Gbevozoun_Benin_UNDP-GEF_SGP_Benin_0f7c22dcc5.jpg">
+<meta property="og:image:url" content="https://www.international-climate-initiative.com/fileadmin/_processed_/b/4/csm_20220217_Gbevozoun_Benin_UNDP-GEF_SGP_Benin_0f7c22dcc5.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="335">
+<meta property="og:image:alt" content="[Translate to English:] ">
+<meta name="twitter:title" content="IKI ICM: How to file a complaint">
+<meta name="twitter:image" content="https://www.international-climate-initiative.com/fileadmin/_processed_/b/4/csm_20220217_Gbevozoun_Benin_UNDP-GEF_SGP_Benin_0f7c22dcc5.jpg">
+<meta name="twitter:image:alt" content="[Translate to English:] ">
+<meta name="twitter:card" content="summary">
+<meta name="copyright" content="Internationale Klimaschutzinitiative (IKI)">
+<meta name="revisit-after" content="5">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Internationale Klimaschutzinitiative (IKI)">
+<meta name="theme-color" content="#ffffff">
+
+
+<link rel="stylesheet" href="/assets/iki-frontend/base/css/main.css?1781005986" media="screen">
+<link rel="stylesheet" href="/assets/iki-frontend/base/css/print.css?1781005986" media="print">
+
+
+
+
+<script>
+/*TS_inlineJS*/
+                var htmlElement = document.documentElement;
+                htmlElement.classList.remove('no-js');
+                htmlElement.classList.add('js');
+                window.projectSettings = {config: {system: {code: 'live' }}}
+                                // lazysizes: image lazy loading
+                window.lazySizesConfig = window.lazySizesConfig || {};
+                // page is optimized for fast onload event
+                lazySizesConfig.loadMode = 1; // only load visible elements
+
+
+</script>
+
+<link rel="icon" type="image/png" sizes="32x32" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/android-icon-192x192.png"><link rel="manifest" href="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/site.webmanifest">        <meta name="msapplication-tileimage" content="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/ms-icon-144x144.png">
+        <meta name="msapplication-tilecolor" content="#ffffff">
+        <meta name="msapplication-config" content="/_assets/586c2e293803aaedc627d58ec1875a9b/Favicon/Iki/browserconfig.xml">            <link rel="preload" href="/assets/iki-frontend/base/fonts/BundesSans-Web-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="/assets/iki-frontend/base/fonts/BundesSans-Web-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="/assets/iki-frontend/base/fonts/BundesSans-Web-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+            <link rel="preload" href="/assets/iki-frontend/base/fonts/BundesSerif-Web-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">            <style>
+                @font-face {
+                    font-display: swap;
+                    font-family: "BundesSansWeb";
+                    font-style: normal;
+                    font-weight: 400;
+                    src: local("BundesSansWeb Regular"), local("BundesSansWeb-Regular"), url("/assets/iki-frontend/base/fonts/BundesSans-Web-Regular.woff2") format("woff2");
+                }
+
+                @font-face {
+                    font-display: swap;
+                    font-family: "BundesSansWebMedium";
+                    font-style: normal;
+                    font-weight: 500;
+                    src: local("BundesSansWeb Medium"), local("BundesSansWeb-Medium"), url("/assets/iki-frontend/base/fonts/BundesSans-Web-Medium.woff2") format("woff2");
+                }
+
+                @font-face {
+                    font-display: swap;
+                    font-family: "BundesSansWebBold";
+                    font-style: normal;
+                    font-weight: 700;
+                    src: local("BundesSansWeb Bold"), local("BundesSansWeb-Bold"), url("/assets/iki-frontend/base/fonts/BundesSans-Web-Bold.woff2") format("woff2");
+                }
+
+                @font-face {
+                    font-display: swap;
+                    font-family: "BundesSerifWebBold";
+                    font-style: normal;
+                    font-weight: 700;
+                    src: local("BundesSerifWeb Bold"), local("BundesSerifWeb-Bold"), url("/assets/iki-frontend/base/fonts/BundesSerif-Web-Bold.woff2") format("woff2");
+                }
+            </style><script id="Cookiebot" data-culture="EN" src="https://consent.cookiebot.eu/uc.js" data-cbid="db847bda-2dcb-4637-b8be-d8cf112715a0" data-blockingmode="auto" type="text/javascript"></script>            <!-- Matomo -->
+                <script type="text/plain" data-cookieconsent="statistics">
+                    var _paq = window._paq = window._paq || [];
+                  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+                  _paq.push(['trackPageView']);
+                  _paq.push(['enableLinkTracking']);
+                  (function() {
+                    var u="https://matomo.z-u-g.org/";
+                    _paq.push(['setTrackerUrl', u+'matomo.php']);
+                    _paq.push(['setSiteId', '1']);
+                    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+                  })();
+                </script>
+            <!-- End Matomo Code -->
+<link rel="canonical" href="https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/">
+
+<link rel="alternate" hreflang="de-DE" href="https://www.international-climate-initiative.com/ueber-die-iki/unabhaengiger-beschwerdemechanismus/wie-man-eine-beschwerde-einreicht/">
+<link rel="alternate" hreflang="en-US" href="https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/">
+<link rel="alternate" hreflang="x-default" href="https://www.international-climate-initiative.com/ueber-die-iki/unabhaengiger-beschwerdemechanismus/wie-man-eine-beschwerde-einreicht/">
+<script type="application/ld+json" id="ext-schema-jsonld">{"@context":"https://schema.org/","@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@type":"WebPage","@id":"https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/"},"name":"Independent Complaint Mechanism","position":"1"},{"@type":"ListItem","item":{"@type":"WebPage","@id":"https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/"},"name":"How to file a complaint","position":"2"}]}}</script>
+<!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+<script type="application/ld+json">[{"@context":"https:\/\/www.schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.international-climate-initiative.com\/en\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.international-climate-initiative.com\/en\/about-iki\/values-responsibility\/independent-complaint-mechanism\/","name":"Independent Complaint Mechanism"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.international-climate-initiative.com\/en\/about-iki\/values-responsibility\/independent-complaint-mechanism\/how-to-file-a-complaint\/","name":"How to file a complaint"}}]}]</script>
+</head>
+<body id="pageId_396">
+
+
+<nav class="c-menu-skip" aria-label="Skip navigation">
+    <ul class="c-menu-skip__list">
+        <li class="c-menu-skip__item">
+            <a href="#article" class="c-skip-link">Skip to content</a>
+        </li>
+        <li class="c-menu-skip__item">
+            <a href="#trigger-page-search" class="c-skip-link">Skip to search</a>
+        </li>
+        <li class="c-menu-skip__item">
+            <a href="#trigger-mm" class="c-skip-link">Skip to navigation</a>
+        </li>
+    </ul>
+</nav>
+<noscript>
+    <div class="js-disabled-hint">
+        <p>
+            <strong>It looks like you have JavaScript disabled.</strong> That's OK! All the content on the
+            site is still viewable, but keep in mind most of the interactive features won't work.
+        </p>
+    </div>
+</noscript>
+<div class="c-app page-layout-1col">
+    
+    <header class="c-header">
+        <div class="o-grid">
+            <div class="c-header__top">
+                <div class="c-header__logos">
+                    
+    <a class="c-logo c-logo--iki" href="/en/">
+        
+                <img src="/_assets/586c2e293803aaedc627d58ec1875a9b/Images/logo-iki-en.svg" alt="Logo International Climate Initiative (IKI) links to IKI homepage"/>
+            
+    </a>
+
+                    
+    <div class="c-logo c-logo--bmu-mobile">
+        <img src="/_assets/586c2e293803aaedc627d58ec1875a9b/Images/logo-bmu-mobile.svg?v1" alt="Figurative mark: Federal Ministry for the Environment, Climate Action, Nature Conversation and Nuclear Safety"/>
+    </div>
+
+                    
+    
+            <div class="c-logo c-logo--bmu">
+                <img src="/_assets/586c2e293803aaedc627d58ec1875a9b/Images/logo-bmu-en.svg?v1" alt="Figurative mark: Federal Ministry for the Environment, Climate Action, Nature Conversation and Nuclear Safety"/>
+            </div>
+        
+
+                </div>
+                <div class="c-header__service">
+                    
+    
+        <ul class="c-access-list">
+            <li class="c-access-list__item">
+                <a class="c-access-list__link" href="/en/sign-language/">
+                    <span class="u-accessibility">Page for sign language</span>
+                    <i class="o-icon-font o-icon-font--access-hands" aria-hidden="true"></i>
+                </a>
+            </li>
+            <li class="c-access-list__item">
+                <a class="c-access-list__link" href="/en/accessible-information/">
+                    <span class="u-accessibility">Page for plain language</span>
+                    <i class="o-icon-font o-icon-font--access-speech" aria-hidden="true"></i>
+                </a>
+            </li>
+        </ul>
+
+                    
+
+
+    
+        
+            <div class="c-language-switch js-language-switch">
+                
+                    
+                
+                    
+                            <button class="c-language-switch__button c-link u-icon u-icon:right"
+                                    type="button"
+                                    aria-controls="language-list"
+                                    aria-expanded="false"
+                                    aria-label="Current language is English. Choose your preferred language.">
+                                English
+                                <i class="o-icon-font o-icon-font--language" aria-hidden="true"></i>
+                                <i class="o-icon-font o-icon-font--arrow-down" aria-hidden="true"></i>
+                            </button>
+                        
+                
+                    
+                
+                    
+                
+                    
+                
+                <ul class="c-language-switch__list" id="language-list">
+                    
+                        
+                                <li class="c-language-switch__item">
+                                    
+                                            <a href="/ueber-die-iki/unabhaengiger-beschwerdemechanismus/wie-man-eine-beschwerde-einreicht/" hreflang="de-DE"
+                                               class="c-language-switch__link">
+                                                Deutsch
+                                            </a>
+                                        
+                                </li>
+                            
+                    
+                        
+                    
+                        
+                                <li class="c-language-switch__item">
+                                    
+                                </li>
+                            
+                    
+                        
+                                <li class="c-language-switch__item">
+                                    
+                                </li>
+                            
+                    
+                        
+                                <li class="c-language-switch__item">
+                                    
+                                </li>
+                            
+                    
+                </ul>
+            </div>
+        
+    
+
+
+                </div>
+            </div>
+            <div class="c-header__bottom">
+                
+
+
+    
+    
+        <nav class="c-menu-topics"
+             aria-label="Topic navigation">
+            <ul class="c-menu-topics__list">
+                
+                    <li class="c-menu-topics__item">
+                        
+                                <a class="c-menu-topics__link" href="/en/about-iki/">
+                                    About IKI
+                                </a>
+                            
+                    </li>
+                
+                    <li class="c-menu-topics__item">
+                        
+                                <a class="c-menu-topics__link" href="/en/find-funding/">
+                                    Find funding
+                                </a>
+                            
+                    </li>
+                
+                    <li class="c-menu-topics__item">
+                        
+                                <a class="c-menu-topics__link" href="/en/manage-project/">
+                                    Manage Project
+                                </a>
+                            
+                    </li>
+                
+                    <li class="c-menu-topics__item">
+                        
+                                <a class="c-menu-topics__link" href="/en/search-project/">
+                                    Search Project
+                                </a>
+                            
+                    </li>
+                
+            </ul>
+        </nav>
+    
+
+
+                
+    
+        <ul class="c-access-list">
+            <li class="c-access-list__item">
+                <a class="c-access-list__link" href="/en/sign-language/">
+                    <span class="u-accessibility">Page for sign language</span>
+                    <i class="o-icon-font o-icon-font--access-hands" aria-hidden="true"></i>
+                </a>
+            </li>
+            <li class="c-access-list__item">
+                <a class="c-access-list__link" href="/en/accessible-information/">
+                    <span class="u-accessibility">Page for plain language</span>
+                    <i class="o-icon-font o-icon-font--access-speech" aria-hidden="true"></i>
+                </a>
+            </li>
+        </ul>
+
+                
+
+
+    
+    <div class="c-page-search-wrapper">
+        <div class="c-page-search"
+             id="page-search"
+             role="search">
+            <form class="c-form" action="/en/search/#search-form" method="get" accept-charset="utf-8">
+                <label class="c-form__label u-accessibility" for="page-search-searchfield">
+                    Site Search
+                </label>
+                <div class="c-form__input-container">
+                    <input class="c-form__input" id="page-search-searchfield" type="text" name="q"
+                           placeholder="Search query...">
+                    <button class="c-button-icon-only u-icon" type="submit">
+                        <span class="u-accessibility">Search</span>
+                        <i class="o-icon-font o-icon-font--loupe" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+        <button class="c-button-icon-only c-button--white c-trigger-page-search js-trigger-page-search"
+                id="trigger-page-search"
+                type="button"
+                aria-expanded="false"
+                aria-controls="page-search">
+            <span class="u-accessibility open">Open search</span>
+            <span class="u-accessibility close">Close search</span>
+            <i class="o-icon-font o-icon-font--loupe" aria-hidden="true"></i>
+            <span class="c-burger" aria-hidden="true">
+               <span class="c-burger__line c-burger__line--top"></span>
+               <span class="c-burger__line c-burger__line--center"></span>
+               <span class="c-burger__line c-burger__line--bottom"></span>
+            </span>
+        </button>
+    </div>
+
+
+                <button class="c-button-icon-only c-button--white c-trigger-mm js-trigger-mm" id="trigger-mm" type="button" aria-expanded="false" aria-controls="menu-mm">
+                    <span class="u-accessibility">Open main navigation</span>
+                    <span class="c-burger" aria-hidden="true">
+                        <span class="c-burger__line c-burger__line--top"></span>
+                        <span class="c-burger__line c-burger__line--center"></span>
+                        <span class="c-burger__line c-burger__line--bottom"></span>
+                    </span>
+                </button>
+                
+
+
+    
+    
+        <nav id="menu-mm" class="c-menu-mm js-menu-mm"
+             aria-label="Main navigation">
+            <ul class="c-menu-mm__list c-menu-mm__list--lvl0">
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/" class="c-menu-mm__link"
+       title="Home"
+       data-page-id="1"
+       data-level=""
+       aria-current="page">
+        Home
+    </a>
+
+                    </li>
+                
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/about-iki/" class="c-menu-mm__link"
+       title="About IKI"
+       data-page-id="39"
+       data-level="0"
+       >
+        About IKI
+    </a>
+
+
+                        
+                            
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl1">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/funding-area-mitigating-greenhouse-gas-emissions/" class="c-menu-mm__link"
+       title="Funding area: Mitigating greenhouse gas emissions"
+       data-page-id="85"
+       data-level="1"
+       >
+        Funding area: Mitigating greenhouse gas emissions
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/iki-funding-area-adaptation-to-the-impacts-of-climate-change/" class="c-menu-mm__link"
+       title="Funding area: Adaptation to climate change"
+       data-page-id="130"
+       data-level="1"
+       >
+        Funding area: Adaptation to climate change
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/iki-funding-area-preserving-and-restoring-natural-carbon-sinks/" class="c-menu-mm__link"
+       title="Funding area: Natural carbon sinks"
+       data-page-id="128"
+       data-level="1"
+       >
+        Funding area: Natural carbon sinks
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/funding-area-conserving-biological-diversity/" class="c-menu-mm__link"
+       title="Funding area: Conserving Biodiversity"
+       data-page-id="126"
+       data-level="1"
+       >
+        Funding area: Conserving Biodiversity
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/cooperation-between-the-iki-and-its-partner-countries/" class="c-menu-mm__link"
+       title="IKI partner countries"
+       data-page-id="98"
+       data-level="1"
+       >
+        IKI partner countries
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/global-initiatives/" class="c-menu-mm__link"
+       title="Global Initiatives"
+       data-page-id="93"
+       data-level="1"
+       >
+        Global Initiatives
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/topics/youth/" class="c-menu-mm__link"
+       title="Youth engagement in the IKI"
+       data-page-id="319"
+       data-level="1"
+       >
+        Youth engagement in the IKI
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/values-responsibility/" class="c-menu-mm__link"
+       title="Values &amp; Responsibility"
+       data-page-id="97"
+       data-level="1"
+       >
+        Values &amp; Responsibility
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/safeguards/" class="c-menu-mm__link"
+       title="Safeguards"
+       data-page-id="96"
+       data-level="2"
+       >
+        Safeguards
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/values-responsibility/gender/" class="c-menu-mm__link"
+       title="Gender in the IKI"
+       data-page-id="140"
+       data-level="2"
+       >
+        Gender in the IKI
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/values-responsibility/local-action/" class="c-menu-mm__link"
+       title="Local Action"
+       data-page-id="383"
+       data-level="2"
+       >
+        Local Action
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/values-responsibility/handling-of-mitigation-credits-in-the-iki/" class="c-menu-mm__link"
+       title="Handling of mitigation credits"
+       data-page-id="583"
+       data-level="2"
+       >
+        Handling of mitigation credits
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/values-responsibility/transparency-iati/" class="c-menu-mm__link"
+       title="Transparency (IATI)"
+       data-page-id="94"
+       data-level="2"
+       >
+        Transparency (IATI)
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/impact-and-learning/" class="c-menu-mm__link"
+       title="Impact and Learning"
+       data-page-id="296"
+       data-level="1"
+       >
+        Impact and Learning
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/impact-and-learning/selected-iki-impacts-2015-2024/" class="c-menu-mm__link"
+       title="Selected IKI impacts from 2015 to 2024"
+       data-page-id="792"
+       data-level="2"
+       >
+        Selected IKI impacts from 2015 to 2024
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/about-iki/impact-and-learning/how-the-iki-uses-monitoring-and-evaluation/" class="c-menu-mm__link"
+       title="How the IKI uses Monitoring and Evaluation"
+       data-page-id="113"
+       data-level="2"
+       >
+        How the IKI uses Monitoring and Evaluation
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/find-funding/" class="c-menu-mm__link"
+       title="Find funding"
+       data-page-id="30"
+       data-level="0"
+       >
+        Find funding
+    </a>
+
+
+                        
+                            
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl1">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/large-grants/" class="c-menu-mm__link"
+       title="Large Grants"
+       data-page-id="740"
+       data-level="1"
+       >
+        Large Grants
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/large-grants/large-grants-2025/" class="c-menu-mm__link"
+       title="ILG Call 2025"
+       data-page-id="742"
+       data-level="2"
+       >
+        ILG Call 2025
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/medium-grants/" class="c-menu-mm__link"
+       title="Medium Grants"
+       data-page-id="69"
+       data-level="1"
+       >
+        Medium Grants
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2025/" class="c-menu-mm__link"
+       title="IMG Call 2025"
+       data-page-id="755"
+       data-level="2"
+       >
+        IMG Call 2025
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2024/" class="c-menu-mm__link"
+       title="IMG Call 2024"
+       data-page-id="560"
+       data-level="2"
+       >
+        IMG Call 2024
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2023/" class="c-menu-mm__link"
+       title="Medium Grants 2023"
+       data-page-id="435"
+       data-level="2"
+       >
+        Medium Grants 2023
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2022/" class="c-menu-mm__link"
+       title="IMG Call 2022"
+       data-page-id="355"
+       data-level="2"
+       >
+        IMG Call 2022
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2021/" class="c-menu-mm__link"
+       title="IMG Call 2021"
+       data-page-id="73"
+       data-level="2"
+       >
+        IMG Call 2021
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/medium-grants/medium-grants-2020/" class="c-menu-mm__link"
+       title="IMG Call 2020"
+       data-page-id="186"
+       data-level="2"
+       >
+        IMG Call 2020
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/small-grants/" class="c-menu-mm__link"
+       title="Small Grants"
+       data-page-id="67"
+       data-level="1"
+       >
+        Small Grants
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2025/" class="c-menu-mm__link"
+       title="ISG Call 2025"
+       data-page-id="759"
+       data-level="2"
+       >
+        ISG Call 2025
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2024/" class="c-menu-mm__link"
+       title="ISG Call 2024"
+       data-page-id="646"
+       data-level="2"
+       >
+        ISG Call 2024
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2023/" class="c-menu-mm__link"
+       title="ISG Call 2023"
+       data-page-id="554"
+       data-level="2"
+       >
+        ISG Call 2023
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2022/" class="c-menu-mm__link"
+       title="ISG Call 2022"
+       data-page-id="412"
+       data-level="2"
+       >
+        ISG Call 2022
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2021/" class="c-menu-mm__link"
+       title="ISG Call 2021"
+       data-page-id="71"
+       data-level="2"
+       >
+        ISG Call 2021
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/small-grants/small-grants-2020/" class="c-menu-mm__link"
+       title="Small Grants 2020"
+       data-page-id="187"
+       data-level="2"
+       >
+        Small Grants 2020
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/thematic-call/" class="c-menu-mm__link"
+       title="Thematic Call"
+       data-page-id="70"
+       data-level="1"
+       >
+        Thematic Call
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-call-2024/" class="c-menu-mm__link"
+       title="Thematic Call 2024"
+       data-page-id="638"
+       data-level="2"
+       >
+        Thematic Call 2024
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-call-2023/" class="c-menu-mm__link"
+       title="Thematic Call 2023"
+       data-page-id="544"
+       data-level="2"
+       >
+        Thematic Call 2023
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-call-2022/" class="c-menu-mm__link"
+       title="Thematic Call 2022"
+       data-page-id="377"
+       data-level="2"
+       >
+        Thematic Call 2022
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-selection-procedure-2020/" class="c-menu-mm__link"
+       title="Thematic Call 2020"
+       data-page-id="74"
+       data-level="2"
+       >
+        Thematic Call 2020
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-selection-procedure-2019/2/" class="c-menu-mm__link"
+       title="Thematic Call 2019/2"
+       data-page-id="185"
+       data-level="2"
+       >
+        Thematic Call 2019/2
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-call-2019/1-1/" class="c-menu-mm__link"
+       title="Thematic Call 2019/1"
+       data-page-id="425"
+       data-level="2"
+       >
+        Thematic Call 2019/1
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/thematic-call/thematic-call-2017/2018/" class="c-menu-mm__link"
+       title="Thematic Call 2017/2018"
+       data-page-id="421"
+       data-level="2"
+       >
+        Thematic Call 2017/2018
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/country-call/" class="c-menu-mm__link"
+       title="Country Call"
+       data-page-id="68"
+       data-level="1"
+       >
+        Country Call
+    </a>
+
+                
+                    
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl2">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-brazil/" class="c-menu-mm__link"
+       title="Brazil"
+       data-page-id="566"
+       data-level="2"
+       >
+        Brazil
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-peru/" class="c-menu-mm__link"
+       title="Peru"
+       data-page-id="277"
+       data-level="2"
+       >
+        Peru
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-argentina/" class="c-menu-mm__link"
+       title="Argentina"
+       data-page-id="264"
+       data-level="2"
+       >
+        Argentina
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-costa-rica/" class="c-menu-mm__link"
+       title="Costa Rica"
+       data-page-id="267"
+       data-level="2"
+       >
+        Costa Rica
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-india/" class="c-menu-mm__link"
+       title="India"
+       data-page-id="269"
+       data-level="2"
+       >
+        India
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-indonesia/" class="c-menu-mm__link"
+       title="Country Call Indonesia"
+       data-page-id="270"
+       data-level="2"
+       >
+        Country Call Indonesia
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-colombia/" class="c-menu-mm__link"
+       title="Colombia"
+       data-page-id="271"
+       data-level="2"
+       >
+        Colombia
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-mexico/" class="c-menu-mm__link"
+       title="Mexico"
+       data-page-id="272"
+       data-level="2"
+       >
+        Mexico
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/translate-to-english-laender-call-philippinen/" class="c-menu-mm__link"
+       title="Philippines"
+       data-page-id="278"
+       data-level="2"
+       >
+        Philippines
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/translate-to-english-laender-call-suedafrika/" class="c-menu-mm__link"
+       title="South Africa"
+       data-page-id="273"
+       data-level="2"
+       >
+        South Africa
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-thailand/" class="c-menu-mm__link"
+       title="Thailand"
+       data-page-id="274"
+       data-level="2"
+       >
+        Thailand
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/translate-to-english-laender-call-ukraine/" class="c-menu-mm__link"
+       title="Ukraine"
+       data-page-id="268"
+       data-level="2"
+       >
+        Ukraine
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl2">
+                
+    <a href="/en/find-funding/country-call/country-call-viet-nam/" class="c-menu-mm__link"
+       title="Viet Nam"
+       data-page-id="275"
+       data-level="2"
+       >
+        Viet Nam
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/find-funding/iki-invest/" class="c-menu-mm__link"
+       title="IKI Invest"
+       data-page-id="734"
+       data-level="1"
+       >
+        IKI Invest
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/funding-priorities/" class="c-menu-mm__link"
+       title="Funding priorities"
+       data-page-id="13"
+       data-level="0"
+       >
+        Funding priorities
+    </a>
+
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/manage-project/" class="c-menu-mm__link"
+       title="Manage Project"
+       data-page-id="31"
+       data-level="0"
+       >
+        Manage Project
+    </a>
+
+
+                        
+                            
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl1">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/manage-project/report-on-the-project-progress/" class="c-menu-mm__link"
+       title="Report on the project progress"
+       data-page-id="165"
+       data-level="1"
+       >
+        Report on the project progress
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/manage-project/submit-an-amendment-request/" class="c-menu-mm__link"
+       title="Submit an amendment request"
+       data-page-id="166"
+       data-level="1"
+       >
+        Submit an amendment request
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/manage-project/close-project/" class="c-menu-mm__link"
+       title="Close project"
+       data-page-id="167"
+       data-level="1"
+       >
+        Close project
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/manage-project/public-relations/" class="c-menu-mm__link"
+       title="Public Relations"
+       data-page-id="169"
+       data-level="1"
+       >
+        Public Relations
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/iki-documents-for-download/" class="c-menu-mm__link"
+       title="IKI documents for download"
+       data-page-id="673"
+       data-level="1"
+       >
+        IKI documents for download
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/search-project/" class="c-menu-mm__link"
+       title="Search Project"
+       data-page-id="35"
+       data-level="0"
+       >
+        Search Project
+    </a>
+
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 Selected">
+                        
+    <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/" class="c-menu-mm__link"
+       title="Independent Complaint Mechanism"
+       data-page-id="95"
+       data-level="0"
+       aria-current="page">
+        Independent Complaint Mechanism
+    </a>
+
+
+                        
+                            
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl1">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/values-responsibility/newsletter-iki-icm/" class="c-menu-mm__link"
+       title="IKI ICM newsletter"
+       data-page-id="438"
+       data-level="1"
+       >
+        IKI ICM newsletter
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/" class="c-menu-mm__link"
+       title="How to file a complaint"
+       data-page-id="396"
+       data-level="1"
+       aria-current="page">
+        How to file a complaint
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/iki-media/" class="c-menu-mm__link"
+       title="IKI Media"
+       data-page-id="193"
+       data-level="0"
+       >
+        IKI Media
+    </a>
+
+
+                        
+                            
+    <ul class="c-menu-mm__list c-menu-mm__list--lvl1">
+    
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/iki-media/iki-annual-reports/" class="c-menu-mm__link"
+       title="IKI Annual Reports"
+       data-page-id="496"
+       data-level="1"
+       >
+        IKI Annual Reports
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/topics/webspecials/" class="c-menu-mm__link"
+       title="Webspecials"
+       data-page-id="250"
+       data-level="1"
+       >
+        Webspecials
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/topics/learning-packs/" class="c-menu-mm__link"
+       title="Learning packs"
+       data-page-id="248"
+       data-level="1"
+       >
+        Learning packs
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/iki-media/press/" class="c-menu-mm__link"
+       title="Press"
+       data-page-id="204"
+       data-level="1"
+       >
+        Press
+    </a>
+
+                
+            </li>
+        
+            <li class="c-menu-mm__item c-menu-mm__item--lvl1">
+                
+    <a href="/en/iki-media/newsletter/" class="c-menu-mm__link"
+       title="IKI Newsletter"
+       data-page-id="199"
+       data-level="1"
+       >
+        IKI Newsletter
+    </a>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/events/" class="c-menu-mm__link"
+       title="Events"
+       data-page-id="477"
+       data-level="0"
+       >
+        Events
+    </a>
+
+
+                        
+                    </li>
+                
+                    <li class="c-menu-mm__item c-menu-mm__item--lvl0 ">
+                        
+    <a href="/en/iki-documents-for-download/" class="c-menu-mm__link"
+       title="IKI documents for download"
+       data-page-id="653"
+       data-level="0"
+       >
+        IKI documents for download
+    </a>
+
+
+                        
+                    </li>
+                
+            </ul>
+        </nav>
+    
+
+
+            </div>
+            
+        </div>
+    </header>
+
+    
+    <main class="c-main" id="main">
+        <div class="o-grid">
+            
+
+
+    
+        
+        <nav class="c-breadcrumb" aria-label="Breadcrumb navigation">
+            <ul class="c-breadcrumb__list">
+                
+                    <li class="c-breadcrumb__item">
+                        <a href="/en/"
+                           class="c-link u-icon u-icon:right"
+                           
+                        >
+                            Home
+                            
+                                    <i class="o-icon-font o-icon-font--arrow-right" aria-hidden="true"></i>
+                                
+                        </a>
+                    </li>
+                
+                    <li class="c-breadcrumb__item">
+                        <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/"
+                           class="c-link u-icon u-icon:right"
+                           
+                        >
+                            Independent Complaint Mechanism
+                            
+                                    <i class="o-icon-font o-icon-font--arrow-right" aria-hidden="true"></i>
+                                
+                        </a>
+                    </li>
+                
+                    <li class="c-breadcrumb__item">
+                        <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/"
+                           class="c-link"
+                            aria-current="page"
+                        >
+                            How to file a complaint
+                            
+                        </a>
+                    </li>
+                
+            </ul>
+        </nav>
+    
+
+
+            <div class="o-grid__row">
+                <div class="o-grid__col:12">
+                    <article class="c-article" id="article">
+                        <!--TYPO3SEARCH_begin-->
+                        <div class="c-page-title u-space-top:default"><h1 class="u-typo:xxxl u-typo:bold2">How to file a complaint</h1></div>
+                        
+
+
+    <div class="o-grid__row" id="c8640">
+        
+        <div class="o-grid__col:12 o-grid__col:8@md">
+            
+                
+                    
+
+
+    <div id="c4327" class="c-text u-color-bg-width:default u-space-top:default">
+        
+        
+            
+
+    
+
+
+
+        
+        <p>The IKI Independent Complaint Mechanism (ICM) works worldwide to help resolve issues concerning IKI projects.</p><ul class="c-list c-list--unordered"> 	<li>Any person or a group of persons, or a community that has been or may be affected negatively by an IKI project may file a complaint.</li> 	<li>Also, persons wishing to do so can report integrity and/or corruption issues, such as misuse of funds, fraud etc.</li> 	<li>Last but not least,&nbsp;, if persons experience reprisals in relation to an IKI project or a complaint, they can also use this channel.&nbsp;The affected person(s) can authorise a representative to file and pursue the complaint on their behalf.</li> </ul><p>A complaint can be filed in English, or in the local language of the complainant. Where possible, a translation should be provided in English. Otherwise, the IKI ICM will have the complaint translated and respond in the language of the complainant.</p>
+<p>The IKI ICM will provide confidentiality upon receiving a complaint if requested to do so by the complainant. This includes the names and identities of complainants and any designated representatives. Where disclosure may be required to address the complaint, the IKI ICM will consult with the complainant prior to disclosing any confidential information.</p><h2 class="u-typo:bold u-typo:xxl">A complaint with the ICM can be filed by filling out the online complaint form:</h2><ul class="c-list c-list--unordered"> 	<li>sending the&nbsp;complaints form by e-mail to: &nbsp;IKI Independent Complaint Mechanism c/o ZUG gGmbH, Stresemannstrasse 69–71, 10963 Berlin, Germany&nbsp;or by email to: <a href="#" data-mailto-token="nbjmup+jlj.dpnqmbjouAa.v.h/psh" data-mailto-vector="1" class="c-link u-icon u-icon--email u-icon:left">IKI-complaints(at)z-u-g.org</a><br> 	<a href="/fileadmin/iki/Dokumente/Beschwerdemechanismus/IKI_ICM_complaint_form_only_EN_202404.docx" target="_blank" class="c-link u-icon u-icon--download u-icon:left">IKI ICM Complaint Form (English | doc)</a></li> 	<li>sending a voice or video recording</li> </ul><p>Contact us: <a href="tel:+4930726181281">+49 30 72618 1281</a> (landline)</p><h2 class="u-typo:bold u-typo:xxl">Complaints should include the following information:</h2><ul class="c-list c-list--unordered"> 	<li>Name, location and type of IKI project &nbsp;related to the complaint;</li> 	<li>Description of the complaint and the harm caused or expected to be caused;</li> 	<li>Description of how the harm caused or expected to be caused relates to IKI project activities.</li> 	<li>Name, address and other contact details, and information on the level of confidentiality to be maintained. The complainant can also decide to remain anonymous, however in this case the panel might not be able to use the full range of its tools.</li> </ul><h2 class="u-typo:bold u-typo:xxl">If possible, the following information should also be provided:</h2><ul class="c-list c-list--unordered"> 	<li>Relevant information relating to the complaint or relevant to the complaint (e.g. copies of documents, media reports, photos, video recordings, voice recordings);</li> 	<li>Overview of measures (e.g. legal steps, access to other complaint mechanisms and/or dispute resolution procedures, contact with the implementing organisation) planned or already taken to resolve the issue, in particular prior recourse or attempts to contact project officials locally or use project-based complaint mechanisms;</li> 	<li>Name of the employee(s) in the implementing organisation with whom the complainant(s) had contact (where applicable).</li> </ul>
+    </div>
+
+
+                
+            
+        </div>
+        <div class="o-grid__col:12 o-grid__col:4@md">
+            
+                
+                    
+
+
+    <div id="c8642"
+         class="c-download-list u-space-top:default">
+        
+        
+            
+
+    
+        
+
+    
+            <h2 class="u-typo:xxl u-typo:bold u-typo:marker ">
+                Complaint form
+            </h2>
+        
+
+
+
+        
+
+
+
+        
+
+
+
+    
+
+
+
+        
+        
+            
+            
+                    
+                    <div class="c-download-list__item">
+                        
+    <a href="/fileadmin/iki/Dokumente/Beschwerdemechanismus/IKI_ICM_complaint_form_only_EN_202404.docx"
+       class="c-link u-icon u-icon:left" download>
+
+        
+        
+        
+        
+                
+            
+
+        
+        
+        
+                
+            
+
+        
+        
+        
+                
+            
+
+        
+        
+        
+                
+            
+
+        
+        
+        
+
+        <span class="u-typo:bold">IKI ICM Complaint form</span>
+        (English, DOCX, 72 KB)
+        <i class="o-icon-font o-icon-font--download" aria-hidden="true"></i>
+    </a>
+    
+
+                    </div>
+                
+        
+    </div>
+
+
+                
+            
+        </div>
+    </div>
+
+
+                        <!--TYPO3SEARCH_end-->
+                        
+                                
+
+    
+        
+        <div class="c-copy-to-clipboard js-copy-to-clipboard u-space-top:default">
+            <div class="c-copy-to-clipboard__inner">
+                <button class="c-copy-to-clipboard__button" type="button">
+            <span class="c-copy-to-clipboard__marker">
+                <span class="c-copy-to-clipboard__share">Share link</span>
+                <span class="c-copy-to-clipboard__url">
+                   https://www.international-climate-initiative.com/PAGE396-1
+                </span>
+            </span>
+                </button>
+                <p class="c-copy-to-clipboard__text">The link has been copied to the clipboard</p>
+            </div>
+        </div>
+    
+
+                            
+
+                    </article>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    
+
+
+    <footer class="c-footer u-color-bg:pri3 u-color-bg-width:fw u-space-top:default">
+        <div class="o-grid">
+            <div class="c-footer__top">
+                
+    <div class="c-footer__cta">
+        
+            <a href="/en/find-funding/" class="c-button c-button--pri4">
+                Find Funding
+            </a>
+        
+            <a href="/en/manage-project/" class="c-button c-button--pri4">
+                Manage Project
+            </a>
+        
+            <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/" class="c-button c-button--main">
+                File a complaint
+            </a>
+        
+            <a href="/en/about-iki/" class="c-button c-button--main">
+                About IKI
+            </a>
+        
+    </div>
+
+                
+    
+    <div class="c-footer__projects">
+        <h2 class="u-typo:l u-typo:medium">
+            IKI projects worldwide
+        </h2>
+        <a href="/en/search-project/" class="c-footer__projects-icon">
+            <span class="u-accessibility">Opens the projectmap</span>
+            <div class="o-icon-svg o-icon-svg--projects-map" aria-hidden="true">
+                
+    <svg xmlns="http://www.w3.org/2000/svg" width="413" height="193" viewBox="0 0 413 193" focusable="false">
+        <g fill-rule="evenodd">
+            <path d="M129.199 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.667 3.661 3.667 3.512-1.694 3.512-3.667S131.172 0 129.199 0Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.667 3.512 3.667 3.508-1.694 3.508-3.667S141.546 0 139.577 0Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.667 3.508 3.667 3.508-1.694 3.508-3.667S151.923 0 149.951 0Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.667 3.508 3.667 3.512-1.694 3.512-3.667S162.298 0 160.325 0Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.667 3.512 3.667 3.508-1.694 3.508-3.667S172.672 0 170.703 0Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.667 3.508 3.667 3.512-1.694 3.512-3.667S183.05 0 181.077 0Zm114.136 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.667 3.512 3.667 3.661-1.694 3.661-3.667S297.181 0 295.213 0Zm10.528 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.667 3.661 3.667 3.508-1.694 3.508-3.667S307.71 0 305.741 0Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.667 3.661 3.667 3.512-1.694 3.512-3.667S318.088 0 316.115 0Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.667 3.665 3.667 3.508-1.694 3.508-3.667S328.462 0 326.493 0Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.667 3.661 3.667 3.508-1.694 3.508-3.667S338.839 0 336.867 0Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.667 3.661 3.667 3.512-1.694 3.512-3.667S349.215 0 347.242 0ZM35.813 10.381c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.375 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.511 3.508 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm51.88 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.514-3.661-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.514-3.661-3.514Zm20.753 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.514-3.661-3.514Zm10.375 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.514-3.665-3.514Zm10.377 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.514-3.661-3.514Zm10.375 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.514-3.661-3.514Zm10.377 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.514-3.661-3.514Zm10.528 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.54-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.54-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.54-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.54-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511S413 15.865 413 13.895s-1.54-3.514-3.508-3.514ZM14.898 20.613c-1.972 0-3.508 1.694-3.508 3.664s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.528 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.375 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm31.127 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm41.502 0c-.49 0-.947.126-1.373.307-1.281.542-2.136 1.878-2.136 3.357 0 1.973 1.539 3.514 3.508 3.514s3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm31.128 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.665-1.541 3.665-3.514-1.693-3.664-3.665-3.664Zm10.377 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.375 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.377 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.375 0c-1.972 0-3.508 1.694-3.508 3.664s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.665-1.541 3.665-3.514-1.693-3.664-3.665-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.528 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.54-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.54-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.54-3.664-3.508-3.664Zm10.374 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.54-3.664-3.512-3.664ZM4.512 30.995C2.54 30.995 1 32.536 1 34.509s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm41.654 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm20.749 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm72.633 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm20.749 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.665-1.694 3.665-3.664-1.693-3.514-3.665-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Z" fill="#f2f2f2" />
+            <path d="M264.059 30.995c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.665-1.694 3.665-3.664-1.693-3.514-3.665-3.514Z" fill="#9ac8bf" />
+            <path d="M274.436 30.995c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.375 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm10.377 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.528 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.54-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.54-3.514-3.512-3.514ZM46.164 41.227c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm83.01 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.375 0c-1.972 0-3.508 1.694-3.508 3.664s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.665-1.541 3.665-3.514-1.693-3.664-3.665-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.374 0c-1.972 0-3.508 1.694-3.508 3.664s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.665-1.541 3.665-3.514-1.693-3.664-3.665-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.664s1.539 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.664-3.661-3.664Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.664s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.664-3.661-3.664Z" fill="#f2f2f2" />
+            <path d="M305.712 41.227c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Z" fill="#9ac8bf" />
+            <path d="M316.086 41.227c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.664-3.508-3.664Zm10.374 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.54-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.54-3.664-3.512-3.664Zm31.127 0c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.54-3.664-3.512-3.664ZM35.783 51.608c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm93.385 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm20.749 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.665-1.694 3.665-3.664-1.693-3.514-3.665-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.665-1.694 3.665-3.664-1.693-3.514-3.665-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Z" fill="#f2f2f2" />
+            <path d="M295.177 51.608c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Zm10.528 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Z" fill="#9ac8bf" />
+            <path d="M316.079 51.608c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.377 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.54-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.54-3.514-3.512-3.514ZM35.777 61.993c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm103.76 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.514 3.512 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm10.375 0c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.511-3.661-3.511Z" fill="#f2f2f2" />
+            <path d="M243.295 61.993c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.511-3.661-3.511Z" fill="#9ac8bf" />
+            <path d="M253.67 61.993c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.511-3.661-3.511Z" fill="#f2f2f2" />
+            <path d="M264.044 61.993c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.514 3.508 3.514 3.665-1.541 3.665-3.514-1.693-3.511-3.665-3.511Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.511-3.661-3.511Z" fill="#9ac8bf" />
+            <path d="M284.796 61.993c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.514 3.508 3.514 3.661-1.541 3.661-3.514-1.689-3.511-3.661-3.511Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.514 3.512 3.514 3.661-1.541 3.661-3.514-1.693-3.511-3.661-3.511Zm10.528 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.539-3.511-3.508-3.511Zm10.374 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.511-3.508-3.511Z" fill="#f2f2f2" />
+            <path d="M347.202 61.993c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.511-3.512-3.511Z" fill="#9ac8bf" />
+            <path d="M46.149 72.221c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.667-3.508-3.667Zm10.375 0c-1.969 0-3.661 1.694-3.661 3.667s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Zm31.13 0c-1.972 0-3.665 1.694-3.665 3.667s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#f2f2f2" />
+            <path d="M181.038 72.221c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Z" fill="#9ac8bf" />
+            <path d="M191.416 72.221c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#f2f2f2" />
+            <path d="M201.791 72.221c-1.972 0-3.508 1.694-3.508 3.667s1.536 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Z" fill="#9ac8bf" />
+            <path d="M212.165 72.221c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.667-3.665-3.667Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Z" fill="#f2f2f2" />
+            <path d="M232.917 72.221c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Z" fill="#9ac8bf" />
+            <path d="M253.669 72.221c-1.972 0-3.508 1.694-3.508 3.667s1.536 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.667-3.665-3.667Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Z" fill="#f2f2f2" />
+            <path d="M284.795 72.221c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Z" fill="#9ac8bf" />
+            <path d="M295.173 72.221c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Zm10.528 0c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.667s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Z" fill="#f2f2f2" />
+            <path d="M326.453 72.221c-1.972 0-3.665 1.694-3.665 3.667s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#9ac8bf" />
+            <path d="M336.827 72.221c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.667-3.508-3.667Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.667s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667ZM46.149 82.606c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.536-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Z" fill="#f2f2f2" />
+            <path d="M170.659 82.606c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Z" fill="#9ac8bf" />
+            <path d="M191.411 82.606c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Z" fill="#f2f2f2" />
+            <path d="M212.16 82.606c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.665-1.691 3.665-3.664-1.693-3.511-3.665-3.511Z" fill="#9ac8bf" />
+            <path d="M222.537 82.606c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.661-1.691 3.661-3.664-1.693-3.511-3.661-3.511Zm10.375 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Zm20.753 0c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.665-1.691 3.665-3.664-1.693-3.511-3.665-3.511Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.661-1.691 3.661-3.664-1.693-3.511-3.661-3.511Zm20.753 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.661-1.691 3.661-3.664-1.693-3.511-3.661-3.511Zm10.527 0c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Zm10.377 0c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.664 3.665 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Z" fill="#f2f2f2" />
+            <path d="M336.824 82.606c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.536-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511ZM66.897 92.835c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#9ac8bf" />
+            <path d="M170.657 92.835c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#f2f2f2" />
+            <path d="M181.032 92.835c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Z" fill="#9ac8bf" />
+            <path d="M191.409 92.835c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Zm10.375 0c-1.972 0-3.508 1.694-3.508 3.667s1.536 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Zm10.374 0c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.667-3.665-3.667Zm10.378 0c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Z" fill="#f2f2f2" />
+            <path d="M232.91 92.835c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.667-3.661-3.667Z" fill="#9ac8bf" />
+            <path d="M243.288 92.835c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Z" fill="#f2f2f2" />
+            <path d="M264.037 92.835c-1.969 0-3.508 1.694-3.508 3.667s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.667-3.665-3.667Z" fill="#9ac8bf" />
+            <path d="M295.168 92.835c-1.972 0-3.512 1.694-3.512 3.667s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.667-3.661-3.667Zm10.528 0c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.667-3.508-3.667Z" fill="#f2f2f2" />
+            <path d="M316.07 92.835c-1.969 0-3.661 1.694-3.661 3.667s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Z" fill="#9ac8bf" />
+            <path d="M336.823 92.835c-1.972 0-3.661 1.694-3.661 3.667s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.667-3.508-3.667Zm10.374 0c-1.969 0-3.661 1.694-3.661 3.667s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.667-3.512-3.667Z" fill="#f2f2f2" />
+            <path d="M77.272 103.219c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Z" fill="#9ac8bf" />
+            <path d="M87.65 103.219c-1.972 0-3.665 1.541-3.665 3.511s1.693 3.664 3.665 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Z" fill="#f2f2f2" />
+            <path d="M98.024 103.219c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.536-3.511-3.508-3.511Z" fill="#9ac8bf" />
+            <path d="M108.399 103.219c-1.969 0-3.661 1.541-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Zm72.633 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Z" fill="#f2f2f2" />
+            <path d="M212.158 103.219c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.665-1.691 3.665-3.664-1.693-3.511-3.665-3.511Z" fill="#9ac8bf" />
+            <path d="M222.536 103.219c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.661-1.691 3.661-3.664-1.693-3.511-3.661-3.511Zm10.374 0c-1.969 0-3.508 1.541-3.508 3.511s1.539 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.511s1.539 3.664 3.512 3.664 3.661-1.691 3.661-3.664-1.693-3.511-3.661-3.511Z" fill="#f2f2f2" />
+            <path d="M253.662 103.219c-1.972 0-3.508 1.541-3.508 3.511s1.536 3.664 3.508 3.664 3.661-1.691 3.661-3.664-1.689-3.511-3.661-3.511Z" fill="#9ac8bf" />
+            <path d="M305.696 103.219c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.539-3.511-3.508-3.511Z" fill="#f2f2f2" />
+            <path d="M336.823 103.219c-1.972 0-3.661 1.541-3.661 3.511s1.689 3.664 3.661 3.664 3.508-1.691 3.508-3.664-1.536-3.511-3.508-3.511Z" fill="#9ac8bf" />
+            <path d="M87.65 113.601c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.511 3.665 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Zm10.375 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.511 3.661 3.511 3.512-1.541 3.512-3.511-1.539-3.514-3.512-3.514Z" fill="#f2f2f2" />
+            <path d="M118.777 113.601c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.539-3.514-3.508-3.514Z" fill="#9ac8bf" />
+            <path d="M212.161 113.601c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.665-1.541 3.665-3.511-1.693-3.514-3.665-3.514Z" fill="#f2f2f2" />
+            <path d="M222.539 113.601c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.514-3.661-3.514Z" fill="#9ac8bf" />
+            <path d="M232.913 113.601c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.514-3.661-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.511 3.512 3.511 3.661-1.541 3.661-3.511-1.693-3.514-3.661-3.514Zm10.374 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.511 3.508 3.511 3.661-1.541 3.661-3.511-1.689-3.514-3.661-3.514Zm83.161 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.511 3.661 3.511 3.508-1.541 3.508-3.511-1.536-3.514-3.508-3.514ZM77.268 123.833c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Z" fill="#f2f2f2" />
+            <path d="M87.646 123.833c-1.972 0-3.665 1.691-3.665 3.664s1.693 3.511 3.665 3.511 3.508-1.537 3.508-3.511-1.539-3.664-3.508-3.664Z" fill="#9ac8bf" />
+            <path d="M98.02 123.833c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.536-3.664-3.508-3.664Z" fill="#f2f2f2" />
+            <path d="M108.395 123.833c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.539-3.664-3.508-3.664Z" fill="#9ac8bf" />
+            <path d="M129.147 123.833c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.508-1.537 3.508-3.511-1.539-3.664-3.508-3.664Zm72.63 0c-1.969 0-3.508 1.691-3.508 3.664s1.539 3.511 3.508 3.511 3.665-1.537 3.665-3.511-1.693-3.664-3.665-3.664Zm10.378 0c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.661-1.537 3.661-3.511-1.693-3.664-3.661-3.664Zm10.374 0c-1.969 0-3.508 1.691-3.508 3.664s1.539 3.511 3.508 3.511 3.661-1.537 3.661-3.511-1.689-3.664-3.661-3.664Z" fill="#f2f2f2" />
+            <path d="M243.284 123.833c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.661-1.537 3.661-3.511-1.693-3.664-3.661-3.664Z" fill="#9ac8bf" />
+            <path d="M347.192 123.833c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm31.131 0c-1.972 0-3.665 1.691-3.665 3.664s1.693 3.511 3.665 3.511 3.508-1.537 3.508-3.511-1.54-3.664-3.508-3.664ZM87.637 134.214c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.375 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Z" fill="#f2f2f2" />
+            <path d="M108.386 134.214c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Z" fill="#9ac8bf" />
+            <path d="M118.764 134.214c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Zm10.374 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Z" fill="#f2f2f2" />
+            <path d="M212.145 134.214c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.665-1.694 3.665-3.664-1.693-3.514-3.665-3.514Z" fill="#9ac8bf" />
+            <path d="M222.523 134.214c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Z" fill="#f2f2f2" />
+            <path d="M232.897 134.214c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm10.378 0c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Z" fill="#9ac8bf" />
+            <path d="M357.559 134.214c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.54-3.514-3.508-3.514ZM98.002 144.446c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.536-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.539-3.664-3.508-3.664Zm10.374 0c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm10.378 0c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.508-1.537 3.508-3.511-1.539-3.664-3.508-3.664Zm72.63 0c-1.969 0-3.508 1.691-3.508 3.664s1.539 3.511 3.508 3.511 3.665-1.537 3.665-3.511-1.693-3.664-3.665-3.664Zm10.377 0c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.661-1.537 3.661-3.511-1.693-3.664-3.661-3.664Zm10.375 0c-1.969 0-3.508 1.691-3.508 3.664s1.539 3.511 3.508 3.511 3.661-1.537 3.661-3.511-1.689-3.664-3.661-3.664Zm10.377 0c-1.972 0-3.512 1.691-3.512 3.664s1.539 3.511 3.512 3.511 3.661-1.537 3.661-3.511-1.693-3.664-3.661-3.664Zm20.75 0c-1.969 0-3.508 1.691-3.508 3.664s1.539 3.511 3.508 3.511 3.665-1.537 3.665-3.511-1.693-3.664-3.665-3.664Zm72.786 0c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.536-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.661 1.691-3.661 3.664s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.54-3.664-3.508-3.664Zm10.375 0c-1.969 0-3.661 1.691-3.661 3.664s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.54-3.664-3.512-3.664Zm10.377 0c-1.972 0-3.665 1.691-3.665 3.664s1.693 3.511 3.665 3.511 3.508-1.537 3.508-3.511-1.54-3.664-3.508-3.664Z" fill="#f2f2f2" />
+            <path d="M97.996 154.827c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Z" fill="#9ac8bf" />
+            <path d="M108.37 154.827c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.378 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.539-3.514-3.508-3.514Z" fill="#f2f2f2" />
+            <path d="M129.122 154.827c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Z" fill="#9ac8bf" />
+            <path d="M222.506 154.827c-1.972 0-3.512 1.541-3.512 3.514s1.539 3.664 3.512 3.664 3.661-1.694 3.661-3.664-1.693-3.514-3.661-3.514Z" fill="#f2f2f2" />
+            <path d="M232.881 154.827c-1.969 0-3.508 1.541-3.508 3.514s1.539 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Zm20.753 0c-1.972 0-3.508 1.541-3.508 3.514s1.536 3.664 3.508 3.664 3.661-1.694 3.661-3.664-1.689-3.514-3.661-3.514Z" fill="#9ac8bf" />
+            <path d="M336.794 154.827c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.536-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.539-3.514-3.512-3.514Zm10.377 0c-1.972 0-3.661 1.541-3.661 3.514s1.689 3.664 3.661 3.664 3.508-1.694 3.508-3.664-1.54-3.514-3.508-3.514Zm10.375 0c-1.969 0-3.661 1.541-3.661 3.514s1.693 3.664 3.661 3.664 3.512-1.694 3.512-3.664-1.54-3.514-3.512-3.514Zm10.377 0c-1.972 0-3.665 1.541-3.665 3.514s1.693 3.664 3.665 3.664 3.508-1.694 3.508-3.664-1.54-3.514-3.508-3.514ZM97.989 165.212c-1.972 0-3.661 1.537-3.661 3.511s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.536-3.511-3.508-3.511Z" fill="#f2f2f2" />
+            <path d="M108.363 165.212c-1.969 0-3.661 1.537-3.661 3.511s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.511-3.512-3.511Z" fill="#9ac8bf" />
+            <path d="M118.741 165.212c-1.972 0-3.661 1.537-3.661 3.511s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.539-3.511-3.508-3.511Zm103.76 0c-1.972 0-3.512 1.537-3.512 3.511s1.539 3.511 3.512 3.511 3.661-1.537 3.661-3.511-1.693-3.511-3.661-3.511Zm10.374 0c-1.969 0-3.508 1.537-3.508 3.511s1.539 3.511 3.508 3.511 3.661-1.537 3.661-3.511-1.689-3.511-3.661-3.511Zm103.918 0c-1.972 0-3.661 1.537-3.661 3.511s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.536-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.537-3.661 3.511s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.539-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.661 1.537-3.661 3.511s1.689 3.511 3.661 3.511 3.508-1.537 3.508-3.511-1.54-3.511-3.508-3.511Zm10.374 0c-1.969 0-3.661 1.537-3.661 3.511s1.693 3.511 3.661 3.511 3.512-1.537 3.512-3.511-1.54-3.511-3.512-3.511Zm10.378 0c-1.972 0-3.665 1.537-3.665 3.511s1.693 3.511 3.665 3.511 3.508-1.537 3.508-3.511-1.54-3.511-3.508-3.511Zm-280.31 10.229c-1.972 0-3.661 1.694-3.661 3.664s1.689 3.514 3.661 3.514 3.508-1.541 3.508-3.514-1.536-3.664-3.508-3.664Z" fill="#f2f2f2" />
+            <path d="M108.361 175.441c-1.969 0-3.661 1.694-3.661 3.664s1.693 3.514 3.661 3.514 3.512-1.541 3.512-3.514-1.539-3.664-3.512-3.664Z" fill="#9ac8bf" />
+            <path d="M378.295 175.441c-1.972 0-3.665 1.694-3.665 3.664s1.693 3.514 3.665 3.514 3.508-1.541 3.508-3.514-1.54-3.664-3.508-3.664Zm-269.934 10.385c-1.969 0-3.661 1.537-3.661 3.511s1.693 3.664 3.661 3.664 3.512-1.691 3.512-3.664-1.539-3.511-3.512-3.511Z" fill="#f2f2f2" />
+        </g>
+    </svg>
+
+            </div>
+        </a>
+    </div>
+
+                
+
+
+    <div class="c-footer__topics">
+        
+            <h2 class="u-typo:l u-typo:medium">
+                IKI funding areas
+            </h2>
+        
+        <div class="c-chart-topics c-chart-topics--light   ">
+            <div class="c-chart-topics__content">
+                <ul class="c-chart-topics__list">
+                    
+                        
+                            <li
+                                    data-x_pos="10"
+                                    data-y_pos="140"
+                                    data-size="20"
+                                    class="c-chart-topics__list-item --color-sec1"
+                            >
+                                <a href="/en/about-iki/iki-funding-area-preserving-and-restoring-natural-carbon-sinks/" class="c-chart-topics__link u-typo:s">
+                                    Preserving and restoring natural carbon sinks
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li
+                                    data-x_pos="20"
+                                    data-y_pos="30"
+                                    data-size="30"
+                                    class="c-chart-topics__list-item --color-pri2"
+                            >
+                                <a href="/en/about-iki/funding-area-mitigating-greenhouse-gas-emissions/" class="c-chart-topics__link u-typo:s">
+                                    Mitigating greenhouse gas emissions
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li
+                                    data-x_pos="80"
+                                    data-y_pos="90"
+                                    data-size="20"
+                                    class="c-chart-topics__list-item --color-light1"
+                            >
+                                <a href="/en/about-iki/iki-funding-area-adaptation-to-the-impacts-of-climate-change/" class="c-chart-topics__link u-typo:s">
+                                    Adapting to the impacts of climate change
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li
+                                    data-x_pos="120"
+                                    data-y_pos="40"
+                                    data-size="36"
+                                    class="c-chart-topics__list-item --color-pri2"
+                            >
+                                <a href="/en/funding-priorities/" class="c-chart-topics__link u-typo:s">
+                                    Cross-cutting topics
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li
+                                    data-x_pos="250"
+                                    data-y_pos="120"
+                                    data-size="26"
+                                    class="c-chart-topics__list-item --color-sec1"
+                            >
+                                <a href="/en/about-iki/funding-area-conserving-biological-diversity/" class="c-chart-topics__link u-typo:s">
+                                    Conserving biological diversity
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
+                <svg aria-hidden="true" class="c-chart-topics__svg c-chart-topics__svg--light">
+                    <line class="line original" stroke="black"/>
+                </svg>
+            </div>
+        </div>
+    </div>
+
+
+            </div>
+            <div class="c-footer__center">
+                <div class="c-footer__logo">
+                    <a href="/en/" class="c-logo c-logo--iki">
+                        <img src="/_assets/586c2e293803aaedc627d58ec1875a9b/Images/iki-footer-logo-en.svg" alt="Logo International Climate Initiative (IKI) links to IKI homepage"/>
+                    </a>
+                </div>
+                <div class="c-footer__logo">
+                    <div class="c-logo c-logo--bmu">
+                            <img src="/_assets/586c2e293803aaedc627d58ec1875a9b/Images/bmu/logo-bmu-en.svg?v1" alt="Figurative mark: Federal Ministry for the Environment, Climate Action, Nature Conversation and Nuclear Safety"/>
+                    </div>
+                </div>
+                <div class="c-footer__copy">
+                    <p class="u-typo:s">
+                        The International Climate Initiative is one of the key instruments of the German Federal Government to support international climate action and biodiversity. The IKI supports solution strategies in developing and emerging countries that seek to achieve sustainable change.
+                    </p>
+                </div>
+            </div>
+            <div class="c-footer__bottom">
+                
+
+
+    <nav class="c-menu-meta" aria-label="Footer-Navigation">
+        
+            <ul class="c-menu-meta__list">
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/legal-notice/" 
+                        title="Legal Notice" class="c-menu-meta__link">
+                        Legal Notice
+                        </a>
+                    </li>
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/cookie-declaration/" 
+                        title="Cookie declaration" class="c-menu-meta__link">
+                        Cookie declaration
+                        </a>
+                    </li>
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/privacy-policy/" 
+                        title="Privacy policy" class="c-menu-meta__link">
+                        Privacy policy
+                        </a>
+                    </li>
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/contact/" 
+                        title="Contact" class="c-menu-meta__link">
+                        Contact
+                        </a>
+                    </li>
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/iki-media/newsletter/" 
+                        title="Newsletter" class="c-menu-meta__link">
+                        Newsletter
+                        </a>
+                    </li>
+                
+                    <li class="c-menu-meta__item">
+                        <a href="/en/about-iki/values-responsibility/independent-complaint-mechanism/" 
+                        title="Complaint mechanism" class="c-menu-meta__link">
+                        Complaint mechanism
+                        </a>
+                    </li>
+                
+            </ul>
+        
+    </nav>
+
+
+                
+    <div class="c-social-media c-social-media--icon ">
+        <span class="u-accessibility" id="social-media">Social Media Links</span>
+        <ul class="c-social-media__list" aria-labelledby="social-media">
+            
+                <li class="c-social-media__item">
+                    <a href="https://www.linkedin.com/company/iki-germany/" target="_blank" rel="noreferrer" title="LinkedIn" class="c-link-icon-only u-icon">
+                        <span class="u-accessibility">LinkedIn</span>
+                        <i class="o-icon-font o-icon-font--linkedin" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li class="c-social-media__item">
+                    <a href="https://bsky.app/profile/iki-germany.bsky.social" target="_blank" rel="noreferrer" title="Bluesky" class="c-link-icon-only u-icon">
+                        <span class="u-accessibility">Bluesky</span>
+                        <i class="o-icon-font o-icon-font--bluesky" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+        </ul>
+    </div>
+
+            </div>
+            <div class="c-footer__icon">
+                <i class="o-icon-font o-icon-font--circle" aria-hidden="true"></i>
+            </div>
+        </div>
+        <button id="scroll-to-top" class="c-button-icon-only c-button--main c-scroll-to-top u-icon" type="button">
+            <span class="u-accessibility">to top</span>
+            <i class="o-icon-font o-icon-font--arrow-up" aria-hidden="true"></i>
+        </button>
+    </footer>
+
+
+</div>
+
+<script src="/_assets/da7ce1f500cbb52d753ba27f576f80bb/JavaScript/Powermail/Form.min.js?1764350346" defer="defer"></script>
+<script src="/_assets/586c2e293803aaedc627d58ec1875a9b/Base/JavaScript/SearchEnhancements.js?1781005973"></script>
+<script src="/assets/iki-frontend/base/js/main.js?1781005986"></script>
+<script async="async" src="/_assets/00b5e81155aa6d1fc38b8dedd5528a7a/JavaScript/default_frontend.js?1780997258"></script>
+<script>
+/*TS_inlineFooter*/
+document.querySelectorAll('[data-disable-paste]').forEach(function(field) {
+    field.addEventListener('paste', function(e) { e.preventDefault(); });
+});
+
+
+</script>
+
+</body>
+</html>

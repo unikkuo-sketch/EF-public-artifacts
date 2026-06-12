@@ -1,11 +1,1739 @@
 {
-  "runAt": "2026-06-08T05:23:16.167Z",
-  "biweeklySlot": false,
+  "runAt": "2026-06-12T14:47:36.365Z",
+  "biweeklySlot": true,
   "skippedBiweekly": false,
   "hasUpdates": true,
-  "needsReviewCount": 0,
-  "discoveryAlertCount": 0,
+  "needsReviewCount": 2,
+  "discoveryAlertCount": 6,
   "results": [
+    {
+      "resource": {
+        "id": "12",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "芬蘭",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.037,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "芬蘭國家電力係數-2024年",
+          "displayNameEn": "Finland Electricity-2024",
+          "emissionFactor": "0.037",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "FI",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之芬蘭國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Finland.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "12",
+          "country": "芬蘭",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/12_芬蘭/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "13",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "瑞典",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.007,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "瑞典國家電力係數-2024年",
+          "displayNameEn": "Sweden Electricity-2024",
+          "emissionFactor": "0.007",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "SE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之瑞典國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Sweden.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "13",
+          "country": "瑞典",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/13_瑞典/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "14",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "德國",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.298,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "德國國家電力係數-2024年",
+          "displayNameEn": "Germany Electricity-2024",
+          "emissionFactor": "0.298",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "DE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之德國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Germany.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "14",
+          "country": "德國",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/14_德國/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "16",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "荷蘭",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.235,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "荷蘭國家電力係數-2024年",
+          "displayNameEn": "Netherlands Electricity-2024",
+          "emissionFactor": "0.235",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "NL",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之荷蘭國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Netherlands.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "16",
+          "country": "荷蘭",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/16_荷蘭/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "17",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "法國",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.043,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "法國國家電力係數-2024年",
+          "displayNameEn": "France Electricity-2024",
+          "emissionFactor": "0.043",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "FR",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之法國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in France.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "17",
+          "country": "法國",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/17_法國/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "19",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "義大利",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.18,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "義大利國家電力係數-2024年",
+          "displayNameEn": "Italy Electricity-2024",
+          "emissionFactor": "0.18",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "IT",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之義大利國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Italy.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "19",
+          "country": "義大利",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/19_義大利/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "23",
+        "continent": "歐洲",
+        "region": "東歐",
+        "country": "波蘭",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.554,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "波蘭國家電力係數-2024年",
+          "displayNameEn": "Poland Electricity-2024",
+          "emissionFactor": "0.554",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "PL",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之波蘭國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Poland.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "23",
+          "country": "波蘭",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/23_波蘭/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "24",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "立陶宛",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.029,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "立陶宛國家電力係數-2024年",
+          "displayNameEn": "Lithuania Electricity-2024",
+          "emissionFactor": "0.029",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "LT",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之立陶宛國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Lithuania.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "24",
+          "country": "立陶宛",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/24_立陶宛/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "25",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "盧森堡",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.037,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "盧森堡國家電力係數-2024年",
+          "displayNameEn": "Luxembourg Electricity-2024",
+          "emissionFactor": "0.037",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "LU",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之盧森堡國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Luxembourg.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "25",
+          "country": "盧森堡",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/25_盧森堡/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "26",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "奧地利",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.055,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "奧地利國家電力係數-2024年",
+          "displayNameEn": "Austria Electricity-2024",
+          "emissionFactor": "0.055",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "AT",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之奧地利國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Austria.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "26",
+          "country": "奧地利",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/26_奧地利/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "27",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "葡萄牙",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.072,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "葡萄牙國家電力係數-2024年",
+          "displayNameEn": "Portugal Electricity-2024",
+          "emissionFactor": "0.072",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "PT",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之葡萄牙國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Portugal.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "27",
+          "country": "葡萄牙",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/27_葡萄牙/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "28",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "斯洛伐克",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.075,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "斯洛伐克國家電力係數-2024年",
+          "displayNameEn": "Slovakia Electricity-2024",
+          "emissionFactor": "0.075",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "SK",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之斯洛伐克國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Slovakia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "28",
+          "country": "斯洛伐克",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/28_斯洛伐克/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "29",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "丹麥",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.076,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "丹麥國家電力係數-2024年",
+          "displayNameEn": "Denmark Electricity-2024",
+          "emissionFactor": "0.076",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "DK",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之丹麥國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Denmark.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "29",
+          "country": "丹麥",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/29_丹麥/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "30",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "拉脫維亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.082,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "拉脫維亞國家電力係數-2024年",
+          "displayNameEn": "Latvia Electricity-2024",
+          "emissionFactor": "0.082",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "LV",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之拉脫維亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Latvia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "30",
+          "country": "拉脫維亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/30_拉脫維亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "31",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "西班牙",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.129,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "西班牙國家電力係數-2024年",
+          "displayNameEn": "Spain Electricity-2024",
+          "emissionFactor": "0.129",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "ES",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之西班牙國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Spain.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "31",
+          "country": "西班牙",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/31_西班牙/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "32",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "匈牙利",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.137,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "匈牙利國家電力係數-2024年",
+          "displayNameEn": "Hungary Electricity-2024",
+          "emissionFactor": "0.137",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "HU",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之匈牙利國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Hungary.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "32",
+          "country": "匈牙利",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/32_匈牙利/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "33",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "克羅埃西亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.141,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "克羅埃西亞國家電力係數-2024年",
+          "displayNameEn": "Croatia Electricity-2024",
+          "emissionFactor": "0.141",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "HR",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之克羅埃西亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Croatia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "33",
+          "country": "克羅埃西亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/33_克羅埃西亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "34",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "比利時",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.145,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "比利時國家電力係數-2024年",
+          "displayNameEn": "Belgium Electricity-2024",
+          "emissionFactor": "0.145",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "BE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之比利時國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Belgium.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "34",
+          "country": "比利時",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/34_比利時/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "35",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "斯洛維尼亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.172,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "斯洛維尼亞國家電力係數-2024年",
+          "displayNameEn": "Slovenia Electricity-2024",
+          "emissionFactor": "0.172",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "SI",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之斯洛維尼亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Slovenia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "35",
+          "country": "斯洛維尼亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/35_斯洛維尼亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "36",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "愛爾蘭",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.238,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "愛爾蘭國家電力係數-2024年",
+          "displayNameEn": "Ireland Electricity-2024",
+          "emissionFactor": "0.238",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "IE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之愛爾蘭國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Ireland.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "36",
+          "country": "愛爾蘭",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/36_愛爾蘭/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "37",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "希臘",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.285,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "希臘國家電力係數-2024年",
+          "displayNameEn": "Greece Electricity-2024",
+          "emissionFactor": "0.285",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "GR",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之希臘國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Greece.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "37",
+          "country": "希臘",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/37_希臘/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "38",
+        "continent": "歐洲",
+        "region": "東歐",
+        "country": "羅馬尼亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.296,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "羅馬尼亞國家電力係數-2024年",
+          "displayNameEn": "Romania Electricity-2024",
+          "emissionFactor": "0.296",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "RO",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之羅馬尼亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Romania.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "38",
+          "country": "羅馬尼亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/38_羅馬尼亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "39",
+        "continent": "歐洲",
+        "region": "東歐",
+        "country": "保加利亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.301,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "保加利亞國家電力係數-2024年",
+          "displayNameEn": "Bulgaria Electricity-2024",
+          "emissionFactor": "0.301",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "BG",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之保加利亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Bulgaria.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "39",
+          "country": "保加利亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/39_保加利亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "40",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "捷克",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.332,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "捷克國家電力係數-2024年",
+          "displayNameEn": "Czechia Electricity-2024",
+          "emissionFactor": "0.332",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "CZ",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之捷克國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Czechia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "40",
+          "country": "捷克",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/40_捷克/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "41",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "馬爾他",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.337,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "馬爾他國家電力係數-2024年",
+          "displayNameEn": "Malta Electricity-2024",
+          "emissionFactor": "0.337",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "MT",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之馬爾他國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Malta.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "41",
+          "country": "馬爾他",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/41_馬爾他/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "42",
+        "continent": "歐洲",
+        "region": "南歐",
+        "country": "賽普勒斯",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.535,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "賽普勒斯國家電力係數-2024年",
+          "displayNameEn": "Cyprus Electricity-2024",
+          "emissionFactor": "0.535",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "CY",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之賽普勒斯國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Cyprus.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "42",
+          "country": "賽普勒斯",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/42_賽普勒斯/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "43",
+        "continent": "歐洲",
+        "region": "北歐",
+        "country": "愛沙尼亞",
+        "hasRegionalSplit": false,
+        "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1611d72514c71d50",
+        "html": "[4276 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.585,
+        "announcementYear": 2025,
+        "sourceOrg": "European Environment Agency, European Union",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "愛沙尼亞國家電力係數-2024年",
+          "displayNameEn": "Estonia Electricity-2024",
+          "emissionFactor": "0.585",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "European Environment Agency, European Union",
+          "regionCode": "EE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自European Environment Agency, European Union公告之愛沙尼亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by European Environment Agency, European Union in Estonia.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+        "title": "Greenhouse gas emission intensity of electricity generation, country level",
+        "publishedAt": "2025-11-06T08:36:41+00:00",
+        "method": "plone_search",
+        "contentHash": "1611d72514c71d50",
+        "detectedYears": [
+          2025
+        ]
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "43",
+          "country": "愛沙尼亞",
+          "filename": "eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/43_愛沙尼亞/eea_2025.csv",
+          "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+          "format": "csv"
+        }
+      ]
+    },
     {
       "resource": {
         "id": "1",
@@ -19,11 +1747,11 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "5cec4a432e7a75ac",
+        "contentHash": "14e865c6bb809e9e",
         "html": "[70973 bytes omitted]",
         "detectedDataYear": "2025",
         "detectedFactor": 0.467,
-        "announcementYear": 2025,
+        "announcementYear": 2026,
         "sourceOrg": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
         "confidence": "high",
         "message": "解析 3 種電力排碳係數"
@@ -37,7 +1765,7 @@
           "emissionFactor": "0.467",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2025",
+          "announcementYear": "2026",
           "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
           "regionCode": "TW",
           "lifecycleScope": "大門到大門",
@@ -56,7 +1784,7 @@
           "emissionFactor": "0.466",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2025",
+          "announcementYear": "2026",
           "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
           "regionCode": "TW",
           "lifecycleScope": "大門到大門",
@@ -75,7 +1803,7 @@
           "emissionFactor": "0.471",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2025",
+          "announcementYear": "2026",
           "source": "Bureau of Energy, Ministry of Economic Affairs (Taiwan)",
           "regionCode": "TW",
           "lifecycleScope": "大門到大門",
@@ -93,31 +1821,1929 @@
         "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
         "title": "Resource CSV seed URL",
         "method": "resource_seed",
-        "contentHash": "5cec4a432e7a75ac"
+        "contentHash": "14e865c6bb809e9e"
       },
       "savedAttachments": [
         {
           "resourceId": "1",
           "country": "台灣",
           "filename": "114年度電力排碳係數.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/1_台灣/114年度電力排碳係數.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/1_台灣/114年度電力排碳係數.pdf",
           "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
           "format": "pdf"
         }
       ]
+    },
+    {
+      "resource": {
+        "id": "2",
+        "continent": "亞洲",
+        "region": "東亞",
+        "country": "中國",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/t20251231_1139517.html",
+        "currentDataYear": "2023"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "5d10a9a32695bd7d",
+        "html": "[1140 bytes omitted]",
+        "detectedDataYear": "2023",
+        "detectedFactor": 0.5306,
+        "announcementYear": 2024,
+        "sourceOrg": "Ministry of Ecology and Environment (China)",
+        "confidence": "low",
+        "message": "中國分區係數需人工確認區域"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "中國國家電力係數-2023年",
+          "displayNameEn": "China Electricity-2023",
+          "emissionFactor": "0.5306",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2024",
+          "source": "Ministry of Ecology and Environment (China)",
+          "regionCode": "CN",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2023/12/31",
+          "techDescZh": "取自Ministry of Ecology and Environment (China)公告之中國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Ministry of Ecology and Environment (China) in China.",
+          "exclusions": "",
+          "notes": "中國分區係數需人工確認區域"
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "中國分區係數需人工確認區域",
+      "discovery": {
+        "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
+        "title": "2023年电力二氧化碳排放因子",
+        "publishedAt": "2023",
+        "method": "search_page_scan",
+        "detectedYears": [
+          2023
+        ],
+        "contentHash": "5d10a9a32695bd7d"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "2",
+          "country": "中國",
+          "filename": "W020251231726284332528.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/2_中國/W020251231726284332528.pdf",
+          "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "3",
+        "continent": "亞洲",
+        "region": "東亞",
+        "country": "韓國",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.gir.go.kr/home/board/list.do?menuId=36&boardId=82&boardMasterId=2&boardCategoryId=",
+        "currentDataYear": "2021"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "0f47df3572a90de1",
+        "html": "[436971 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.4541,
+        "announcementYear": 2025,
+        "sourceOrg": "Greenhouse Gas Inventory and Research Center of Korea",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "韓國國家電力係數-2024年",
+          "displayNameEn": "Korea Electricity-2024",
+          "emissionFactor": "0.4541",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "Greenhouse Gas Inventory and Research Center of Korea",
+          "regionCode": "KR",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自Greenhouse Gas Inventory and Research Center of Korea公告之韓國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Greenhouse Gas Inventory and Research Center of Korea in Korea.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2024",
+      "discovery": {
+        "url": "https://www.gir.go.kr/home/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=36&boardId=82&boardMasterId=2&boardCategoryId=&pagerOffset=",
+        "title": "2024년 승인 국가 온실가스 배출계수_전력배출계수",
+        "publishedAt": "2024",
+        "method": "announcement_board_scan",
+        "detectedYears": [
+          2024
+        ],
+        "contentHash": "0f47df3572a90de1"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "3",
+          "country": "韓國",
+          "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+          "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=4ab987a072397ed18f9320a6ac15373b156e6f16005731b1&fileSeq=1",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "4",
+        "continent": "亞洲",
+        "region": "東亞",
+        "country": "日本",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/calc.html",
+        "currentDataYear": "2025"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "970ae6b257696b1a",
+        "html": "[55722 bytes omitted]",
+        "detectedDataYear": "2025",
+        "detectedFactor": 0.423,
+        "announcementYear": 2026,
+        "sourceOrg": "Ministry of the Environment, Government of Japan",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "日本國家電力係數-2025年",
+          "displayNameEn": "Japan Electricity-2025",
+          "emissionFactor": "0.423",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Ministry of the Environment, Government of Japan",
+          "regionCode": "JP",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Ministry of the Environment, Government of Japan公告之日本國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Ministry of the Environment, Government of Japan in Japan.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "discovery": {
+        "url": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+        "title": "令和８年提出用（PDF:368KB）",
+        "method": "gov_portal_pdf",
+        "contentHash": "970ae6b257696b1a"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "4",
+          "country": "日本",
+          "filename": "r08_denki_coefficient_rev2.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/4_日本/r08_denki_coefficient_rev2.pdf",
+          "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "5",
+        "continent": "亞洲",
+        "region": "東南亞",
+        "country": "新加坡",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2",
+        "currentDataYear": "2023"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "7dcefd230221709e",
+        "html": "[1596719 bytes omitted]",
+        "detectedDataYear": "2095",
+        "detectedFactor": 0.402,
+        "announcementYear": 2096,
+        "sourceOrg": "Energy Market Authority (Singapore)",
+        "confidence": "low",
+        "message": "使用 pattern 參考係數，需人工確認"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "新加坡國家電力係數-2095年",
+          "displayNameEn": "Singapore Electricity-2095",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2096",
+          "source": "Energy Market Authority (Singapore)",
+          "regionCode": "SG",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2095/1/1",
+          "inventoryEnd": "2095/12/31",
+          "techDescZh": "取自Energy Market Authority (Singapore)公告之新加坡國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Energy Market Authority (Singapore) in Singapore.",
+          "exclusions": "",
+          "notes": "【需人工確認】發現可能更新：Tabular Data (, 1 MB)（statistics_page_scan，未能自動解析係數）"
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "新加坡國家電力係數-2095年",
+          "displayNameEn": "Singapore Electricity-2095",
+          "emissionFactor": "0.402",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2096",
+          "source": "Energy Market Authority (Singapore)",
+          "regionCode": "SG",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2095/1/1",
+          "inventoryEnd": "2095/12/31",
+          "techDescZh": "取自Energy Market Authority (Singapore)公告之新加坡國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Energy Market Authority (Singapore) in Singapore.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "使用 pattern 參考係數，需人工確認",
+      "discovery": {
+        "url": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
+        "title": "Tabular Data (, 1 MB)",
+        "method": "statistics_page_scan",
+        "contentHash": "7dcefd230221709e"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "5",
+          "country": "新加坡",
+          "filename": "SES_tabular.xlsx.coredownload.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
+          "sourceUrl": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
+          "format": "xlsx"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "6",
+        "continent": "亞洲",
+        "region": "東南亞",
+        "country": "馬來西亞",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://myenergystats.st.gov.my/news-resources",
+        "currentDataYear": "2022"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "dcf12d852de68cfb",
+        "html": "[1609872 bytes omitted]",
+        "detectedDataYear": "2024-2026",
+        "detectedFactor": null,
+        "announcementYear": 2027,
+        "sourceOrg": "Suruhanjaya Tenaga (Energy Commission)",
+        "confidence": "low",
+        "message": "馬來西亞分電網"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "馬來西亞國家電力係數-2026年",
+          "displayNameEn": "Malaysia Electricity-2026",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2027",
+          "source": "Suruhanjaya Tenaga (Energy Commission)",
+          "regionCode": "MY",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自Suruhanjaya Tenaga (Energy Commission)公告之馬來西亞國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Suruhanjaya Tenaga (Energy Commission) in Malaysia.",
+          "exclusions": "",
+          "notes": "【需人工確認】發現可能更新：SEDA(T)-01/2026 – Perkhidmatan Skim Perlindungan Insurans Berkelompok (Takaful) Warga Kerja SEDA Malaysia Bagi Tempoh Satu (1) Tahun Bermula 1 April 2026 Sehingga 31 Mac 2027（news_listing_scan，未能自動解析係數）"
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "馬來西亞分電網",
+      "discovery": {
+        "url": "https://www.seda.gov.my/sedat-01-2026-perkhidmatan-skim-perlindungan-insurans-berkelompok-takaful-warga-kerja-seda-malaysia-bagi-tempoh-satu-1-tahun-bermula-1-april-2026-sehingga-31-mac-2027/",
+        "title": "SEDA(T)-01/2026 – Perkhidmatan Skim Perlindungan Insurans Berkelompok (Takaful) Warga Kerja SEDA Malaysia Bagi Tempoh Satu (1) Tahun Bermula 1 April 2026 Sehingga 31 Mac 2027",
+        "publishedAt": "2027",
+        "method": "news_listing_scan",
+        "detectedYears": [
+          2026,
+          2027
+        ],
+        "contentHash": "dcf12d852de68cfb"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Feed-In Tariff ( FiT ) Guidelines.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Feed-In Tariff ( FiT ) Guidelines.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/fit-guidelines/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Guidelines for Eligibility of the S02 Bonus.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Guidelines for Eligibility of the S02 Bonus.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/guidelines-for-eligibility-of-the-s02-bonus/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Power Systems Study Guideline.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Power Systems Study Guideline.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/power-systems-study/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Guideline For Suruhanjaya Tenaga Licenses.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Guideline For Suruhanjaya Tenaga Licenses.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/suruhanjaya-tenaga-licenses/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "TNB PV Interconnection.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/TNB PV Interconnection.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/tnb-pv-interconnection/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Procedure For The T&C Of GCPV.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Procedure For The T&C Of GCPV.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/procedure-for-the-tc-of-gcpv/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Biomass & Biogas Acceptance Test.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Biomass & Biogas Acceptance Test.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/biomass-biogas-acceptance-test/",
+          "format": "text"
+        },
+        {
+          "resourceId": "6",
+          "country": "馬來西亞",
+          "filename": "Home owner’s guideline for Solar PV.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Home owner’s guideline for Solar PV.txt",
+          "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/home-owners-guideline-for-solar-pv/",
+          "format": "text"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "7",
+        "continent": "亞洲",
+        "region": "東南亞",
+        "country": "泰國",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://ghgreduction.tgo.or.th/en/premium-t-ver-download/download/6966/3801/32.html",
+        "currentDataYear": "2016-2018"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "31471c58caf7952c",
+        "html": "[20618 bytes omitted]",
+        "detectedDataYear": "2024-2025",
+        "detectedFactor": null,
+        "announcementYear": 2026,
+        "sourceOrg": "Thailand Greenhouse Gas Management Organization",
+        "confidence": "low"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "泰國國家電力係數-2024-2025",
+          "displayNameEn": "Thailand Electricity-2024-2025",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Thailand Greenhouse Gas Management Organization",
+          "regionCode": "TH",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Thailand Greenhouse Gas Management Organization公告之泰國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Thailand Greenhouse Gas Management Organization in Thailand.",
+          "exclusions": "",
+          "notes": "【需人工確認】發現可能更新：Configured direct data file（source_fallback_file，未能自動解析係數）"
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "泰國國家電力係數-2024-2025",
+          "displayNameEn": "Thailand Electricity-2024-2025",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Thailand Greenhouse Gas Management Organization",
+          "regionCode": "TH",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Thailand Greenhouse Gas Management Organization公告之泰國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Thailand Greenhouse Gas Management Organization in Thailand.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "discovery": {
+        "url": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
+        "title": "Configured direct data file",
+        "method": "source_fallback_file",
+        "contentHash": "31471c58caf7952c"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "7",
+          "country": "泰國",
+          "filename": "ts_0508d3ad6a.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/7_泰國/ts_0508d3ad6a.pdf",
+          "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "8",
+        "continent": "亞洲",
+        "region": "東南亞",
+        "country": "越南",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.climatechange.vn/climate_news/viet-nams-2023-updated-grid-emission-factor-signifies-lower-electricity-emissions/",
+        "currentDataYear": "2022"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "6304b709bb010d85",
+        "html": "[316459 bytes omitted]",
+        "detectedDataYear": "2023-2025",
+        "detectedFactor": 0.6592,
+        "announcementYear": 2026,
+        "sourceOrg": "Department of Climate Change in Vietnam",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "越南國家電力係數-2023-2025",
+          "displayNameEn": "Vietnam Electricity-2023-2025",
+          "emissionFactor": "0.6592",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Department of Climate Change in Vietnam",
+          "regionCode": "VN",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Department of Climate Change in Vietnam公告之越南國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Department of Climate Change in Vietnam in Vietnam.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2023-2025",
+      "discovery": {
+        "url": "https://www.climatechange.vn/climate_news/viet-nams-2023-updated-grid-emission-factor-signifies-lower-electricity-emissions/",
+        "title": "Resource CSV seed URL",
+        "method": "resource_seed",
+        "contentHash": "6304b709bb010d85"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "8",
+          "country": "越南",
+          "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+          "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/",
+          "format": "text"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "9",
+        "continent": "亞洲",
+        "region": "東南亞",
+        "country": "菲律賓",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
+        "currentDataYear": "2019-2021"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": null,
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "菲律賓國家電力係數-2019-2021",
+          "displayNameEn": "Philippines Electricity-2019-2021",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2022",
+          "source": "Department of Energy (Philippines)",
+          "regionCode": "PH",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2019/1/1",
+          "inventoryEnd": "2021/12/31",
+          "techDescZh": "取自Department of Energy (Philippines)公告之菲律賓國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Department of Energy (Philippines) in Philippines.",
+          "exclusions": "",
+          "notes": "【需人工確認】發現可能更新：Resource CSV seed URL（resource_seed，未能自動解析係數）"
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "發現可能更新：Resource CSV seed URL（未能自動解析係數）",
+      "discovery": {
+        "url": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
+        "title": "Resource CSV seed URL",
+        "method": "resource_seed"
+      }
+    },
+    {
+      "resource": {
+        "id": "10",
+        "continent": "亞洲",
+        "region": "南亞",
+        "country": "印度",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://cea.nic.in/cdm-co2-baseline-database/?lang=en",
+        "currentDataYear": "2023-2024"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "30d9d02bfa17fe95",
+        "html": "[300265 bytes omitted]",
+        "detectedDataYear": "2023-2025",
+        "detectedFactor": 0.711725,
+        "announcementYear": 2026,
+        "sourceOrg": "Central Electricity Authority of India",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "印度國家電力係數-2023-2025",
+          "displayNameEn": "India Electricity-2023-2025",
+          "emissionFactor": "0.711725",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Central Electricity Authority of India",
+          "regionCode": "IN",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Central Electricity Authority of India公告之印度國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Central Electricity Authority of India in India.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2023-2025",
+      "discovery": {
+        "url": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+        "title": "Configured direct data file",
+        "publishedAt": "2025",
+        "method": "source_fallback_file",
+        "detectedYears": [
+          2025
+        ],
+        "contentHash": "30d9d02bfa17fe95"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "10",
+          "country": "印度",
+          "filename": "CO2_Database_V_21.0.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/10_印度/CO2_Database_V_21.0.xlsx",
+          "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+          "format": "xlsx"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "11",
+        "continent": "亞洲",
+        "region": "阿拉伯半島",
+        "country": "阿拉伯聯合大公國(杜拜)",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+        "currentDataYear": ""
+      },
+      "status": "needs_review",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "3c215bab56a7d434",
+        "html": "[5000 bytes omitted]",
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.4045,
+        "announcementYear": 2025,
+        "sourceOrg": "Dubai Electricity and Water Authority (DEWA)",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "阿拉伯聯合大公國(杜拜)國家電力係數-2024年",
+          "displayNameEn": "阿拉伯聯合大公國(杜拜) Electricity-2024",
+          "emissionFactor": "0.4045",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "Dubai Electricity and Water Authority (DEWA)",
+          "regionCode": "AE",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自Dubai Electricity and Water Authority (DEWA)公告之阿拉伯聯合大公國(杜拜)國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Dubai Electricity and Water Authority (DEWA) in 阿拉伯聯合大公國(杜拜).",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "阿拉伯聯合大公國(杜拜) resource「目前系統數據年分」空白；已解析最新數據年 2024，請補上 resource CSV 後方可標為 auto",
+      "discovery": {
+        "url": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+        "title": "Configured direct data file",
+        "publishedAt": "2024",
+        "method": "source_fallback_file",
+        "detectedYears": [
+          2024
+        ],
+        "contentHash": "3c215bab56a7d434"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+          "format": "pdf"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "15",
+        "continent": "歐洲",
+        "region": "中歐",
+        "country": "瑞士",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.strom.ch/de/media/15760/download",
+        "currentDataYear": ""
+      },
+      "status": "needs_review",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "f366b48672213cb2",
+        "html": "[5000 bytes omitted]",
+        "detectedDataYear": "2025",
+        "detectedFactor": 0.09,
+        "announcementYear": 2026,
+        "sourceOrg": "Verband Schweizerischer Elektrizitätsunternehmen (VSE)",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "瑞士國家電力係數-2025年",
+          "displayNameEn": "Switzerland Electricity-2025",
+          "emissionFactor": "0.09",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Verband Schweizerischer Elektrizitätsunternehmen (VSE)",
+          "regionCode": "CH",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Verband Schweizerischer Elektrizitätsunternehmen (VSE)公告之瑞士國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Verband Schweizerischer Elektrizitätsunternehmen (VSE) in Switzerland.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "瑞士 resource「目前系統數據年分」空白；已解析最新數據年 2025，請補上 resource CSV 後方可標為 auto",
+      "discovery": {
+        "url": "https://www.strom.ch/de/media/15760/download",
+        "title": "Resource CSV seed URL",
+        "method": "fixed_url",
+        "contentHash": "f366b48672213cb2"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "15",
+          "country": "瑞士",
+          "filename": "attachment.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/15_瑞士/attachment.txt",
+          "sourceUrl": "https://www.strom.ch/de/media/15760/download",
+          "format": "text"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "18",
+        "continent": "歐洲",
+        "region": "西歐",
+        "country": "英國",
+        "hasRegionalSplit": false,
+        "sourceUrl": "https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting",
+        "currentDataYear": "2024"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "77a0d91d6563098f",
+        "html": "[61463 bytes omitted]",
+        "detectedDataYear": "2023-2025",
+        "detectedFactor": 0.130959,
+        "announcementYear": 2026,
+        "sourceOrg": "Department for Energy Security and Net Zero (UK)",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "英國國家電力係數-2023-2025",
+          "displayNameEn": "United Kingdom Electricity-2023-2025",
+          "emissionFactor": "0.130959",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Department for Energy Security and Net Zero (UK)",
+          "regionCode": "GB",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自Department for Energy Security and Net Zero (UK)公告之英國國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Department for Energy Security and Net Zero (UK) in United Kingdom.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2023-2025",
+      "discovery": {
+        "url": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
+        "title": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
+        "publishedAt": "2026",
+        "method": "gov_collection_xlsx",
+        "detectedYears": [
+          2026
+        ],
+        "contentHash": "77a0d91d6563098f"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "18",
+          "country": "英國",
+          "filename": "ghg-conversion-factors-2026-full-set.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
+          "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
+          "format": "xlsx"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "21",
+        "continent": "美洲",
+        "region": "北美洲",
+        "country": "美國",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://www.epa.gov/climateleadership/ghg-emission-factors-hub",
+        "currentDataYear": "2023"
+      },
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "1cf22c6c94d45e18",
+        "html": "[41085 bytes omitted]",
+        "detectedDataYear": "2023-2025",
+        "detectedFactor": 0.235616,
+        "announcementYear": 2025,
+        "sourceOrg": "U.S. Environmental Protection Agency",
+        "confidence": "high",
+        "message": "解析 22 個 eGRID 子區係數"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國ASCC Miscellaneous電網電力係數-2023-2025",
+          "displayNameEn": "United States, ASCC Miscellaneous electricity-2023-2025",
+          "emissionFactor": "0.235616",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國ASCC Miscellaneous電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國FRCC all電網電力係數-2023-2025",
+          "displayNameEn": "United States, FRCC all electricity-2023-2025",
+          "emissionFactor": "0.363732",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國FRCC all電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國HICC Miscellaneous電網電力係數-2023-2025",
+          "displayNameEn": "United States, HICC Miscellaneous electricity-2023-2025",
+          "emissionFactor": "0.508984",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國HICC Miscellaneous電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國MRO East電網電力係數-2023-2025",
+          "displayNameEn": "United States, MRO East electricity-2023-2025",
+          "emissionFactor": "0.635939",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國MRO East電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國MRO West電網電力係數-2023-2025",
+          "displayNameEn": "United States, MRO West electricity-2023-2025",
+          "emissionFactor": "0.417315",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國MRO West電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國NPCC New England電網電力係數-2023-2025",
+          "displayNameEn": "United States, NPCC New England electricity-2023-2025",
+          "emissionFactor": "0.243689",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國NPCC New England電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國NPCC NYC/Westchester電網電力係數-2023-2025",
+          "displayNameEn": "United States, NPCC NYC/Westchester electricity-2023-2025",
+          "emissionFactor": "0.442097",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國NPCC NYC/Westchester電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國NPCC Long Island電網電力係數-2023-2025",
+          "displayNameEn": "United States, NPCC Long Island electricity-2023-2025",
+          "emissionFactor": "0.535547",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國NPCC Long Island電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國NPCC Upstate NY電網電力係數-2023-2025",
+          "displayNameEn": "United States, NPCC Upstate NY electricity-2023-2025",
+          "emissionFactor": "0.109311",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國NPCC Upstate NY電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國RFC East電網電力係數-2023-2025",
+          "displayNameEn": "United States, RFC East electricity-2023-2025",
+          "emissionFactor": "0.26977",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國RFC East電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國RFC Michigan電網電力係數-2023-2025",
+          "displayNameEn": "United States, RFC Michigan electricity-2023-2025",
+          "emissionFactor": "0.436394",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國RFC Michigan電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國RFC West電網電力係數-2023-2025",
+          "displayNameEn": "United States, RFC West electricity-2023-2025",
+          "emissionFactor": "0.413368",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國RFC West電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SERC Mississippi Valley電網電力係數-2023-2025",
+          "displayNameEn": "United States, SERC Mississippi Valley electricity-2023-2025",
+          "emissionFactor": "0.335393",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SERC Mississippi Valley電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SERC South電網電力係數-2023-2025",
+          "displayNameEn": "United States, SERC South electricity-2023-2025",
+          "emissionFactor": "0.381423",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SERC South電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SERC Tennessee Valley電網電力係數-2023-2025",
+          "displayNameEn": "United States, SERC Tennessee Valley electricity-2023-2025",
+          "emissionFactor": "0.40628",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SERC Tennessee Valley電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SERC Virginia/Carolina電網電力係數-2023-2025",
+          "displayNameEn": "United States, SERC Virginia/Carolina electricity-2023-2025",
+          "emissionFactor": "0.267723",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SERC Virginia/Carolina電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SPP North電網電力係數-2023-2025",
+          "displayNameEn": "United States, SPP North electricity-2023-2025",
+          "emissionFactor": "0.390963",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SPP North電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國SPP South電網電力係數-2023-2025",
+          "displayNameEn": "United States, SPP South electricity-2023-2025",
+          "emissionFactor": "0.404198",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國SPP South電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國WECC Rockies電網電力係數-2023-2025",
+          "displayNameEn": "United States, WECC Rockies electricity-2023-2025",
+          "emissionFactor": "0.469931",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國WECC Rockies電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國WECC Southwest電網電力係數-2023-2025",
+          "displayNameEn": "United States, WECC Southwest electricity-2023-2025",
+          "emissionFactor": "0.336026",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國WECC Southwest電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國WECC California電網電力係數-2023-2025",
+          "displayNameEn": "United States, WECC California electricity-2023-2025",
+          "emissionFactor": "0.198063",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國WECC California電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "美國WECC Northwest電網電力係數-2023-2025",
+          "displayNameEn": "United States, WECC Northwest electricity-2023-2025",
+          "emissionFactor": "0.286537",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "U.S. Environmental Protection Agency",
+          "regionCode": "US",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2025/12/31",
+          "techDescZh": "取自U.S. Environmental Protection Agency公告之美國WECC Northwest電網電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by U.S. Environmental Protection Agency in United States.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
+      "resourceYearUpdate": "2023-2025",
+      "message": "解析 22 個 eGRID 子區係數",
+      "discovery": {
+        "url": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
+        "title": "2025 GHG Emission Factors Hub (xlsx)",
+        "publishedAt": "2025",
+        "method": "agency_hub_scan",
+        "detectedYears": [
+          2025
+        ],
+        "contentHash": "1cf22c6c94d45e18"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "21",
+          "country": "美國",
+          "filename": "ghg-emission-factors-hub-2025.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/21_美國/ghg-emission-factors-hub-2025.xlsx",
+          "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
+          "format": "xlsx"
+        }
+      ]
+    },
+    {
+      "resource": {
+        "id": "22",
+        "continent": "美洲",
+        "region": "北美洲",
+        "country": "加拿大",
+        "hasRegionalSplit": true,
+        "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
+        "currentDataYear": "2023-2024、2025"
+      },
+      "status": "update_detected",
+      "hasUpdate": true,
+      "parsed": null,
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大國家電力係數-2023-2024、2025",
+          "displayNameEn": "Canada Electricity-2023-2024、2025",
+          "emissionFactor": "",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2023/1/1",
+          "inventoryEnd": "2024/12/31",
+          "techDescZh": "取自Environment and Climate Change Canada公告之加拿大國家電力係數",
+          "techDescEn": "Derived from the national electricity emission factor published by Environment and Climate Change Canada in Canada.",
+          "exclusions": "",
+          "notes": "【需人工確認】發現可能更新：Resource CSV seed URL（resource_seed，未能自動解析係數）"
+        }
+      ],
+      "resourceYearUpdate": null,
+      "message": "發現可能更新：Resource CSV seed URL（未能自動解析係數）",
+      "discovery": {
+        "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
+        "title": "Resource CSV seed URL",
+        "method": "resource_seed"
+      }
     }
   ],
-  "resourceYearChanges": [],
-  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-08.csv",
+  "resourceYearChanges": [
+    {
+      "id": "3",
+      "country": "韓國",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "id": "8",
+      "country": "越南",
+      "from": "2022",
+      "to": "2023-2025"
+    },
+    {
+      "id": "10",
+      "country": "印度",
+      "from": "2023-2024",
+      "to": "2023-2025"
+    },
+    {
+      "id": "12",
+      "country": "芬蘭",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "13",
+      "country": "瑞典",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "14",
+      "country": "德國",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "16",
+      "country": "荷蘭",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "17",
+      "country": "法國",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "18",
+      "country": "英國",
+      "from": "2024",
+      "to": "2023-2025"
+    },
+    {
+      "id": "19",
+      "country": "義大利",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "21",
+      "country": "美國",
+      "from": "2023",
+      "to": "2023-2025"
+    },
+    {
+      "id": "23",
+      "country": "波蘭",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "24",
+      "country": "立陶宛",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "25",
+      "country": "盧森堡",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "26",
+      "country": "奧地利",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "27",
+      "country": "葡萄牙",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "28",
+      "country": "斯洛伐克",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "29",
+      "country": "丹麥",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "30",
+      "country": "拉脫維亞",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "31",
+      "country": "西班牙",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "32",
+      "country": "匈牙利",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "33",
+      "country": "克羅埃西亞",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "34",
+      "country": "比利時",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "35",
+      "country": "斯洛維尼亞",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "36",
+      "country": "愛爾蘭",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "37",
+      "country": "希臘",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "38",
+      "country": "羅馬尼亞",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "39",
+      "country": "保加利亞",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "40",
+      "country": "捷克",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "41",
+      "country": "馬爾他",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "42",
+      "country": "賽普勒斯",
+      "from": "2022",
+      "to": "2024"
+    },
+    {
+      "id": "43",
+      "country": "愛沙尼亞",
+      "from": "2022",
+      "to": "2024"
+    }
+  ],
+  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-12.csv",
   "reportFile": null,
   "attachmentFiles": [
+    {
+      "resourceId": "12",
+      "country": "芬蘭",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/12_芬蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "13",
+      "country": "瑞典",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/13_瑞典/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "14",
+      "country": "德國",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/14_德國/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "16",
+      "country": "荷蘭",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/16_荷蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "17",
+      "country": "法國",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/17_法國/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "19",
+      "country": "義大利",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/19_義大利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "23",
+      "country": "波蘭",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/23_波蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "24",
+      "country": "立陶宛",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/24_立陶宛/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "25",
+      "country": "盧森堡",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/25_盧森堡/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "26",
+      "country": "奧地利",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/26_奧地利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "27",
+      "country": "葡萄牙",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/27_葡萄牙/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "28",
+      "country": "斯洛伐克",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/28_斯洛伐克/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "29",
+      "country": "丹麥",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/29_丹麥/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "30",
+      "country": "拉脫維亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/30_拉脫維亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "31",
+      "country": "西班牙",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/31_西班牙/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "32",
+      "country": "匈牙利",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/32_匈牙利/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "33",
+      "country": "克羅埃西亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/33_克羅埃西亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "34",
+      "country": "比利時",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/34_比利時/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "35",
+      "country": "斯洛維尼亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/35_斯洛維尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "36",
+      "country": "愛爾蘭",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/36_愛爾蘭/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "37",
+      "country": "希臘",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/37_希臘/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "38",
+      "country": "羅馬尼亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/38_羅馬尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "39",
+      "country": "保加利亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/39_保加利亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "40",
+      "country": "捷克",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/40_捷克/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "41",
+      "country": "馬爾他",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/41_馬爾他/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "42",
+      "country": "賽普勒斯",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/42_賽普勒斯/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
+    {
+      "resourceId": "43",
+      "country": "愛沙尼亞",
+      "filename": "eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/43_愛沙尼亞/eea_2025.csv",
+      "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
+      "format": "csv"
+    },
     {
       "resourceId": "1",
       "country": "台灣",
       "filename": "114年度電力排碳係數.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-08/1_台灣/114年度電力排碳係數.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/1_台灣/114年度電力排碳係數.pdf",
       "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
       "format": "pdf"
+    },
+    {
+      "resourceId": "2",
+      "country": "中國",
+      "filename": "W020251231726284332528.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/2_中國/W020251231726284332528.pdf",
+      "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "3",
+      "country": "韓國",
+      "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=4ab987a072397ed18f9320a6ac15373b156e6f16005731b1&fileSeq=1",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "4",
+      "country": "日本",
+      "filename": "r08_denki_coefficient_rev2.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/4_日本/r08_denki_coefficient_rev2.pdf",
+      "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "5",
+      "country": "新加坡",
+      "filename": "SES_tabular.xlsx.coredownload.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
+      "sourceUrl": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
+      "format": "xlsx"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Feed-In Tariff ( FiT ) Guidelines.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Feed-In Tariff ( FiT ) Guidelines.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/fit-guidelines/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Guidelines for Eligibility of the S02 Bonus.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Guidelines for Eligibility of the S02 Bonus.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/guidelines-for-eligibility-of-the-s02-bonus/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Power Systems Study Guideline.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Power Systems Study Guideline.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/power-systems-study/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Guideline For Suruhanjaya Tenaga Licenses.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Guideline For Suruhanjaya Tenaga Licenses.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/suruhanjaya-tenaga-licenses/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "TNB PV Interconnection.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/TNB PV Interconnection.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/tnb-pv-interconnection/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Procedure For The T&C Of GCPV.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Procedure For The T&C Of GCPV.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/procedure-for-the-tc-of-gcpv/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Biomass & Biogas Acceptance Test.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Biomass & Biogas Acceptance Test.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/biomass-biogas-acceptance-test/",
+      "format": "text"
+    },
+    {
+      "resourceId": "6",
+      "country": "馬來西亞",
+      "filename": "Home owner’s guideline for Solar PV.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/6_馬來西亞/Home owner’s guideline for Solar PV.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/home-owners-guideline-for-solar-pv/",
+      "format": "text"
+    },
+    {
+      "resourceId": "7",
+      "country": "泰國",
+      "filename": "ts_0508d3ad6a.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/7_泰國/ts_0508d3ad6a.pdf",
+      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "8",
+      "country": "越南",
+      "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+      "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/",
+      "format": "text"
+    },
+    {
+      "resourceId": "10",
+      "country": "印度",
+      "filename": "CO2_Database_V_21.0.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/10_印度/CO2_Database_V_21.0.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+      "format": "xlsx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "15",
+      "country": "瑞士",
+      "filename": "attachment.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/15_瑞士/attachment.txt",
+      "sourceUrl": "https://www.strom.ch/de/media/15760/download",
+      "format": "text"
+    },
+    {
+      "resourceId": "18",
+      "country": "英國",
+      "filename": "ghg-conversion-factors-2026-full-set.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
+      "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
+      "format": "xlsx"
+    },
+    {
+      "resourceId": "21",
+      "country": "美國",
+      "filename": "ghg-emission-factors-hub-2025.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-12/21_美國/ghg-emission-factors-hub-2025.xlsx",
+      "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
+      "format": "xlsx"
     }
-  ]
+  ],
+  "strategyHints": []
 }
