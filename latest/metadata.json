@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-06-12T14:52:44.884Z",
+  "publishedAt": "2026-06-21T08:37:42.360Z",
   "source": "emissionfactor",
-  "csv": "EF_output_2026-06-12.csv",
-  "report": "report_2026-06-12.json",
+  "csv": "EF_output_2026-06-21.csv",
+  "report": "report_2026-06-21.json",
   "reportHtml": "report.html",
   "hasUpdates": true,
   "attachments": [
@@ -210,13 +210,6 @@
       "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf"
     },
     {
-      "resourceId": "3",
-      "country": "韓國",
-      "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
-      "path": "attachments/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
-      "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=4ab987a072397ed18f9320a6ac15373b156e6f16005731b1&fileSeq=1"
-    },
-    {
       "resourceId": "4",
       "country": "日本",
       "filename": "r08_denki_coefficient_rev2.pdf",
@@ -233,58 +226,58 @@
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Feed-In Tariff ( FiT ) Guidelines.txt",
-      "path": "attachments/6_馬來西亞/Feed-In Tariff ( FiT ) Guidelines.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/fit-guidelines/"
+      "filename": "Sample of Standardiz​ed REPPAs.txt",
+      "path": "attachments/6_馬來西亞/Sample of Standardiz​ed REPPAs.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/forms/sample-of-standardiz%e2%80%8bed-reppas/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Guidelines for Eligibility of the S02 Bonus.txt",
-      "path": "attachments/6_馬來西亞/Guidelines for Eligibility of the S02 Bonus.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/guidelines-for-eligibility-of-the-s02-bonus/"
+      "filename": "TNB Nodal Points.txt",
+      "path": "attachments/6_馬來西亞/TNB Nodal Points.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/tnb-nodal-points/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Power Systems Study Guideline.txt",
-      "path": "attachments/6_馬來西亞/Power Systems Study Guideline.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/power-systems-study/"
+      "filename": "Presentation Materials.txt",
+      "path": "attachments/6_馬來西亞/Presentation Materials.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/presentation-materials/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Guideline For Suruhanjaya Tenaga Licenses.txt",
-      "path": "attachments/6_馬來西亞/Guideline For Suruhanjaya Tenaga Licenses.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/suruhanjaya-tenaga-licenses/"
+      "filename": "SEDA Annual Report.txt",
+      "path": "attachments/6_馬來西亞/SEDA Annual Report.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/seda-annual-report/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "TNB PV Interconnection.txt",
-      "path": "attachments/6_馬來西亞/TNB PV Interconnection.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/tnb-pv-interconnection/"
+      "filename": "E-Magazine.txt",
+      "path": "attachments/6_馬來西亞/E-Magazine.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/magazine/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Procedure For The T&C Of GCPV.txt",
-      "path": "attachments/6_馬來西亞/Procedure For The T&C Of GCPV.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/procedure-for-the-tc-of-gcpv/"
+      "filename": "E-Brochures.txt",
+      "path": "attachments/6_馬來西亞/E-Brochures.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/e-brochures/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Biomass & Biogas Acceptance Test.txt",
-      "path": "attachments/6_馬來西亞/Biomass & Biogas Acceptance Test.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/biomass-biogas-acceptance-test/"
+      "filename": "Archives.txt",
+      "path": "attachments/6_馬來西亞/Archives.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/other-information/"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Home owner’s guideline for Solar PV.txt",
-      "path": "attachments/6_馬來西亞/Home owner’s guideline for Solar PV.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-guidelines/home-owners-guideline-for-solar-pv/"
+      "filename": "OACP.txt",
+      "path": "attachments/6_馬來西亞/OACP.txt",
+      "sourceUrl": "https://www.seda.gov.my/download/oacp/"
     },
     {
       "resourceId": "7",
@@ -299,6 +292,13 @@
       "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
       "path": "attachments/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
       "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/"
+    },
+    {
+      "resourceId": "9",
+      "country": "菲律賓",
+      "filename": "source_url.txt",
+      "path": "attachments/9_菲律賓/source_url.txt",
+      "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202"
     },
     {
       "resourceId": "10",
@@ -334,6 +334,13 @@
       "filename": "ghg-emission-factors-hub-2025.xlsx",
       "path": "attachments/21_美國/ghg-emission-factors-hub-2025.xlsx",
       "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx"
+    },
+    {
+      "resourceId": "22",
+      "country": "加拿大",
+      "filename": "source_url.txt",
+      "path": "attachments/22_加拿大/source_url.txt",
+      "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html"
     }
   ]
 }
