@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-06-26T14:12:48.697Z",
+  "runAt": "2026-06-26T15:23:19.909Z",
   "biweeklySlot": true,
   "skippedBiweekly": false,
   "hasUpdates": true,
-  "needsReviewCount": 1,
-  "discoveryAlertCount": 4,
+  "needsReviewCount": 0,
+  "discoveryAlertCount": 3,
   "results": [
     {
       "resource": {
@@ -1747,7 +1747,7 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "63cd4050800797ea",
+        "contentHash": "bdb45e051fe451b1",
         "html": "[70973 bytes omitted]",
         "detectedDataYear": "2025",
         "detectedFactor": 0.467,
@@ -1821,7 +1821,7 @@
         "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
         "title": "Resource CSV seed URL",
         "method": "resource_seed",
-        "contentHash": "63cd4050800797ea"
+        "contentHash": "bdb45e051fe451b1"
       },
       "savedAttachments": [
         {
@@ -1929,13 +1929,59 @@
         "sourceUrl": "https://www.gir.go.kr/home/board/list.do?menuId=36&boardId=82&boardMasterId=2&boardCategoryId=",
         "currentDataYear": "2020-2022"
       },
-      "status": "failed",
-      "hasUpdate": false,
-      "parsed": null,
-      "outputRows": [],
+      "status": "auto",
+      "hasUpdate": true,
+      "parsed": {
+        "contentHash": "57eff34b92a737d3",
+        "html": "[436971 bytes omitted]",
+        "detectedDataYear": "2020-2022",
+        "detectedFactor": 0.4541,
+        "announcementYear": 2025,
+        "sourceOrg": "Greenhouse Gas Inventory and Research Center of Korea",
+        "confidence": "high"
+      },
+      "outputRows": [
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "韓國國家電力係數-2020-2022",
+          "displayNameEn": "Korea Electricity-2020-2022",
+          "emissionFactor": "0.4541",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2025",
+          "source": "Greenhouse Gas Inventory and Research Center of Korea",
+          "regionCode": "KR",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2020/1/1",
+          "inventoryEnd": "2022/12/31",
+          "techDescZh": "取自Greenhouse Gas Inventory and Research Center of Korea公告之韓國國家電力係數",
+          "techDescEn": "Taken from the national power factor announced by Greenhouse Gas Inventory and Research Center of Korea.",
+          "exclusions": "",
+          "notes": ""
+        }
+      ],
       "resourceYearUpdate": null,
-      "message": "無可用候選 URL",
-      "discovery": null
+      "discovery": {
+        "url": "https://www.gir.go.kr/home/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=36&boardId=82&boardMasterId=2&boardCategoryId=&pagerOffset=",
+        "title": "2024년 승인 국가 온실가스 배출계수_전력배출계수",
+        "publishedAt": "2024",
+        "method": "announcement_board_scan",
+        "detectedYears": [
+          2024
+        ],
+        "contentHash": "57eff34b92a737d3"
+      },
+      "savedAttachments": [
+        {
+          "resourceId": "3",
+          "country": "韓國",
+          "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+          "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=2e4a94abbe5893de804bd4fab9c25c7294703b7324ae930a&fileSeq=1",
+          "format": "pdf"
+        }
+      ]
     },
     {
       "resource": {
@@ -2127,7 +2173,7 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "205d8fb86de81be6",
+        "contentHash": "db558ad1a8fc7dcc",
         "html": "[116389 bytes omitted]",
         "detectedDataYear": "2022-2024",
         "detectedFactor": 0.475,
@@ -2159,9 +2205,9 @@
       "resourceYearUpdate": null,
       "discovery": {
         "url": "https://thaicarbonlabel.tgo.or.th/index.php?lang=EN&mod=YjNKbllXNXBlbUYwYVc5dVgyVnRhWE56YVc5dQ",
-        "title": "Configured EF page",
-        "method": "source_fallback_page",
-        "contentHash": "205d8fb86de81be6"
+        "title": "Resource CSV seed URL",
+        "method": "resource_seed",
+        "contentHash": "db558ad1a8fc7dcc"
       },
       "savedAttachments": [
         {
@@ -2299,10 +2345,10 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "b0966ef0b0cc5f96",
-        "html": "[280399 bytes omitted]",
+        "contentHash": "30d9d02bfa17fe95",
+        "html": "[300265 bytes omitted]",
         "detectedDataYear": "2024-2025",
-        "detectedFactor": 0.712999,
+        "detectedFactor": 0.711725,
         "announcementYear": 2025,
         "sourceOrg": "Central Electricity Authority of India",
         "confidence": "high"
@@ -2313,7 +2359,7 @@
           "greenhouseGas": "CO2",
           "displayNameZh": "印度國家電力係數-2024-2025",
           "displayNameEn": "India Electricity-2024-2025",
-          "emissionFactor": "0.712999",
+          "emissionFactor": "0.711725",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2025",
@@ -2330,23 +2376,22 @@
       ],
       "resourceYearUpdate": null,
       "discovery": {
-        "url": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
+        "url": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
         "title": "Configured direct data file",
-        "publishedAt": "2023",
+        "publishedAt": "2025",
         "method": "source_fallback_file",
         "detectedYears": [
-          2021,
-          2023
+          2025
         ],
-        "contentHash": "b0966ef0b0cc5f96"
+        "contentHash": "30d9d02bfa17fe95"
       },
       "savedAttachments": [
         {
           "resourceId": "10",
           "country": "印度",
-          "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
-          "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
+          "filename": "CO2_Database_V_21.0.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_V_21.0.xlsx",
+          "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
           "format": "xlsx"
         }
       ]
@@ -2361,110 +2406,56 @@
         "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
         "currentDataYear": "2024"
       },
-      "status": "update_detected",
+      "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "e3fe2dfa800863b1",
+        "contentHash": "3c215bab56a7d434",
         "html": "[5000 bytes omitted]",
-        "detectedDataYear": "2025",
-        "detectedFactor": null,
-        "announcementYear": 2026,
+        "detectedDataYear": "2024",
+        "detectedFactor": 0.4045,
+        "announcementYear": 2025,
         "sourceOrg": "Dubai Electricity and Water Authority (DEWA)",
-        "confidence": "low",
-        "message": "無法從 DEWA 永續報告解析電網排放係數"
+        "confidence": "high"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "阿拉伯聯合大公國(杜拜)國家電力係數-2025年",
-          "displayNameEn": "Dubai Electricity-2025",
-          "emissionFactor": "",
+          "displayNameZh": "阿拉伯聯合大公國(杜拜)國家電力係數-2024年",
+          "displayNameEn": "Dubai Electricity-2024",
+          "emissionFactor": "0.4045",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2026",
+          "announcementYear": "2025",
           "source": "Dubai Electricity and Water Authority (DEWA)",
           "regionCode": "AE",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2025/1/1",
-          "inventoryEnd": "2025/12/31",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
           "techDescZh": "取自Dubai Electricity and Water Authority (DEWA)公告之阿拉伯聯合大公國(杜拜)國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Dubai Electricity and Water Authority (DEWA) in Dubai.",
           "exclusions": "",
-          "notes": "無法從 DEWA 永續報告解析電網排放係數"
+          "notes": ""
         }
       ],
       "resourceYearUpdate": null,
-      "message": "無法從 DEWA 永續報告解析電網排放係數",
       "discovery": {
-        "url": "https://www.dewa.gov.ae/en/consumer/sustainability/sustainability-reports",
-        "title": "Configured EF page",
-        "method": "source_fallback_page",
-        "contentHash": "e3fe2dfa800863b1"
+        "url": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+        "title": "Configured direct data file",
+        "publishedAt": "2024",
+        "method": "source_fallback_file",
+        "detectedYears": [
+          2024
+        ],
+        "contentHash": "3c215bab56a7d434"
       },
       "savedAttachments": [
         {
           "resourceId": "11",
           "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Scrap Sales Registration and Update Guide.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Contractors-and-Consultants-Guide.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Collaboration Platform Guide.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
-          "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Company_Profile_Update.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx",
-          "format": "pdf"
-        },
-        {
-          "resourceId": "11",
-          "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "RFX & Quotation Submission for Contracts Section.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
-          "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf",
+          "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
           "format": "pdf"
         }
       ]
@@ -4762,6 +4753,14 @@
       "format": "pdf"
     },
     {
+      "resourceId": "3",
+      "country": "韓國",
+      "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=2e4a94abbe5893de804bd4fab9c25c7294703b7324ae930a&fileSeq=1",
+      "format": "pdf"
+    },
+    {
       "resourceId": "4",
       "country": "日本",
       "filename": "r08_denki_coefficient_rev2.pdf",
@@ -4812,73 +4811,17 @@
     {
       "resourceId": "10",
       "country": "印度",
-      "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
-      "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
+      "filename": "CO2_Database_V_21.0.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_V_21.0.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
       "format": "xlsx"
     },
     {
       "resourceId": "11",
       "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Scrap Sales Registration and Update Guide.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Contractors-and-Consultants-Guide.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Collaboration Platform Guide.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
-      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Company_Profile_Update.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx",
-      "format": "pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "RFX & Quotation Submission for Contracts Section.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
-      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf",
+      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
       "format": "pdf"
     },
     {

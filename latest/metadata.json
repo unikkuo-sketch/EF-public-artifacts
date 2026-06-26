@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-06-26T14:14:03.143Z",
+  "publishedAt": "2026-06-26T15:24:26.227Z",
   "source": "emissionfactor",
   "csv": "EF_output_2026-06-26.csv",
   "report": "report_2026-06-26.json",
@@ -210,6 +210,13 @@
       "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf"
     },
     {
+      "resourceId": "3",
+      "country": "韓國",
+      "filename": "2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "path": "attachments/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf",
+      "sourceUrl": "https://www.gir.go.kr/home/file/readDownloadFile.do?encFileId=2e4a94abbe5893de804bd4fab9c25c7294703b7324ae930a&fileSeq=1"
+    },
+    {
       "resourceId": "4",
       "country": "日本",
       "filename": "r08_denki_coefficient_rev2.pdf",
@@ -254,65 +261,16 @@
     {
       "resourceId": "10",
       "country": "印度",
-      "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
-      "path": "attachments/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
-      "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx"
+      "filename": "CO2_Database_V_21.0.xlsx",
+      "path": "attachments/10_印度/CO2_Database_V_21.0.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx"
     },
     {
       "resourceId": "11",
       "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Scrap Sales Registration and Update Guide.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Contractors-and-Consultants-Guide.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Collaboration Platform Guide.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
-      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Company_Profile_Update.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx"
-    },
-    {
-      "resourceId": "11",
-      "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "RFX & Quotation Submission for Contracts Section.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
-      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf"
+      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx"
     },
     {
       "resourceId": "15",
