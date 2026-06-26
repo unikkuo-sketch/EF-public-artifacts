@@ -1,10 +1,10 @@
 {
-  "runAt": "2026-06-21T08:33:05.778Z",
-  "biweeklySlot": false,
+  "runAt": "2026-06-26T14:12:48.697Z",
+  "biweeklySlot": true,
   "skippedBiweekly": false,
   "hasUpdates": true,
   "needsReviewCount": 1,
-  "discoveryAlertCount": 5,
+  "discoveryAlertCount": 4,
   "results": [
     {
       "resource": {
@@ -64,7 +64,7 @@
           "resourceId": "12",
           "country": "芬蘭",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/12_芬蘭/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/12_芬蘭/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -128,7 +128,7 @@
           "resourceId": "13",
           "country": "瑞典",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/13_瑞典/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/13_瑞典/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -192,7 +192,7 @@
           "resourceId": "14",
           "country": "德國",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/14_德國/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/14_德國/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -256,7 +256,7 @@
           "resourceId": "16",
           "country": "荷蘭",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/16_荷蘭/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/16_荷蘭/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -320,7 +320,7 @@
           "resourceId": "17",
           "country": "法國",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/17_法國/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/17_法國/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -384,7 +384,7 @@
           "resourceId": "19",
           "country": "義大利",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/19_義大利/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/19_義大利/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -398,7 +398,7 @@
         "country": "波蘭",
         "hasRegionalSplit": false,
         "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
-        "currentDataYear": "2023"
+        "currentDataYear": "2024"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -432,7 +432,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2024",
+      "resourceYearUpdate": null,
       "discovery": {
         "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
         "title": "Greenhouse gas emission intensity of electricity generation, country level",
@@ -448,7 +448,7 @@
           "resourceId": "23",
           "country": "波蘭",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/23_波蘭/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/23_波蘭/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -462,7 +462,7 @@
         "country": "立陶宛",
         "hasRegionalSplit": false,
         "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
-        "currentDataYear": "2023"
+        "currentDataYear": "2024"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -496,7 +496,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2024",
+      "resourceYearUpdate": null,
       "discovery": {
         "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
         "title": "Greenhouse gas emission intensity of electricity generation, country level",
@@ -512,7 +512,7 @@
           "resourceId": "24",
           "country": "立陶宛",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/24_立陶宛/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/24_立陶宛/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -526,7 +526,7 @@
         "country": "盧森堡",
         "hasRegionalSplit": false,
         "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
-        "currentDataYear": "2023"
+        "currentDataYear": "2024"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -560,7 +560,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2024",
+      "resourceYearUpdate": null,
       "discovery": {
         "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
         "title": "Greenhouse gas emission intensity of electricity generation, country level",
@@ -576,7 +576,7 @@
           "resourceId": "25",
           "country": "盧森堡",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/25_盧森堡/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/25_盧森堡/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -590,7 +590,7 @@
         "country": "奧地利",
         "hasRegionalSplit": false,
         "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
-        "currentDataYear": "2023"
+        "currentDataYear": "2024"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -624,7 +624,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2024",
+      "resourceYearUpdate": null,
       "discovery": {
         "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
         "title": "Greenhouse gas emission intensity of electricity generation, country level",
@@ -640,7 +640,7 @@
           "resourceId": "26",
           "country": "奧地利",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/26_奧地利/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/26_奧地利/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -654,7 +654,7 @@
         "country": "葡萄牙",
         "hasRegionalSplit": false,
         "sourceUrl": "Greenhouse gas emission intensity of electricity generation, country level | Greenhouse gas emission intensity of electricity generation in Europe | European Environment Agency (EEA)",
-        "currentDataYear": "2023"
+        "currentDataYear": "2024"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -688,7 +688,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2024",
+      "resourceYearUpdate": null,
       "discovery": {
         "url": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
         "title": "Greenhouse gas emission intensity of electricity generation, country level",
@@ -704,7 +704,7 @@
           "resourceId": "27",
           "country": "葡萄牙",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/27_葡萄牙/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/27_葡萄牙/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -768,7 +768,7 @@
           "resourceId": "28",
           "country": "斯洛伐克",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/28_斯洛伐克/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/28_斯洛伐克/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -832,7 +832,7 @@
           "resourceId": "29",
           "country": "丹麥",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/29_丹麥/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/29_丹麥/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -896,7 +896,7 @@
           "resourceId": "30",
           "country": "拉脫維亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/30_拉脫維亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/30_拉脫維亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -960,7 +960,7 @@
           "resourceId": "31",
           "country": "西班牙",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/31_西班牙/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/31_西班牙/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1024,7 +1024,7 @@
           "resourceId": "32",
           "country": "匈牙利",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/32_匈牙利/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/32_匈牙利/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1088,7 +1088,7 @@
           "resourceId": "33",
           "country": "克羅埃西亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/33_克羅埃西亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/33_克羅埃西亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1152,7 +1152,7 @@
           "resourceId": "34",
           "country": "比利時",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/34_比利時/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/34_比利時/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1216,7 +1216,7 @@
           "resourceId": "35",
           "country": "斯洛維尼亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/35_斯洛維尼亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/35_斯洛維尼亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1280,7 +1280,7 @@
           "resourceId": "36",
           "country": "愛爾蘭",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/36_愛爾蘭/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/36_愛爾蘭/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1318,7 +1318,7 @@
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2025",
           "source": "European Environment Agency, European Union",
-          "regionCode": "",
+          "regionCode": "GR",
           "lifecycleScope": "大門到大門",
           "inventoryStart": "2024/1/1",
           "inventoryEnd": "2024/12/31",
@@ -1344,7 +1344,7 @@
           "resourceId": "37",
           "country": "希臘",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/37_希臘/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/37_希臘/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1408,7 +1408,7 @@
           "resourceId": "38",
           "country": "羅馬尼亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/38_羅馬尼亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/38_羅馬尼亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1472,7 +1472,7 @@
           "resourceId": "39",
           "country": "保加利亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/39_保加利亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/39_保加利亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1536,7 +1536,7 @@
           "resourceId": "40",
           "country": "捷克",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/40_捷克/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/40_捷克/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1600,7 +1600,7 @@
           "resourceId": "41",
           "country": "馬爾他",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/41_馬爾他/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/41_馬爾他/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1664,7 +1664,7 @@
           "resourceId": "42",
           "country": "賽普勒斯",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/42_賽普勒斯/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/42_賽普勒斯/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1728,7 +1728,7 @@
           "resourceId": "43",
           "country": "愛沙尼亞",
           "filename": "eea_2025.csv",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/43_愛沙尼亞/eea_2025.csv",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/43_愛沙尼亞/eea_2025.csv",
           "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
           "format": "csv"
         }
@@ -1742,12 +1742,12 @@
         "country": "台灣",
         "hasRegionalSplit": true,
         "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
-        "currentDataYear": "2024"
+        "currentDataYear": "2025"
       },
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "5650d9452f90d6ba",
+        "contentHash": "63cd4050800797ea",
         "html": "[70973 bytes omitted]",
         "detectedDataYear": "2025",
         "detectedFactor": 0.467,
@@ -1815,20 +1815,20 @@
           "notes": "適用表燈非營業、包燈用戶。"
         }
       ],
-      "resourceYearUpdate": "2025",
+      "resourceYearUpdate": null,
       "message": "解析 3 種電力排碳係數",
       "discovery": {
         "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
         "title": "Resource CSV seed URL",
         "method": "resource_seed",
-        "contentHash": "5650d9452f90d6ba"
+        "contentHash": "63cd4050800797ea"
       },
       "savedAttachments": [
         {
           "resourceId": "1",
           "country": "台灣",
           "filename": "114年度電力排碳係數.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/1_台灣/114年度電力排碳係數.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/1_台灣/114年度電力排碳係數.pdf",
           "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
           "format": "pdf"
         }
@@ -1842,7 +1842,7 @@
         "country": "中國",
         "hasRegionalSplit": true,
         "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/t20251231_1139517.html",
-        "currentDataYear": "2022"
+        "currentDataYear": "2023"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -1896,7 +1896,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2023",
+      "resourceYearUpdate": null,
       "message": "解析 2 列中國電力係數",
       "discovery": {
         "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
@@ -1913,7 +1913,7 @@
           "resourceId": "2",
           "country": "中國",
           "filename": "W020251231726284332528.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/2_中國/W020251231726284332528.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/2_中國/W020251231726284332528.pdf",
           "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
           "format": "pdf"
         }
@@ -1991,7 +1991,7 @@
           "resourceId": "4",
           "country": "日本",
           "filename": "r08_denki_coefficient_rev2.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/4_日本/r08_denki_coefficient_rev2.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/4_日本/r08_denki_coefficient_rev2.pdf",
           "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
           "format": "pdf"
         }
@@ -2007,33 +2007,32 @@
         "sourceUrl": "https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2",
         "currentDataYear": "2024"
       },
-      "status": "update_detected",
+      "status": "auto",
       "hasUpdate": true,
       "parsed": {
         "contentHash": "7dcefd230221709e",
         "html": "[1596719 bytes omitted]",
-        "detectedDataYear": "2027",
+        "detectedDataYear": "2024",
         "detectedFactor": 0.402,
-        "announcementYear": 2028,
+        "announcementYear": 2025,
         "sourceOrg": "Energy Market Authority (Singapore)",
-        "confidence": "low",
-        "message": "使用 pattern 參考係數，需人工確認"
+        "confidence": "high"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "新加坡國家電力係數-2027年",
-          "displayNameEn": "Singapore Electricity-2027",
+          "displayNameZh": "新加坡國家電力係數-2024年",
+          "displayNameEn": "Singapore Electricity-2024",
           "emissionFactor": "0.402",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2028",
+          "announcementYear": "2025",
           "source": "Energy Market Authority (Singapore)",
           "regionCode": "SG",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2027/1/1",
-          "inventoryEnd": "2027/12/31",
+          "inventoryStart": "2024/1/1",
+          "inventoryEnd": "2024/12/31",
           "techDescZh": "取自Energy Market Authority (Singapore)公告之新加坡國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Energy Market Authority (Singapore) in Singapore.",
           "exclusions": "",
@@ -2041,7 +2040,6 @@
         }
       ],
       "resourceYearUpdate": null,
-      "message": "使用 pattern 參考係數，需人工確認",
       "discovery": {
         "url": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
         "title": "Tabular Data (, 1 MB)",
@@ -2053,7 +2051,7 @@
           "resourceId": "5",
           "country": "新加坡",
           "filename": "SES_tabular.xlsx.coredownload.xlsx",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
           "sourceUrl": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
           "format": "xlsx"
         }
@@ -2071,113 +2069,47 @@
       },
       "status": "update_detected",
       "hasUpdate": true,
-      "parsed": {
-        "contentHash": "b6454775407e05b8",
-        "html": "[1661024 bytes omitted]",
-        "detectedDataYear": "2025-2027",
-        "detectedFactor": null,
-        "announcementYear": 2028,
-        "sourceOrg": "Suruhanjaya Tenaga (Energy Commission)",
-        "confidence": "low",
-        "message": "馬來西亞分電網"
-      },
+      "parsed": null,
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "馬來西亞Sabah電網電力係數-2025-2027",
-          "displayNameEn": "Malaysia, Sabah Electricity-2025-2027",
-          "emissionFactor": "1.38",
+          "displayNameZh": "馬來西亞國家電力係數-2022年",
+          "displayNameEn": "Malaysia Electricity-2022",
+          "emissionFactor": "",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2028",
+          "announcementYear": "2023",
           "source": "Suruhanjaya Tenaga (Energy Commission)",
           "regionCode": "MY",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2025/1/1",
-          "inventoryEnd": "2027/12/31",
-          "techDescZh": "取自Suruhanjaya Tenaga (Energy Commission)公告之馬來西亞Sabah電網電力係數",
+          "inventoryStart": "2022/1/1",
+          "inventoryEnd": "2022/12/31",
+          "techDescZh": "取自Suruhanjaya Tenaga (Energy Commission)公告之馬來西亞國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Suruhanjaya Tenaga (Energy Commission) in Malaysia.",
           "exclusions": "",
-          "notes": ""
+          "notes": "【需人工確認】發現可能更新：Configured direct data file（source_fallback_file，未能自動解析係數）"
         }
       ],
       "resourceYearUpdate": null,
-      "message": "馬來西亞分電網",
+      "message": "發現可能更新：Configured direct data file（未能自動解析係數）",
       "discovery": {
-        "url": "https://www.seda.gov.my/sedat-01-2026-perkhidmatan-skim-perlindungan-insurans-berkelompok-takaful-warga-kerja-seda-malaysia-bagi-tempoh-satu-1-tahun-bermula-1-april-2026-sehingga-31-mac-2027/",
-        "title": "SEDA(T)-01/2026 – Perkhidmatan Skim Perlindungan Insurans Berkelompok (Takaful) Warga Kerja SEDA Malaysia Bagi Tempoh Satu (1) Tahun Bermula 1 April 2026 Sehingga 31 Mac 2027",
-        "publishedAt": "2027",
-        "method": "news_listing_scan",
+        "url": "https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-",
+        "title": "Configured direct data file",
+        "publishedAt": "2024",
+        "method": "source_fallback_file",
         "detectedYears": [
-          2026,
-          2027
-        ],
-        "contentHash": "b6454775407e05b8"
+          2022,
+          2024
+        ]
       },
       "savedAttachments": [
         {
           "resourceId": "6",
           "country": "馬來西亞",
-          "filename": "Sample of Standardiz​ed REPPAs.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Sample of Standardiz​ed REPPAs.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/forms/sample-of-standardiz%e2%80%8bed-reppas/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "TNB Nodal Points.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/TNB Nodal Points.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/tnb-nodal-points/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "Presentation Materials.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Presentation Materials.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/presentation-materials/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "SEDA Annual Report.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/SEDA Annual Report.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/seda-annual-report/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "E-Magazine.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/E-Magazine.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/magazine/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "E-Brochures.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/E-Brochures.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/e-brochures/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "Archives.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Archives.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/other-information/",
-          "format": "text"
-        },
-        {
-          "resourceId": "6",
-          "country": "馬來西亞",
-          "filename": "OACP.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/OACP.txt",
-          "sourceUrl": "https://www.seda.gov.my/download/oacp/",
+          "filename": "source_url.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/6_馬來西亞/source_url.txt",
+          "sourceUrl": "https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-",
           "format": "text"
         }
       ]
@@ -2189,35 +2121,35 @@
         "region": "東南亞",
         "country": "泰國",
         "hasRegionalSplit": false,
-        "sourceUrl": "https://ghgreduction.tgo.or.th/en/premium-t-ver-download/download/6966/3801/32.html",
-        "currentDataYear": "2024-2025"
+        "sourceUrl": "https://thaicarbonlabel.tgo.or.th/index.php?lang=EN&mod=YjNKbllXNXBlbUYwYVc5dVgyVnRhWE56YVc5dQ",
+        "currentDataYear": "2022-2024"
       },
-      "status": "update_detected",
+      "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "31471c58caf7952c",
-        "html": "[20618 bytes omitted]",
-        "detectedDataYear": "2024-2025",
-        "detectedFactor": null,
+        "contentHash": "205d8fb86de81be6",
+        "html": "[116389 bytes omitted]",
+        "detectedDataYear": "2022-2024",
+        "detectedFactor": 0.475,
         "announcementYear": 2026,
         "sourceOrg": "Thailand Greenhouse Gas Management Organization",
-        "confidence": "low"
+        "confidence": "high"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "泰國國家電力係數-2024-2025",
-          "displayNameEn": "Thailand Electricity-2024-2025",
-          "emissionFactor": "",
+          "displayNameZh": "泰國國家電力係數-2022-2024",
+          "displayNameEn": "Thailand Electricity-2022-2024",
+          "emissionFactor": "0.475",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2026",
           "source": "Thailand Greenhouse Gas Management Organization",
           "regionCode": "TH",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2024/1/1",
-          "inventoryEnd": "2025/12/31",
+          "inventoryStart": "2022/1/1",
+          "inventoryEnd": "2024/12/31",
           "techDescZh": "取自Thailand Greenhouse Gas Management Organization公告之泰國國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Thailand Greenhouse Gas Management Organization in Thailand.",
           "exclusions": "",
@@ -2226,18 +2158,18 @@
       ],
       "resourceYearUpdate": null,
       "discovery": {
-        "url": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
-        "title": "Configured direct data file",
-        "method": "source_fallback_file",
-        "contentHash": "31471c58caf7952c"
+        "url": "https://thaicarbonlabel.tgo.or.th/index.php?lang=EN&mod=YjNKbllXNXBlbUYwYVc5dVgyVnRhWE56YVc5dQ",
+        "title": "Configured EF page",
+        "method": "source_fallback_page",
+        "contentHash": "205d8fb86de81be6"
       },
       "savedAttachments": [
         {
           "resourceId": "7",
           "country": "泰國",
-          "filename": "ts_0508d3ad6a.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/7_泰國/ts_0508d3ad6a.pdf",
-          "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
+          "filename": "attachment.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/7_泰國/attachment.pdf",
+          "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_50f51b4c44.pdf",
           "format": "pdf"
         }
       ]
@@ -2255,7 +2187,7 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "9a83a52769cb7fe2",
+        "contentHash": "af771d4c73c3d5b7",
         "html": "[316459 bytes omitted]",
         "detectedDataYear": "2023",
         "detectedFactor": 0.6592,
@@ -2289,14 +2221,14 @@
         "url": "https://www.climatechange.vn/climate_news/viet-nams-2023-updated-grid-emission-factor-signifies-lower-electricity-emissions/",
         "title": "Resource CSV seed URL",
         "method": "resource_seed",
-        "contentHash": "9a83a52769cb7fe2"
+        "contentHash": "af771d4c73c3d5b7"
       },
       "savedAttachments": [
         {
           "resourceId": "8",
           "country": "越南",
           "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
           "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/",
           "format": "text"
         }
@@ -2348,7 +2280,7 @@
           "resourceId": "9",
           "country": "菲律賓",
           "filename": "source_url.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/9_菲律賓/source_url.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/9_菲律賓/source_url.txt",
           "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
           "format": "text"
         }
@@ -2367,10 +2299,10 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "30d9d02bfa17fe95",
-        "html": "[300265 bytes omitted]",
+        "contentHash": "b0966ef0b0cc5f96",
+        "html": "[280399 bytes omitted]",
         "detectedDataYear": "2024-2025",
-        "detectedFactor": 0.711725,
+        "detectedFactor": 0.712999,
         "announcementYear": 2025,
         "sourceOrg": "Central Electricity Authority of India",
         "confidence": "high"
@@ -2381,7 +2313,7 @@
           "greenhouseGas": "CO2",
           "displayNameZh": "印度國家電力係數-2024-2025",
           "displayNameEn": "India Electricity-2024-2025",
-          "emissionFactor": "0.711725",
+          "emissionFactor": "0.712999",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2025",
@@ -2398,22 +2330,23 @@
       ],
       "resourceYearUpdate": null,
       "discovery": {
-        "url": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+        "url": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
         "title": "Configured direct data file",
-        "publishedAt": "2025",
+        "publishedAt": "2023",
         "method": "source_fallback_file",
         "detectedYears": [
-          2025
+          2021,
+          2023
         ],
-        "contentHash": "30d9d02bfa17fe95"
+        "contentHash": "b0966ef0b0cc5f96"
       },
       "savedAttachments": [
         {
           "resourceId": "10",
           "country": "印度",
-          "filename": "CO2_Database_V_21.0.xlsx",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/10_印度/CO2_Database_V_21.0.xlsx",
-          "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+          "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
+          "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
           "format": "xlsx"
         }
       ]
@@ -2428,56 +2361,110 @@
         "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
         "currentDataYear": "2024"
       },
-      "status": "auto",
+      "status": "update_detected",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "3c215bab56a7d434",
+        "contentHash": "e3fe2dfa800863b1",
         "html": "[5000 bytes omitted]",
-        "detectedDataYear": "2024",
-        "detectedFactor": 0.4045,
-        "announcementYear": 2025,
+        "detectedDataYear": "2025",
+        "detectedFactor": null,
+        "announcementYear": 2026,
         "sourceOrg": "Dubai Electricity and Water Authority (DEWA)",
-        "confidence": "high"
+        "confidence": "low",
+        "message": "無法從 DEWA 永續報告解析電網排放係數"
       },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "阿拉伯聯合大公國(杜拜)國家電力係數-2024年",
-          "displayNameEn": "Dubai Electricity-2024",
-          "emissionFactor": "0.4045",
+          "displayNameZh": "阿拉伯聯合大公國(杜拜)國家電力係數-2025年",
+          "displayNameEn": "Dubai Electricity-2025",
+          "emissionFactor": "",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
-          "announcementYear": "2025",
+          "announcementYear": "2026",
           "source": "Dubai Electricity and Water Authority (DEWA)",
           "regionCode": "AE",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2024/1/1",
-          "inventoryEnd": "2024/12/31",
+          "inventoryStart": "2025/1/1",
+          "inventoryEnd": "2025/12/31",
           "techDescZh": "取自Dubai Electricity and Water Authority (DEWA)公告之阿拉伯聯合大公國(杜拜)國家電力係數",
           "techDescEn": "Derived from the national electricity emission factor published by Dubai Electricity and Water Authority (DEWA) in Dubai.",
           "exclusions": "",
-          "notes": ""
+          "notes": "無法從 DEWA 永續報告解析電網排放係數"
         }
       ],
       "resourceYearUpdate": null,
+      "message": "無法從 DEWA 永續報告解析電網排放係數",
       "discovery": {
-        "url": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
-        "title": "Configured direct data file",
-        "publishedAt": "2024",
-        "method": "source_fallback_file",
-        "detectedYears": [
-          2024
-        ],
-        "contentHash": "3c215bab56a7d434"
+        "url": "https://www.dewa.gov.ae/en/consumer/sustainability/sustainability-reports",
+        "title": "Configured EF page",
+        "method": "source_fallback_page",
+        "contentHash": "e3fe2dfa800863b1"
       },
       "savedAttachments": [
         {
           "resourceId": "11",
           "country": "阿拉伯聯合大公國(杜拜)",
-          "filename": "Sustainability_Report_Eng_2024_V4.pdf",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
-          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+          "filename": "Scrap Sales Registration and Update Guide.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "Contractors-and-Consultants-Guide.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "Collaboration Platform Guide.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
+          "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "Company_Profile_Update.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+          "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx",
+          "format": "pdf"
+        },
+        {
+          "resourceId": "11",
+          "country": "阿拉伯聯合大公國(杜拜)",
+          "filename": "RFX & Quotation Submission for Contracts Section.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
+          "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf",
           "format": "pdf"
         }
       ]
@@ -2536,7 +2523,7 @@
           "resourceId": "15",
           "country": "瑞士",
           "filename": "attachment.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/15_瑞士/attachment.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/15_瑞士/attachment.txt",
           "sourceUrl": "https://www.strom.ch/de/media/15760/download",
           "format": "text"
         }
@@ -2600,7 +2587,7 @@
           "resourceId": "18",
           "country": "英國",
           "filename": "ghg-conversion-factors-2026-full-set.xlsx",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
           "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
           "format": "xlsx"
         }
@@ -2614,7 +2601,7 @@
         "country": "美國",
         "hasRegionalSplit": true,
         "sourceUrl": "https://www.epa.gov/climateleadership/ghg-emission-factors-hub",
-        "currentDataYear": "2022"
+        "currentDataYear": "2023"
       },
       "status": "auto",
       "hasUpdate": true,
@@ -4226,7 +4213,7 @@
           "notes": ""
         }
       ],
-      "resourceYearUpdate": "2023",
+      "resourceYearUpdate": null,
       "message": "解析 28 個 eGRID 子區 × 3 溫室氣體",
       "discovery": {
         "url": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
@@ -4243,7 +4230,7 @@
           "resourceId": "21",
           "country": "美國",
           "filename": "ghg-emission-factors-hub-2025.xlsx",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/21_美國/ghg-emission-factors-hub-2025.xlsx",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/21_美國/ghg-emission-factors-hub-2025.xlsx",
           "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
           "format": "xlsx"
         }
@@ -4257,109 +4244,296 @@
         "country": "加拿大",
         "hasRegionalSplit": true,
         "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
-        "currentDataYear": "2025"
+        "currentDataYear": "2026"
       },
       "status": "update_detected",
       "hasUpdate": true,
-      "parsed": null,
+      "parsed": {
+        "contentHash": "6e5294921ffa0e13",
+        "html": "[33309 bytes omitted]",
+        "detectedDataYear": "2026",
+        "detectedFactor": null,
+        "announcementYear": 2026,
+        "sourceOrg": "Environment and Climate Change Canada",
+        "confidence": "high"
+      },
       "outputRows": [
         {
           "id": "",
           "greenhouseGas": "CO2",
-          "displayNameZh": "加拿大國家電力係數-2025年",
-          "displayNameEn": "Canada Electricity-2025",
-          "emissionFactor": "",
+          "displayNameZh": "加拿大British Columbia電力係數-2026年",
+          "displayNameEn": "Canada, British Columbia Electricity-2026",
+          "emissionFactor": "0.018",
           "unitDenominator": "度(kWh)",
           "unitNumerator": "公斤(kg)",
           "announcementYear": "2026",
           "source": "Environment and Climate Change Canada",
           "regionCode": "CA",
           "lifecycleScope": "大門到大門",
-          "inventoryStart": "2025/1/1",
-          "inventoryEnd": "2025/12/31",
-          "techDescZh": "取自Environment and Climate Change Canada公告之加拿大國家電力係數",
-          "techDescEn": "Derived from the national electricity emission factor published by Environment and Climate Change Canada in Canada.",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
           "exclusions": "",
-          "notes": "【需人工確認】發現可能更新：Resource CSV seed URL（resource_seed，未能自動解析係數）"
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Alberta電力係數-2026年",
+          "displayNameEn": "Canada, Alberta Electricity-2026",
+          "emissionFactor": "0.438",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Saskatchewan電力係數-2026年",
+          "displayNameEn": "Canada, Saskatchewan Electricity-2026",
+          "emissionFactor": "0.631",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Manitoba電力係數-2026年",
+          "displayNameEn": "Canada, Manitoba Electricity-2026",
+          "emissionFactor": "0.0025",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Ontario電力係數-2026年",
+          "displayNameEn": "Canada, Ontario Electricity-2026",
+          "emissionFactor": "0.059",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Quebec電力係數-2026年",
+          "displayNameEn": "Canada, Quebec Electricity-2026",
+          "emissionFactor": "0.0019",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大New Brunswick電力係數-2026年",
+          "displayNameEn": "Canada, New Brunswick Electricity-2026",
+          "emissionFactor": "0.234",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Nova Scotia電力係數-2026年",
+          "displayNameEn": "Canada, Nova Scotia Electricity-2026",
+          "emissionFactor": "0.581",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Prince Edward Island電力係數-2026年",
+          "displayNameEn": "Canada, Prince Edward Island Electricity-2026",
+          "emissionFactor": "0.234",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Newfoundland and Labrador電力係數-2026年",
+          "displayNameEn": "Canada, Newfoundland and Labrador Electricity-2026",
+          "emissionFactor": "0.017",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Yukon電力係數-2026年",
+          "displayNameEn": "Canada, Yukon Electricity-2026",
+          "emissionFactor": "0.074",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Northwest Territories電力係數-2026年",
+          "displayNameEn": "Canada, Northwest Territories Electricity-2026",
+          "emissionFactor": "0.42",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
+        },
+        {
+          "id": "",
+          "greenhouseGas": "CO2",
+          "displayNameZh": "加拿大Nunavut電力係數-2026年",
+          "displayNameEn": "Canada, Nunavut Electricity-2026",
+          "emissionFactor": "0.8",
+          "unitDenominator": "度(kWh)",
+          "unitNumerator": "公斤(kg)",
+          "announcementYear": "2026",
+          "source": "Environment and Climate Change Canada",
+          "regionCode": "CA",
+          "lifecycleScope": "大門到大門",
+          "inventoryStart": "2026/1/1",
+          "inventoryEnd": "2026/12/31",
+          "techDescZh": "取自加拿大環境及氣候變化部公告之電力係數",
+          "techDescEn": "1. Taken from the power grid power factor of each region announced by the Canadian government\n2.This factor is applicable to quantify greenhouse gas emissions in the calendar year 2026",
+          "exclusions": "",
+          "notes": ""
         }
       ],
       "resourceYearUpdate": null,
-      "message": "發現可能更新：Resource CSV seed URL（未能自動解析係數）",
       "discovery": {
-        "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
-        "title": "Resource CSV seed URL",
-        "method": "resource_seed"
+        "url": "https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf",
+        "title": "Configured fallback URL",
+        "method": "source_fallback",
+        "contentHash": "6e5294921ffa0e13"
       },
       "savedAttachments": [
         {
           "resourceId": "22",
           "country": "加拿大",
-          "filename": "source_url.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/22_加拿大/source_url.txt",
-          "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
-          "format": "text"
+          "filename": "En84-294-2025-eng.pdf",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/22_加拿大/En84-294-2025-eng.pdf",
+          "sourceUrl": "https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf",
+          "format": "pdf"
         }
       ]
     }
   ],
-  "resourceYearChanges": [
-    {
-      "id": "1",
-      "country": "台灣",
-      "from": "2024",
-      "to": "2025"
-    },
-    {
-      "id": "2",
-      "country": "中國",
-      "from": "2022",
-      "to": "2023"
-    },
-    {
-      "id": "21",
-      "country": "美國",
-      "from": "2022",
-      "to": "2023"
-    },
-    {
-      "id": "23",
-      "country": "波蘭",
-      "from": "2023",
-      "to": "2024"
-    },
-    {
-      "id": "24",
-      "country": "立陶宛",
-      "from": "2023",
-      "to": "2024"
-    },
-    {
-      "id": "25",
-      "country": "盧森堡",
-      "from": "2023",
-      "to": "2024"
-    },
-    {
-      "id": "26",
-      "country": "奧地利",
-      "from": "2023",
-      "to": "2024"
-    },
-    {
-      "id": "27",
-      "country": "葡萄牙",
-      "from": "2023",
-      "to": "2024"
-    }
-  ],
-  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-21.csv",
+  "resourceYearChanges": [],
+  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-06-26.csv",
   "reportFile": null,
   "attachmentFiles": [
     {
       "resourceId": "12",
       "country": "芬蘭",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/12_芬蘭/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/12_芬蘭/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4367,7 +4541,7 @@
       "resourceId": "13",
       "country": "瑞典",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/13_瑞典/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/13_瑞典/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4375,7 +4549,7 @@
       "resourceId": "14",
       "country": "德國",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/14_德國/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/14_德國/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4383,7 +4557,7 @@
       "resourceId": "16",
       "country": "荷蘭",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/16_荷蘭/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/16_荷蘭/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4391,7 +4565,7 @@
       "resourceId": "17",
       "country": "法國",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/17_法國/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/17_法國/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4399,7 +4573,7 @@
       "resourceId": "19",
       "country": "義大利",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/19_義大利/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/19_義大利/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4407,7 +4581,7 @@
       "resourceId": "23",
       "country": "波蘭",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/23_波蘭/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/23_波蘭/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4415,7 +4589,7 @@
       "resourceId": "24",
       "country": "立陶宛",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/24_立陶宛/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/24_立陶宛/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4423,7 +4597,7 @@
       "resourceId": "25",
       "country": "盧森堡",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/25_盧森堡/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/25_盧森堡/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4431,7 +4605,7 @@
       "resourceId": "26",
       "country": "奧地利",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/26_奧地利/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/26_奧地利/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4439,7 +4613,7 @@
       "resourceId": "27",
       "country": "葡萄牙",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/27_葡萄牙/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/27_葡萄牙/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4447,7 +4621,7 @@
       "resourceId": "28",
       "country": "斯洛伐克",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/28_斯洛伐克/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/28_斯洛伐克/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4455,7 +4629,7 @@
       "resourceId": "29",
       "country": "丹麥",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/29_丹麥/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/29_丹麥/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4463,7 +4637,7 @@
       "resourceId": "30",
       "country": "拉脫維亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/30_拉脫維亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/30_拉脫維亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4471,7 +4645,7 @@
       "resourceId": "31",
       "country": "西班牙",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/31_西班牙/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/31_西班牙/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4479,7 +4653,7 @@
       "resourceId": "32",
       "country": "匈牙利",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/32_匈牙利/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/32_匈牙利/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4487,7 +4661,7 @@
       "resourceId": "33",
       "country": "克羅埃西亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/33_克羅埃西亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/33_克羅埃西亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4495,7 +4669,7 @@
       "resourceId": "34",
       "country": "比利時",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/34_比利時/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/34_比利時/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4503,7 +4677,7 @@
       "resourceId": "35",
       "country": "斯洛維尼亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/35_斯洛維尼亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/35_斯洛維尼亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4511,7 +4685,7 @@
       "resourceId": "36",
       "country": "愛爾蘭",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/36_愛爾蘭/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/36_愛爾蘭/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4519,7 +4693,7 @@
       "resourceId": "37",
       "country": "希臘",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/37_希臘/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/37_希臘/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4527,7 +4701,7 @@
       "resourceId": "38",
       "country": "羅馬尼亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/38_羅馬尼亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/38_羅馬尼亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4535,7 +4709,7 @@
       "resourceId": "39",
       "country": "保加利亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/39_保加利亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/39_保加利亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4543,7 +4717,7 @@
       "resourceId": "40",
       "country": "捷克",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/40_捷克/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/40_捷克/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4551,7 +4725,7 @@
       "resourceId": "41",
       "country": "馬爾他",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/41_馬爾他/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/41_馬爾他/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4559,7 +4733,7 @@
       "resourceId": "42",
       "country": "賽普勒斯",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/42_賽普勒斯/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/42_賽普勒斯/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4567,7 +4741,7 @@
       "resourceId": "43",
       "country": "愛沙尼亞",
       "filename": "eea_2025.csv",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/43_愛沙尼亞/eea_2025.csv",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/43_愛沙尼亞/eea_2025.csv",
       "sourceUrl": "https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file",
       "format": "csv"
     },
@@ -4575,7 +4749,7 @@
       "resourceId": "1",
       "country": "台灣",
       "filename": "114年度電力排碳係數.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/1_台灣/114年度電力排碳係數.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/1_台灣/114年度電力排碳係數.pdf",
       "sourceUrl": "https://www.moeaea.gov.tw/ecw/populace/content/wHandMenuFile.ashx?file_id=17083",
       "format": "pdf"
     },
@@ -4583,7 +4757,7 @@
       "resourceId": "2",
       "country": "中國",
       "filename": "W020251231726284332528.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/2_中國/W020251231726284332528.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/2_中國/W020251231726284332528.pdf",
       "sourceUrl": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf",
       "format": "pdf"
     },
@@ -4591,7 +4765,7 @@
       "resourceId": "4",
       "country": "日本",
       "filename": "r08_denki_coefficient_rev2.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/4_日本/r08_denki_coefficient_rev2.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/4_日本/r08_denki_coefficient_rev2.pdf",
       "sourceUrl": "https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf",
       "format": "pdf"
     },
@@ -4599,87 +4773,31 @@
       "resourceId": "5",
       "country": "新加坡",
       "filename": "SES_tabular.xlsx.coredownload.xlsx",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/5_新加坡/SES_tabular.xlsx.coredownload.xlsx",
       "sourceUrl": "https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx",
       "format": "xlsx"
     },
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Sample of Standardiz​ed REPPAs.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Sample of Standardiz​ed REPPAs.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/forms/sample-of-standardiz%e2%80%8bed-reppas/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "TNB Nodal Points.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/TNB Nodal Points.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/tnb-nodal-points/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "Presentation Materials.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Presentation Materials.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/presentation-materials/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "SEDA Annual Report.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/SEDA Annual Report.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-annual-report/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "E-Magazine.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/E-Magazine.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/magazine/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "E-Brochures.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/E-Brochures.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/e-brochures/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "Archives.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/Archives.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/other-information/",
-      "format": "text"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "OACP.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/6_馬來西亞/OACP.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/oacp/",
+      "filename": "source_url.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/6_馬來西亞/source_url.txt",
+      "sourceUrl": "https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-",
       "format": "text"
     },
     {
       "resourceId": "7",
       "country": "泰國",
-      "filename": "ts_0508d3ad6a.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/7_泰國/ts_0508d3ad6a.pdf",
-      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf",
+      "filename": "attachment.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/7_泰國/attachment.pdf",
+      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_50f51b4c44.pdf",
       "format": "pdf"
     },
     {
       "resourceId": "8",
       "country": "越南",
       "filename": "IKI Independent Complaint Mechanism ​(IKI ICM).txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt",
       "sourceUrl": "https://www.international-climate-initiative.com/en/about-iki/values-responsibility/independent-complaint-mechanism/how-to-file-a-complaint/",
       "format": "text"
     },
@@ -4687,31 +4805,87 @@
       "resourceId": "9",
       "country": "菲律賓",
       "filename": "source_url.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/9_菲律賓/source_url.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/9_菲律賓/source_url.txt",
       "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
       "format": "text"
     },
     {
       "resourceId": "10",
       "country": "印度",
-      "filename": "CO2_Database_V_21.0.xlsx",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/10_印度/CO2_Database_V_21.0.xlsx",
-      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx",
+      "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx",
       "format": "xlsx"
     },
     {
       "resourceId": "11",
       "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx",
+      "filename": "Scrap Sales Registration and Update Guide.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Contractors-and-Consultants-Guide.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Collaboration Platform Guide.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
+      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Company_Profile_Update.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx",
+      "format": "pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "RFX & Quotation Submission for Contracts Section.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
+      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf",
       "format": "pdf"
     },
     {
       "resourceId": "15",
       "country": "瑞士",
       "filename": "attachment.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/15_瑞士/attachment.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/15_瑞士/attachment.txt",
       "sourceUrl": "https://www.strom.ch/de/media/15760/download",
       "format": "text"
     },
@@ -4719,7 +4893,7 @@
       "resourceId": "18",
       "country": "英國",
       "filename": "ghg-conversion-factors-2026-full-set.xlsx",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/18_英國/ghg-conversion-factors-2026-full-set.xlsx",
       "sourceUrl": "https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx",
       "format": "xlsx"
     },
@@ -4727,17 +4901,17 @@
       "resourceId": "21",
       "country": "美國",
       "filename": "ghg-emission-factors-hub-2025.xlsx",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/21_美國/ghg-emission-factors-hub-2025.xlsx",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/21_美國/ghg-emission-factors-hub-2025.xlsx",
       "sourceUrl": "https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx",
       "format": "xlsx"
     },
     {
       "resourceId": "22",
       "country": "加拿大",
-      "filename": "source_url.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-21/22_加拿大/source_url.txt",
-      "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
-      "format": "text"
+      "filename": "En84-294-2025-eng.pdf",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-06-26/22_加拿大/En84-294-2025-eng.pdf",
+      "sourceUrl": "https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf",
+      "format": "pdf"
     }
   ],
   "strategyHints": []

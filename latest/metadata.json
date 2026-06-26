@@ -1,8 +1,8 @@
 {
-  "publishedAt": "2026-06-21T08:37:42.360Z",
+  "publishedAt": "2026-06-26T14:14:03.143Z",
   "source": "emissionfactor",
-  "csv": "EF_output_2026-06-21.csv",
-  "report": "report_2026-06-21.json",
+  "csv": "EF_output_2026-06-26.csv",
+  "report": "report_2026-06-26.json",
   "reportHtml": "report.html",
   "hasUpdates": true,
   "attachments": [
@@ -226,65 +226,16 @@
     {
       "resourceId": "6",
       "country": "馬來西亞",
-      "filename": "Sample of Standardiz​ed REPPAs.txt",
-      "path": "attachments/6_馬來西亞/Sample of Standardiz​ed REPPAs.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/forms/sample-of-standardiz%e2%80%8bed-reppas/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "TNB Nodal Points.txt",
-      "path": "attachments/6_馬來西亞/TNB Nodal Points.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/tnb-nodal-points/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "Presentation Materials.txt",
-      "path": "attachments/6_馬來西亞/Presentation Materials.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/presentation-materials/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "SEDA Annual Report.txt",
-      "path": "attachments/6_馬來西亞/SEDA Annual Report.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/seda-annual-report/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "E-Magazine.txt",
-      "path": "attachments/6_馬來西亞/E-Magazine.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/magazine/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "E-Brochures.txt",
-      "path": "attachments/6_馬來西亞/E-Brochures.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/e-brochures/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "Archives.txt",
-      "path": "attachments/6_馬來西亞/Archives.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/other-information/"
-    },
-    {
-      "resourceId": "6",
-      "country": "馬來西亞",
-      "filename": "OACP.txt",
-      "path": "attachments/6_馬來西亞/OACP.txt",
-      "sourceUrl": "https://www.seda.gov.my/download/oacp/"
+      "filename": "source_url.txt",
+      "path": "attachments/6_馬來西亞/source_url.txt",
+      "sourceUrl": "https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-"
     },
     {
       "resourceId": "7",
       "country": "泰國",
-      "filename": "ts_0508d3ad6a.pdf",
-      "path": "attachments/7_泰國/ts_0508d3ad6a.pdf",
-      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_0508d3ad6a.pdf"
+      "filename": "attachment.pdf",
+      "path": "attachments/7_泰國/attachment.pdf",
+      "sourceUrl": "https://thaicarbonlabel.tgo.or.th/admin/uploadfiles/files/ts_50f51b4c44.pdf"
     },
     {
       "resourceId": "8",
@@ -303,16 +254,65 @@
     {
       "resourceId": "10",
       "country": "印度",
-      "filename": "CO2_Database_V_21.0.xlsx",
-      "path": "attachments/10_印度/CO2_Database_V_21.0.xlsx",
-      "sourceUrl": "https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx"
+      "filename": "CO2_Database_Version_20.0_2023_24.xlsx",
+      "path": "attachments/10_印度/CO2_Database_Version_20.0_2023_24.xlsx",
+      "sourceUrl": "https://cea.nic.in/wp-content/uploads/2021/03/CO2_Database_Version_20.0_2023_24.xlsx"
     },
     {
       "resourceId": "11",
       "country": "阿拉伯聯合大公國(杜拜)",
-      "filename": "Sustainability_Report_Eng_2024_V4.pdf",
-      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf",
-      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx"
+      "filename": "Scrap Sales Registration and Update Guide.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Scrap Sales Registration and Update Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Customer/Scrap-Sales-Registration-and-Update-Guide.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Jointer Certification Testing Services Registration Update Profile Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Builder/Jointer-Certification--Testing-Services--Registration--Update-Profile-Guide.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Contractors-and-Consultants-Guide.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Contractors-and-Consultants-Guide.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/Contractors-and-Consultants-Guide.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/SAFETY-AND-PROTECTION-GUIDELINES.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Consultants-and-Contractors/SAFETY-AND-PROTECTION-GUIDELINES.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Collaboration Platform Guide.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Collaboration Platform Guide.pdf",
+      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/Collaboration_Platform.pdf"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "Company_Profile_Update.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/Company_Profile_Update.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Supplier-Enrollment/Company_Profile_Update.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.pdf",
+      "sourceUrl": "https://www.dewa.gov.ae/-/media/Files/Suppliers-and-Partners/DEWACodeofConductEthicsforSuppliersContractorsandAssociates2020.ashx"
+    },
+    {
+      "resourceId": "11",
+      "country": "阿拉伯聯合大公國(杜拜)",
+      "filename": "RFX & Quotation Submission for Contracts Section.pdf",
+      "path": "attachments/11_阿拉伯聯合大公國(杜拜)/RFX & Quotation Submission for Contracts Section.pdf",
+      "sourceUrl": "https://srm.dewa.gov.ae/irj/go/km/docs/documents/DEWA/SRM_Vendor_User_Manual-Tender%20and%20Quotation%20Final%20BMZ.pdf"
     },
     {
       "resourceId": "15",
@@ -338,9 +338,9 @@
     {
       "resourceId": "22",
       "country": "加拿大",
-      "filename": "source_url.txt",
-      "path": "attachments/22_加拿大/source_url.txt",
-      "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html"
+      "filename": "En84-294-2025-eng.pdf",
+      "path": "attachments/22_加拿大/En84-294-2025-eng.pdf",
+      "sourceUrl": "https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf"
     }
   ]
 }
