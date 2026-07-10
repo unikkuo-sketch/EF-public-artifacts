@@ -1,0 +1,69 @@
+{
+  "consensus": false,
+  "rounds": 1,
+  "producer": {
+    "runAt": "2026-07-10T14:10:03.743Z",
+    "manifestFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/producer-manifest.json"
+  },
+  "reviewer": {
+    "pass": false,
+    "failures": [
+      {
+        "id": "3",
+        "country": "韓國",
+        "kind": "report_status",
+        "message": "[報告狀態待確認] 韓國 #3：status=failed: 無可用候選 URL"
+      },
+      {
+        "id": "9",
+        "country": "菲律賓",
+        "kind": "report_status",
+        "message": "[報告狀態待確認] 菲律賓 #9：status=update_detected: 發現可能更新：Resource CSV seed URL（未能自動解析係數）"
+      },
+      {
+        "id": "10",
+        "country": "印度",
+        "kind": "report_status",
+        "message": "[報告狀態待確認] 印度 #10：status=update_detected: 發現可能更新：Configured direct data file（未能自動解析係數）"
+      },
+      {
+        "id": "22",
+        "country": "加拿大",
+        "kind": "report_status",
+        "message": "[報告狀態待確認] 加拿大 #22：status=update_detected"
+      },
+      {
+        "id": "1",
+        "country": "台灣",
+        "kind": "status_csv_mismatch",
+        "message": "[報告狀態與 CSV 不一致] 台灣 #1：報告狀態為已自動更新，但 CSV 無排放係數列"
+      },
+      {
+        "id": "10",
+        "country": "印度",
+        "kind": "attachment_unparsed",
+        "message": "[附件已下載但未解析係數] 印度 #10：已下載 1 個附件，但狀態為 update_detected 且未解析出排放係數"
+      },
+      {
+        "id": "10",
+        "country": "印度",
+        "kind": "discovery_missed",
+        "message": "[已發現來源卻未產出係數] 印度 #10：已發現來源（年份 2025）但 CSV 無對應排放係數"
+      },
+      {
+        "id": "22",
+        "country": "加拿大",
+        "kind": "attachment_unparsed",
+        "message": "[附件已下載但未解析係數] 加拿大 #22：已下載 1 個附件，但狀態為 update_detected 且未解析出排放係數"
+      },
+      {
+        "id": "1",
+        "country": "台灣",
+        "kind": "producer_reviewer_disagreement",
+        "message": "[產出摘要與 CSV 不一致] 台灣 #1：產出摘要記錄 3 列，但 CSV 無對應列"
+      }
+    ]
+  },
+  "maintainer": null,
+  "disclaimer": "產出與規則式驗收未達共識，以下 9 項請人工核對；產出仍已發佈供查閱。"
+}

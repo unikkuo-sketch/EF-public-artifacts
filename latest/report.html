@@ -143,6 +143,20 @@ main {
 .badge-failed { background: #fef2f2; color: #b91c1c; border-color: #fecaca; }
 .badge-muted { background: #f4f4f5; color: #52525b; border-color: #e4e4e7; }
 .badge-year { background: #fffbeb; color: #92400e; border-color: #fde68a; }
+.consensus-banner {
+  margin: 0 auto 1rem;
+  max-width: 64rem;
+  padding: 1rem 1.25rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  border: 1px solid var(--border);
+}
+.consensus-pass { background: #ecfdf5; border-color: #a7f3d0; }
+.consensus-fail { background: #fff7ed; border-color: #fed7aa; }
+.consensus-title { margin: 0; }
+.consensus-note { margin: 0.5rem 0 0; color: #52525b; }
+.consensus-failures { margin: 0.5rem 0 0 1.25rem; padding: 0; color: #52525b; }
+.discovery-hint { display: block; margin-top: 0.125rem; font-size: 0.75rem; font-weight: 400; color: var(--muted); }
 .muted { margin: 0.5rem 0 0; font-size: 0.875rem; color: #52525b; }
 .mt { margin: 0.75rem 0 0; font-size: 0.875rem; }
 .link { color: var(--link); text-decoration: none; }
@@ -188,23 +202,24 @@ footer {
   <header>
     <div class="header-inner">
       <h1>排放係數檢查報告</h1>
-      <p class="meta"><span>執行日 2026/06/26</span><span>監測 42 國</span><span>需關注 42 則</span><span>待確認 3 則</span></p>
+      <p class="meta"><span>執行日 2026/07/10</span><span>監測 42 國</span><span>需關注 31 則</span><span>待確認 4 則</span></p>
     </div>
   </header>
+  <aside class="consensus-banner consensus-fail"><p class="consensus-title"><strong>共識狀態：</strong>未達共識</p><p class="consensus-note">產出與規則式驗收未達共識，以下 9 項請人工核對；產出仍已發佈供查閱。</p><ul class="consensus-failures"><li>[報告狀態待確認] 韓國 #3：status=failed: 無可用候選 URL</li><li>[報告狀態待確認] 菲律賓 #9：status=update_detected: 發現可能更新：Resource CSV seed URL（未能自動解析係數）</li><li>[報告狀態待確認] 印度 #10：status=update_detected: 發現可能更新：Configured direct data file（未能自動解析係數）</li><li>[報告狀態待確認] 加拿大 #22：status=update_detected</li><li>[報告狀態與 CSV 不一致] 台灣 #1：報告狀態為已自動更新，但 CSV 無排放係數列</li><li>[附件已下載但未解析係數] 印度 #10：已下載 1 個附件，但狀態為 update_detected 且未解析出排放係數</li><li>[已發現來源卻未產出係數] 印度 #10：已發現來源（年份 2025）但 CSV 無對應排放係數</li><li>[附件已下載但未解析係數] 加拿大 #22：已下載 1 個附件，但狀態為 update_detected 且未解析出排放係數</li></ul></aside>
   <nav>
-    <div class="nav-inner"><button type="button" class="tab active" data-tab="all">本次結果<span class="count">(42)</span></button>
-<button type="button" class="tab" data-tab="discovery">待確認<span class="count">(3)</span></button>
+    <div class="nav-inner"><button type="button" class="tab active" data-tab="all">本次結果<span class="count">(31)</span></button>
+<button type="button" class="tab" data-tab="discovery">待確認<span class="count">(4)</span></button>
 <button type="button" class="tab" data-tab="year">年分已寫回</button>
-<button type="button" class="tab" data-tab="status">各國一覽<span class="count">(42)</span></button></div>
+<button type="button" class="tab" data-tab="status">各國一覽<span class="count">(31)</span></button></div>
   </nav>
   <main>
     <div id="panel-all" class="panel active"><div class="stack"><article class="card">
   <h2 class="card-label">執行摘要</h2>
   <dl class="summary-grid">
-    <div><dt>執行時間</dt><dd>2026/06/26</dd></div>
+    <div><dt>執行時間</dt><dd>2026/07/10</dd></div>
     <div><dt>資料異動</dt><dd>是</dd></div>
-    <div><dt>待確認</dt><dd>3 則</dd></div>
-    <div><dt>已自動更新</dt><dd>39 國</dd></div>
+    <div><dt>待確認</dt><dd>4 則</dd></div>
+    <div><dt>已自動更新</dt><dd>27 國</dd></div>
     <div class="span-2"><dt>產出 CSV</dt><dd><a class="link mono" href="EF_output.csv">EF_output.csv</a></dd></div>
   </dl>
 </article><article class="card">
@@ -401,14 +416,6 @@ footer {
 </article>
 <article class="card">
   <div class="card-head">
-    <h3>馬爾他</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://www.eea.europa.eu/en/analysis/indicators/greenhouse-gas-emission-intensity-of-1/greenhouse-gas-emission-intensity-of-electricity-generation/@@download/file" target="_blank" rel="noopener noreferrer">Greenhouse gas emission intensity of electricity generation, country level</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
     <h3>賽普勒斯</h3>
     <span class="badge badge-auto">已自動更新</span>
   </div>
@@ -425,67 +432,19 @@ footer {
 </article>
 <article class="card">
   <div class="card-head">
-    <h3>台灣</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  <p class="muted">解析 3 種電力排碳係數</p>
-  <p class="mt"><a class="link" href="https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>中國</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  <p class="muted">解析 2 列中國電力係數</p>
-  <p class="mt"><a class="link" href="https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/202512/W020251231726284332528.pdf" target="_blank" rel="noopener noreferrer">2023年电力二氧化碳排放因子</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
     <h3>韓國</h3>
-    <span class="badge badge-auto">已自動更新</span>
+    <span class="badge badge-discovery">待確認</span>
   </div>
+  <p class="muted">無可用候選 URL</p>
   
-  <p class="mt"><a class="link" href="https://www.gir.go.kr/home/board/read.do?pagerOffset=0&amp;maxPageItems=10&amp;maxIndexPages=10&amp;searchKey=&amp;searchValue=&amp;menuId=36&amp;boardId=82&amp;boardMasterId=2&amp;boardCategoryId=&amp;pagerOffset=" target="_blank" rel="noopener noreferrer">2024년 승인 국가 온실가스 배출계수_전력배출계수</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>日本</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://policies.env.go.jp/earth/ghg-santeikohyo/files/calc/r08_denki_coefficient_rev2.pdf" target="_blank" rel="noopener noreferrer">令和８年提出用（PDF:368KB）</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>新加坡</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://www.ema.gov.sg/content/dam/corporate/resources/singapore-energy-statistics/excel/SES_tabular.xlsx.coredownload.xlsx" target="_blank" rel="noopener noreferrer">Tabular Data (, 1 MB)</a></p>
 </article>
 <article class="card">
   <div class="card-head">
     <h3>馬來西亞</h3>
-    <span class="badge badge-discovery">待確認</span>
-  </div>
-  <p class="muted">發現可能更新：Configured direct data file（未能自動解析係數）</p>
-  <p class="mt"><a class="link" href="https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-" target="_blank" rel="noopener noreferrer">Configured direct data file</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>泰國</h3>
     <span class="badge badge-auto">已自動更新</span>
   </div>
   
-  <p class="mt"><a class="link" href="https://thaicarbonlabel.tgo.or.th/index.php?lang=EN&amp;mod=YjNKbllXNXBlbUYwYVc5dVgyVnRhWE56YVc5dQ" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>越南</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://www.climatechange.vn/climate_news/viet-nams-2023-updated-grid-emission-factor-signifies-lower-electricity-emissions/" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
+  <p class="mt"><a class="link" href="https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-" target="_blank" rel="noopener noreferrer">Last successful discovery URL</a></p>
 </article>
 <article class="card">
   <div class="card-head">
@@ -498,42 +457,10 @@ footer {
 <article class="card">
   <div class="card-head">
     <h3>印度</h3>
-    <span class="badge badge-auto">已自動更新</span>
+    <span class="badge badge-discovery">待確認</span>
   </div>
-  
+  <p class="muted">發現可能更新：Configured direct data file（未能自動解析係數）</p>
   <p class="mt"><a class="link" href="https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx" target="_blank" rel="noopener noreferrer">Configured direct data file</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>阿拉伯聯合大公國(杜拜)</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://www.dewa.gov.ae/-/media/Files/Sustainability_Report_Eng_2024_V4.ashx" target="_blank" rel="noopener noreferrer">Configured direct data file</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>瑞士</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://www.strom.ch/de/media/15760/download" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>英國</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  
-  <p class="mt"><a class="link" href="https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx" target="_blank" rel="noopener noreferrer">https://assets.publishing.service.gov.uk/media/6a29392bade52dc0882218a8/ghg-conversion-factors-2026-full-set.xlsx</a></p>
-</article>
-<article class="card">
-  <div class="card-head">
-    <h3>美國</h3>
-    <span class="badge badge-auto">已自動更新</span>
-  </div>
-  <p class="muted">解析 28 個 eGRID 子區 × 3 溫室氣體</p>
-  <p class="mt"><a class="link" href="https://www.epa.gov/system/files/other-files/2025-01/ghg-emission-factors-hub-2025.xlsx" target="_blank" rel="noopener noreferrer">2025 GHG Emission Factors Hub (xlsx)</a></p>
 </article>
 <article class="card">
   <div class="card-head">
@@ -541,20 +468,16 @@ footer {
     <span class="badge badge-discovery">待確認</span>
   </div>
   
-  <p class="mt"><a class="link" href="https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf" target="_blank" rel="noopener noreferrer">Configured fallback URL</a></p>
+  <p class="mt"><a class="link" href="https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
 </article></div></div>
     <div id="panel-discovery" class="panel"><div class="stack"><article class="card card-discovery">
   <div class="card-head">
-    <h3>馬來西亞</h3>
+    <h3>韓國</h3>
     <span class="badge badge-discovery">待確認</span>
   </div>
-  <p class="muted">發現可能更新：Configured direct data file（未能自動解析係數）</p>
-  <dl class="discovery-grid">
-    <div><dt>偵測年份</dt><dd>2022、2024</dd></div>
-    <div><dt>發現方式</dt><dd>source_fallback_file</dd></div>
-    <div><dt>發布日期</dt><dd>2024</dd></div>
-  </dl>
-  <p class="mt"><a class="link" href="https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-" target="_blank" rel="noopener noreferrer">Configured direct data file</a></p>
+  <p class="muted">無可用候選 URL</p>
+  
+  
 </article>
 <article class="card card-discovery">
   <div class="card-head">
@@ -564,10 +487,23 @@ footer {
   <p class="muted">發現可能更新：Resource CSV seed URL（未能自動解析係數）</p>
   <dl class="discovery-grid">
     <div><dt>偵測年份</dt><dd>—</dd></div>
-    <div><dt>發現方式</dt><dd>resource_seed</dd></div>
+    <div><dt>發現方式</dt><dd>資料來源表官方網站<span class="discovery-hint">來自監測清單 CSV 的預設資料來源 URL</span></dd></div>
     
   </dl>
   <p class="mt"><a class="link" href="https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
+</article>
+<article class="card card-discovery">
+  <div class="card-head">
+    <h3>印度</h3>
+    <span class="badge badge-discovery">待確認</span>
+  </div>
+  <p class="muted">發現可能更新：Configured direct data file（未能自動解析係數）</p>
+  <dl class="discovery-grid">
+    <div><dt>偵測年份</dt><dd>2025</dd></div>
+    <div><dt>發現方式</dt><dd>備用資料檔案<span class="discovery-hint">備援 JSON 中的 PDF/XLSX/.ashx 等直連檔</span></dd></div>
+    <div><dt>發布日期</dt><dd>2025</dd></div>
+  </dl>
+  <p class="mt"><a class="link" href="https://cea.nic.in/wp-content/uploads/baseline/2025/12/CO2_Database_V_21.0.xlsx" target="_blank" rel="noopener noreferrer">Configured direct data file</a></p>
 </article>
 <article class="card card-discovery">
   <div class="card-head">
@@ -577,10 +513,10 @@ footer {
   
   <dl class="discovery-grid">
     <div><dt>偵測年份</dt><dd>—</dd></div>
-    <div><dt>發現方式</dt><dd>source_fallback</dd></div>
+    <div><dt>發現方式</dt><dd>資料來源表官方網站<span class="discovery-hint">來自監測清單 CSV 的預設資料來源 URL</span></dd></div>
     
   </dl>
-  <p class="mt"><a class="link" href="https://publications.gc.ca/collections/collection_2025/eccc/En84-294-2025-eng.pdf" target="_blank" rel="noopener noreferrer">Configured fallback URL</a></p>
+  <p class="mt"><a class="link" href="https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
 </article></div></div>
     <div id="panel-year" class="panel"><div class="empty"><p>本次未同步 Resource 年分</p></div></div>
     <div id="panel-status" class="panel"><div class="table-wrap">
@@ -738,12 +674,6 @@ footer {
   <td class="note">—</td>
 </tr>
 <tr>
-  <td class="country">馬爾他</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
   <td class="country">賽普勒斯</td>
   <td><span class="badge badge-auto">已自動更新</span></td>
   <td>是</td>
@@ -756,49 +686,13 @@ footer {
   <td class="note">—</td>
 </tr>
 <tr>
-  <td class="country">台灣</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">解析 3 種電力排碳係數</td>
-</tr>
-<tr>
-  <td class="country">中國</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">解析 2 列中國電力係數</td>
-</tr>
-<tr>
   <td class="country">韓國</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">日本</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">新加坡</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
+  <td><span class="badge badge-discovery">待確認</span></td>
+  <td>否</td>
+  <td class="note">無可用候選 URL</td>
 </tr>
 <tr>
   <td class="country">馬來西亞</td>
-  <td><span class="badge badge-discovery">待確認</span></td>
-  <td>是</td>
-  <td class="note">發現可能更新：Configured direct data file（未能自動解析係數）</td>
-</tr>
-<tr>
-  <td class="country">泰國</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">越南</td>
   <td><span class="badge badge-auto">已自動更新</span></td>
   <td>是</td>
   <td class="note">—</td>
@@ -806,38 +700,14 @@ footer {
 <tr>
   <td class="country">菲律賓</td>
   <td><span class="badge badge-discovery">待確認</span></td>
-  <td>是</td>
+  <td>否</td>
   <td class="note">發現可能更新：Resource CSV seed URL（未能自動解析係數）</td>
 </tr>
 <tr>
   <td class="country">印度</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">阿拉伯聯合大公國(杜拜)</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">瑞士</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">英國</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">—</td>
-</tr>
-<tr>
-  <td class="country">美國</td>
-  <td><span class="badge badge-auto">已自動更新</span></td>
-  <td>是</td>
-  <td class="note">解析 28 個 eGRID 子區 × 3 溫室氣體</td>
+  <td><span class="badge badge-discovery">待確認</span></td>
+  <td>否</td>
+  <td class="note">發現可能更新：Configured direct data file（未能自動解析係數）</td>
 </tr>
 <tr>
   <td class="country">加拿大</td>
@@ -874,24 +744,12 @@ footer {
 <li><a class="link" href="attachments/38_羅馬尼亞/eea_2025.csv" target="_blank" rel="noopener noreferrer">羅馬尼亞 — eea_2025.csv</a></li>
 <li><a class="link" href="attachments/39_保加利亞/eea_2025.csv" target="_blank" rel="noopener noreferrer">保加利亞 — eea_2025.csv</a></li>
 <li><a class="link" href="attachments/40_捷克/eea_2025.csv" target="_blank" rel="noopener noreferrer">捷克 — eea_2025.csv</a></li>
-<li><a class="link" href="attachments/41_馬爾他/eea_2025.csv" target="_blank" rel="noopener noreferrer">馬爾他 — eea_2025.csv</a></li>
 <li><a class="link" href="attachments/42_賽普勒斯/eea_2025.csv" target="_blank" rel="noopener noreferrer">賽普勒斯 — eea_2025.csv</a></li>
 <li><a class="link" href="attachments/43_愛沙尼亞/eea_2025.csv" target="_blank" rel="noopener noreferrer">愛沙尼亞 — eea_2025.csv</a></li>
-<li><a class="link" href="attachments/1_台灣/114年度電力排碳係數.pdf" target="_blank" rel="noopener noreferrer">台灣 — 114年度電力排碳係數.pdf</a></li>
-<li><a class="link" href="attachments/2_中國/W020251231726284332528.pdf" target="_blank" rel="noopener noreferrer">中國 — W020251231726284332528.pdf</a></li>
-<li><a class="link" href="attachments/3_韓國/2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf" target="_blank" rel="noopener noreferrer">韓國 — 2024³â ½ÂÀÎ ±¹°¡ ¿Â½Ç°¡½º ¹èÃâ°è¼ö_Àü·Â¹èÃâ°è¼ö.pdf</a></li>
-<li><a class="link" href="attachments/4_日本/r08_denki_coefficient_rev2.pdf" target="_blank" rel="noopener noreferrer">日本 — r08_denki_coefficient_rev2.pdf</a></li>
-<li><a class="link" href="attachments/5_新加坡/SES_tabular.xlsx.coredownload.xlsx" target="_blank" rel="noopener noreferrer">新加坡 — SES_tabular.xlsx.coredownload.xlsx</a></li>
-<li><a class="link" href="attachments/6_馬來西亞/source_url.txt" target="_blank" rel="noopener noreferrer">馬來西亞 — source_url.txt</a></li>
-<li><a class="link" href="attachments/7_泰國/attachment.pdf" target="_blank" rel="noopener noreferrer">泰國 — attachment.pdf</a></li>
-<li><a class="link" href="attachments/8_越南/IKI Independent Complaint Mechanism ​(IKI ICM).txt" target="_blank" rel="noopener noreferrer">越南 — IKI Independent Complaint Mechanism ​(IKI ICM).txt</a></li>
+<li><a class="link" href="attachments/6_馬來西亞/Grid Emission Factor (GEF) in Malaysia, 2022-2024 (Provisional).pdf" target="_blank" rel="noopener noreferrer">馬來西亞 — Grid Emission Factor (GEF) in Malaysia, 2022-2024 (Provisional).pdf</a></li>
 <li><a class="link" href="attachments/9_菲律賓/source_url.txt" target="_blank" rel="noopener noreferrer">菲律賓 — source_url.txt</a></li>
-<li><a class="link" href="attachments/10_印度/CO2_Database_V_21.0.xlsx" target="_blank" rel="noopener noreferrer">印度 — CO2_Database_V_21.0.xlsx</a></li>
-<li><a class="link" href="attachments/11_阿拉伯聯合大公國(杜拜)/Sustainability_Report_Eng_2024_V4.pdf" target="_blank" rel="noopener noreferrer">阿拉伯聯合大公國(杜拜) — Sustainability_Report_Eng_2024_V4.pdf</a></li>
-<li><a class="link" href="attachments/15_瑞士/attachment.txt" target="_blank" rel="noopener noreferrer">瑞士 — attachment.txt</a></li>
-<li><a class="link" href="attachments/18_英國/ghg-conversion-factors-2026-full-set.xlsx" target="_blank" rel="noopener noreferrer">英國 — ghg-conversion-factors-2026-full-set.xlsx</a></li>
-<li><a class="link" href="attachments/21_美國/ghg-emission-factors-hub-2025.xlsx" target="_blank" rel="noopener noreferrer">美國 — ghg-emission-factors-hub-2025.xlsx</a></li>
-<li><a class="link" href="attachments/22_加拿大/En84-294-2025-eng.pdf" target="_blank" rel="noopener noreferrer">加拿大 — En84-294-2025-eng.pdf</a></li></ul>
+<li><a class="link" href="attachments/10_印度/source_url.txt" target="_blank" rel="noopener noreferrer">印度 — source_url.txt</a></li>
+<li><a class="link" href="attachments/22_加拿大/Chapter 6_ quantifying greenhouse gas sources and sinks in managed forest systems.pdf" target="_blank" rel="noopener noreferrer">加拿大 — Chapter 6_ quantifying greenhouse gas sources and sinks in managed forest systems.pdf</a></li></ul>
 </article></div>
     <footer>Emission Factor Monitor</footer>
   </main>
