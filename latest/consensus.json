@@ -2,7 +2,7 @@
   "consensus": false,
   "rounds": 1,
   "producer": {
-    "runAt": "2026-07-24T13:25:19.731Z",
+    "runAt": "2026-08-07T12:51:09.784Z",
     "manifestFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/producer-manifest.json"
   },
   "reviewer": {
@@ -15,22 +15,10 @@
         "message": "[報告狀態待確認] 菲律賓 #9：status=update_detected: 發現可能更新：Resource CSV seed URL（未能自動解析係數）"
       },
       {
-        "id": "22",
-        "country": "加拿大",
-        "kind": "report_status",
-        "message": "[報告狀態待確認] 加拿大 #22：status=update_detected"
-      },
-      {
         "id": "1",
         "country": "台灣",
         "kind": "status_csv_mismatch",
         "message": "[報告狀態與 CSV 不一致] 台灣 #1：報告狀態為已自動更新，但 CSV 無排放係數列"
-      },
-      {
-        "id": "22",
-        "country": "加拿大",
-        "kind": "attachment_unparsed",
-        "message": "[附件已下載但未解析係數] 加拿大 #22：已下載 1 個附件，但狀態為 update_detected 且未解析出排放係數"
       },
       {
         "id": "1",
@@ -41,5 +29,5 @@
     ]
   },
   "maintainer": null,
-  "disclaimer": "產出與規則式驗收未達共識，以下 5 項請人工核對；產出仍已發佈供查閱。"
+  "disclaimer": "產出與規則式驗收未達共識，以下 3 項請人工核對；產出仍已發佈供查閱。"
 }
