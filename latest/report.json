@@ -1,9 +1,9 @@
 {
-  "runAt": "2026-08-07T12:51:09.784Z",
+  "runAt": "2026-08-21T12:35:02.572Z",
   "biweeklySlot": true,
   "skippedBiweekly": false,
   "hasUpdates": true,
-  "needsReviewCount": 0,
+  "needsReviewCount": 1,
   "discoveryAlertCount": 1,
   "results": [
     {
@@ -1477,7 +1477,7 @@
       "status": "auto",
       "hasUpdate": false,
       "parsed": {
-        "contentHash": "aba6ab2ad9aec59e",
+        "contentHash": "20b8eb4d02daffb6",
         "html": "[70907 bytes omitted]",
         "detectedDataYear": "2025",
         "detectedFactor": 0.467,
@@ -1551,7 +1551,7 @@
         "url": "https://www.moeaea.gov.tw/ecw/populace/content/SubMenu.aspx?menu_id=114",
         "title": "Last successful discovery URL",
         "method": "snapshot_sticky",
-        "contentHash": "aba6ab2ad9aec59e"
+        "contentHash": "20b8eb4d02daffb6"
       }
     },
     {
@@ -1635,45 +1635,13 @@
         "sourceUrl": "https://www.gir.go.kr/home/board/list.do?menuId=36&boardId=82&boardMasterId=2&boardCategoryId=",
         "currentDataYear": "2020-2022"
       },
-      "status": "auto",
+      "status": "failed",
       "hasUpdate": false,
-      "parsed": {
-        "contentHash": "207ca4df9dea23fe",
-        "html": "[436971 bytes omitted]",
-        "detectedDataYear": "2020-2022",
-        "detectedFactor": 0.4541,
-        "announcementYear": 2025,
-        "sourceOrg": "Greenhouse Gas Inventory and Research Center of Korea",
-        "confidence": "high"
-      },
-      "outputRows": [
-        {
-          "id": "",
-          "greenhouseGas": "CO2",
-          "displayNameZh": "韓國國家電力係數-2020-2022",
-          "displayNameEn": "Korea Electricity-2020-2022",
-          "emissionFactor": "0.4541",
-          "unitDenominator": "度(kWh)",
-          "unitNumerator": "公斤(kg)",
-          "announcementYear": "2025",
-          "source": "Greenhouse Gas Inventory and Research Center of Korea",
-          "regionCode": "KR",
-          "lifecycleScope": "大門到大門",
-          "inventoryStart": "2020/1/1",
-          "inventoryEnd": "2022/12/31",
-          "techDescZh": "取自Greenhouse Gas Inventory and Research Center of Korea公告之韓國國家電力係數",
-          "techDescEn": "Taken from the national power factor announced by Greenhouse Gas Inventory and Research Center of Korea.",
-          "exclusions": "",
-          "notes": ""
-        }
-      ],
+      "parsed": null,
+      "outputRows": [],
       "resourceYearUpdate": null,
-      "discovery": {
-        "url": "https://www.gir.go.kr/home/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=36&boardId=82&boardMasterId=2&boardCategoryId=&pagerOffset=",
-        "title": "Last successful discovery URL",
-        "method": "snapshot_sticky",
-        "contentHash": "207ca4df9dea23fe"
-      }
+      "message": "無可用候選 URL",
+      "discovery": null
     },
     {
       "resource": {
@@ -1876,8 +1844,8 @@
       "status": "auto",
       "hasUpdate": false,
       "parsed": {
-        "contentHash": "2c00bf8d3dd95c3f",
-        "html": "[336086 bytes omitted]",
+        "contentHash": "93902a59b3aed2a0",
+        "html": "[336119 bytes omitted]",
         "detectedDataYear": "2022-2024",
         "detectedFactor": 0.475,
         "announcementYear": 2026,
@@ -1910,7 +1878,7 @@
         "url": "https://thaicarbonlabel.tgo.or.th/index.php?lang=EN&mod=YjNKbllXNXBlbUYwYVc5dVgyVnRhWE56YVc5dQ",
         "title": "Last successful discovery URL",
         "method": "snapshot_sticky",
-        "contentHash": "2c00bf8d3dd95c3f"
+        "contentHash": "93902a59b3aed2a0"
       }
     },
     {
@@ -1926,8 +1894,8 @@
       "status": "auto",
       "hasUpdate": false,
       "parsed": {
-        "contentHash": "3d06def9731df2ce",
-        "html": "[315279 bytes omitted]",
+        "contentHash": "d0176ff12dcd1ac6",
+        "html": "[315280 bytes omitted]",
         "detectedDataYear": "2023",
         "detectedFactor": 0.6592,
         "announcementYear": 2024,
@@ -1960,7 +1928,7 @@
         "url": "https://www.climatechange.vn/climate_news/viet-nams-2023-updated-grid-emission-factor-signifies-lower-electricity-emissions/",
         "title": "Last successful discovery URL",
         "method": "snapshot_sticky",
-        "contentHash": "3d06def9731df2ce"
+        "contentHash": "d0176ff12dcd1ac6"
       }
     },
     {
@@ -1989,7 +1957,7 @@
           "resourceId": "9",
           "country": "菲律賓",
           "filename": "source_url.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-07/9_菲律賓/source_url.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-21/9_菲律賓/source_url.txt",
           "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
           "format": "text"
         }
@@ -3837,8 +3805,8 @@
       "status": "auto",
       "hasUpdate": true,
       "parsed": {
-        "contentHash": "a25154546ab42599",
-        "html": "[98163 bytes omitted]",
+        "contentHash": "601a6df9023a94f8",
+        "html": "[97795 bytes omitted]",
         "detectedDataYear": "2026",
         "detectedFactor": null,
         "announcementYear": 2026,
@@ -4080,14 +4048,14 @@
         "url": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
         "title": "Last successful discovery URL",
         "method": "snapshot_sticky",
-        "contentHash": "a25154546ab42599"
+        "contentHash": "601a6df9023a94f8"
       },
       "savedAttachments": [
         {
           "resourceId": "22",
           "country": "加拿大",
           "filename": "source_url.txt",
-          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-07/22_加拿大/source_url.txt",
+          "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-21/22_加拿大/source_url.txt",
           "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
           "format": "text"
         }
@@ -4095,14 +4063,14 @@
     }
   ],
   "resourceYearChanges": [],
-  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-08-07.csv",
+  "outputFile": "/home/runner/work/emissionfactor/emissionfactor/data/output/EF_output_2026-08-21.csv",
   "reportFile": null,
   "attachmentFiles": [
     {
       "resourceId": "9",
       "country": "菲律賓",
       "filename": "source_url.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-07/9_菲律賓/source_url.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-21/9_菲律賓/source_url.txt",
       "sourceUrl": "https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202",
       "format": "text"
     },
@@ -4110,7 +4078,7 @@
       "resourceId": "22",
       "country": "加拿大",
       "filename": "source_url.txt",
-      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-07/22_加拿大/source_url.txt",
+      "localPath": "/home/runner/work/emissionfactor/emissionfactor/data/attachments/2026-08-21/22_加拿大/source_url.txt",
       "sourceUrl": "https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html",
       "format": "text"
     }
