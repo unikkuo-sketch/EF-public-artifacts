@@ -202,41 +202,33 @@ footer {
   <header>
     <div class="header-inner">
       <h1>排放係數檢查報告</h1>
-      <p class="meta"><span>執行日 2026/08/21</span><span>監測 42 國</span><span>需關注 3 則</span><span>待確認 2 則</span></p>
+      <p class="meta"><span>執行日 2026/09/04</span><span>監測 42 國</span><span>需關注 2 則</span><span>待確認 1 則</span></p>
     </div>
   </header>
-  <aside class="consensus-banner consensus-fail"><p class="consensus-title"><strong>共識狀態：</strong>未達共識</p><p class="consensus-note">產出與規則式驗收未達共識，以下 4 項請人工核對；產出仍已發佈供查閱。</p><ul class="consensus-failures"><li>[報告狀態待確認] 韓國 #3：status=failed: 無可用候選 URL</li><li>[報告狀態待確認] 菲律賓 #9：status=update_detected: 發現可能更新：Resource CSV seed URL（未能自動解析係數）</li><li>[報告狀態與 CSV 不一致] 台灣 #1：報告狀態為已自動更新，但 CSV 無排放係數列</li><li>[產出摘要與 CSV 不一致] 台灣 #1：產出摘要記錄 3 列，但 CSV 無對應列</li></ul></aside>
+  <aside class="consensus-banner consensus-fail"><p class="consensus-title"><strong>共識狀態：</strong>未達共識</p><p class="consensus-note">產出與規則式驗收未達共識，以下 3 項請人工核對；產出仍已發佈供查閱。</p><ul class="consensus-failures"><li>[報告狀態待確認] 菲律賓 #9：status=needs_review: 【需人工確認】菲律賓係數需人工確認</li><li>[報告狀態與 CSV 不一致] 台灣 #1：報告狀態為已自動更新，但 CSV 無排放係數列</li><li>[產出摘要與 CSV 不一致] 台灣 #1：產出摘要記錄 3 列，但 CSV 無對應列</li></ul></aside>
   <nav>
-    <div class="nav-inner"><button type="button" class="tab active" data-tab="all">本次結果<span class="count">(3)</span></button>
-<button type="button" class="tab" data-tab="discovery">待確認<span class="count">(2)</span></button>
+    <div class="nav-inner"><button type="button" class="tab active" data-tab="all">本次結果<span class="count">(2)</span></button>
+<button type="button" class="tab" data-tab="discovery">待確認<span class="count">(1)</span></button>
 <button type="button" class="tab" data-tab="year">年分已寫回</button>
-<button type="button" class="tab" data-tab="status">各國一覽<span class="count">(3)</span></button></div>
+<button type="button" class="tab" data-tab="status">各國一覽<span class="count">(2)</span></button></div>
   </nav>
   <main>
     <div id="panel-all" class="panel active"><div class="stack"><article class="card">
   <h2 class="card-label">執行摘要</h2>
   <dl class="summary-grid">
-    <div><dt>執行時間</dt><dd>2026/08/21</dd></div>
+    <div><dt>執行時間</dt><dd>2026/09/04</dd></div>
     <div><dt>資料異動</dt><dd>是</dd></div>
-    <div><dt>待確認</dt><dd>2 則</dd></div>
+    <div><dt>待確認</dt><dd>1 則</dd></div>
     <div><dt>已自動更新</dt><dd>1 國</dd></div>
     <div class="span-2"><dt>產出 CSV</dt><dd><a class="link mono" href="EF_output.csv">EF_output.csv</a></dd></div>
   </dl>
 </article><article class="card">
   <div class="card-head">
-    <h3>韓國</h3>
-    <span class="badge badge-discovery">待確認</span>
-  </div>
-  <p class="muted">無可用候選 URL</p>
-  
-</article>
-<article class="card">
-  <div class="card-head">
     <h3>菲律賓</h3>
     <span class="badge badge-discovery">待確認</span>
   </div>
-  <p class="muted">發現可能更新：Resource CSV seed URL（未能自動解析係數）</p>
-  <p class="mt"><a class="link" href="https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
+  <p class="muted">【需人工確認】菲律賓係數需人工確認</p>
+  <p class="mt"><a class="link" href="https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202" target="_blank" rel="noopener noreferrer">Last successful discovery URL</a></p>
 </article>
 <article class="card">
   <div class="card-head">
@@ -248,25 +240,16 @@ footer {
 </article></div></div>
     <div id="panel-discovery" class="panel"><div class="stack"><article class="card card-discovery">
   <div class="card-head">
-    <h3>韓國</h3>
-    <span class="badge badge-discovery">待確認</span>
-  </div>
-  <p class="muted">無可用候選 URL</p>
-  
-  
-</article>
-<article class="card card-discovery">
-  <div class="card-head">
     <h3>菲律賓</h3>
     <span class="badge badge-discovery">待確認</span>
   </div>
-  <p class="muted">發現可能更新：Resource CSV seed URL（未能自動解析係數）</p>
+  <p class="muted">【需人工確認】菲律賓係數需人工確認</p>
   <dl class="discovery-grid">
     <div><dt>偵測年份</dt><dd>—</dd></div>
-    <div><dt>發現方式</dt><dd>資料來源表官方網站<span class="discovery-hint">來自監測清單 CSV 的預設資料來源 URL</span></dd></div>
+    <div><dt>發現方式</dt><dd>沿用上輪網址<span class="discovery-hint">沿用上次成功抓取的公告網址（略過重新搜尋）</span></dd></div>
     
   </dl>
-  <p class="mt"><a class="link" href="https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202" target="_blank" rel="noopener noreferrer">Resource CSV seed URL</a></p>
+  <p class="mt"><a class="link" href="https://doe.gov.ph/announcements/national-grid-emission-factor-2019-202" target="_blank" rel="noopener noreferrer">Last successful discovery URL</a></p>
 </article></div></div>
     <div id="panel-year" class="panel"><div class="empty"><p>本次未同步 Resource 年分</p></div></div>
     <div id="panel-status" class="panel"><div class="table-wrap">
@@ -280,16 +263,10 @@ footer {
       </tr>
     </thead>
     <tbody><tr>
-  <td class="country">韓國</td>
-  <td><span class="badge badge-discovery">待確認</span></td>
-  <td>否</td>
-  <td class="note">無可用候選 URL</td>
-</tr>
-<tr>
   <td class="country">菲律賓</td>
   <td><span class="badge badge-discovery">待確認</span></td>
-  <td>否</td>
-  <td class="note">發現可能更新：Resource CSV seed URL（未能自動解析係數）</td>
+  <td>是</td>
+  <td class="note">【需人工確認】菲律賓係數需人工確認</td>
 </tr>
 <tr>
   <td class="country">加拿大</td>
